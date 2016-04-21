@@ -1,0 +1,112 @@
+---
+layout: page
+title: Robot Code Directory
+permalink: /robotcode
+
+# This page retrieves data from the generated json present for each team, 
+# and renders it. If you want your team's code added to this list, add it
+# to your team's wiki page, and it will automatically make it here
+
+---
+<!-- TODO: implement filtering, make it look nicer, add short descriptions? -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+<script type="text/javascript">
+// this hack exists because we cannot gather data from all sub repos in liquid, so do it at runtime instead.. 
+var teamdata = [{% for td in site.data.teamdata.teamidx.frc %}{{ td }}{% if forloop.last == false %},{% endif %}{% endfor %}];
+
+var codeJson = [];
+
+function teamUrl(n) {
+    if (n < 1000)
+        t = '0000';
+    else
+        t = Math.floor(n / 1000) * 1000;
+    return '/frc' + t + '/' + n;
+}
+
+function renderTable() {
+    
+    // transform the json into something useful
+    // bucket it by year
+    var codeData = d3.map();
+    
+    for (var i = 0; i < codeJson.length; i++) {
+        var json = codeJson[i];
+        for (var j = 0; j < json.length; j++) {
+            var team = json[j];
+            
+            d3.entries(team.code).forEach(function(e){
+                var year = codeData.get(e.key);
+                if (year === undefined) {
+                    year = [];
+                    codeData.set(e.key, year);
+                }
+                
+                year.push({'team': team.team, 'code': d3.entries(e.value[0])});
+            });
+        }
+    }
+    
+    
+    // for each bucket
+    var buckets = codeData.entries().sort(function(a, b) { return b.key - a.key});
+    
+    for (var i = 0; i < buckets.length; i++) {
+        var bucket = buckets[i];
+        $('#codestuff').append('<h3>' + bucket.key + '</h3>');
+        
+        var table = $('<table></table>').addClass('table');
+        var tbody = $('<tbody></tbody>');
+        var content = '';
+        
+        bucket.value.sort(function(a, b) { return a.team - b.team });
+        
+        bucket.value.forEach(function(team) {
+            
+            content += '<tr><td><a href="' + teamUrl(team.team) + '">' + team.team + '</a></td>';
+            content += '<td><ul>';
+            
+            team.code.forEach(function(e) {
+                content += '<li><a href="' + e.value[0] + '">' + e.key + ' (' + e.value[1] + ')</a></li>'
+            });
+            
+            content += '</ul></td></tr>';
+        });
+        
+        tbody.append(content);
+        table.append(tbody);
+        
+        $('#codestuff').append(table);
+    }    
+}
+
+$(document).ready(function(){
+    // load all of the robot code data from JSON files in the various repos..
+    for (var i = 0; i < teamdata.length; i++) {
+        $.getJSON("/frc" + teamdata[i] + "/robotcode.json", function(data){
+            codeJson.push(data);
+        }).fail(function() {
+            codeJson.push([]);
+            $('#codestuff').append('<div class="alert alert-danger" role="alert">Error loading data!</div>');
+        }).always(function(){
+            var progress = (codeJson.length/teamdata.length)*100;
+            $('#loading').css('width', progress + '%');
+            
+            if (codeJson.length == teamdata.length) {
+                renderTable();
+                $('#loadcontainer').hide();
+            }
+        });
+    }
+});
+
+</script>
+
+<div id="loadcontainer" class="progress progress-striped active">
+   <div id="loading" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+       Loading...
+    </div>
+</div>
+
+<div id="codestuff">
+</div>
