@@ -12,7 +12,7 @@ permalink: /robotcode
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
 <script type="text/javascript">
 // this hack exists because we cannot gather data from all sub repos in liquid, so do it at runtime instead.. 
-var teamdata = [{% for td in site.data.teamdata.teamidx.frc %}{{ td }}{% if forloop.last == false %},{% endif %}{% endfor %}];
+var teamdata = [{% for td in site.data.teamdata.teamidx.frc %}'{{ td }}'{% if forloop.last == false %},{% endif %}{% endfor %}];
 
 var codeJson = [];
 
