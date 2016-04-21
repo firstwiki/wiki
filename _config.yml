@@ -21,6 +21,7 @@ title:            FIRSTwiki
 tagline:          The FIRST Robotics encyclopedia
 paginate:         5
 safe:             false
+excerpt_separator: ""
 
 data_dir:         _common/_data
 includes_dir:     _common/_includes
