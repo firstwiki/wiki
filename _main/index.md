@@ -5,11 +5,11 @@ permalink: /
 
 {% include stub %}
 
-* [History](history/)
-* [People](people/)
+* [History](history)
+* [People](people)
 
-* [Non technical subjects](nontech/)
-* [Technical subjects](tech/)
+* [Non technical subjects](nontech)
+* [Technical subjects](tech)
 
 
 Additional links:
