@@ -1,8 +1,9 @@
 ---
 title: Dean Kamen
-layout: stub
 ---
+
+{% include stub %}
 
 Dean Kamen is the founder of [FIRST](first).
 
-{% include wikipedia.html topic="Dean Kamen" %}
+{% include wikilink topic="Dean Kamen" %}

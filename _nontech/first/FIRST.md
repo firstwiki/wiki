@@ -1,6 +1,5 @@
 ---
 title: FIRST
-layout: page
 slug: FIRST
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Mascots
-layout: stub
 ---
+
+{% include stub %}
 
 Mascots are the the teams physical representation of their teams logo. Commonly
 a robot, animal, or a various creature/object. Although they don't fill an

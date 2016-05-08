@@ -1,0 +1,5 @@
+---
+title: CAN
+---
+
+{% include stub %}

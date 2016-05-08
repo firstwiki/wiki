@@ -1,8 +1,9 @@
 ---
-layout: stub
 title: /wiki/
 permalink: /
 ---
+
+{% include stub %}
 
 * [History](history/)
 * [People](people/)

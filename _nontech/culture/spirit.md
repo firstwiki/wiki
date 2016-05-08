@@ -1,7 +1,8 @@
 ---
 title: Spirit
-layout: stub
 ---
+
+{% include stub %}
 
 **Spirit** is organized enthusiasm. 
 

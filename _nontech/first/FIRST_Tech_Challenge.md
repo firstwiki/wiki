@@ -1,7 +1,8 @@
 ---
-layout: stub
 title: FIRST Tech Challenge
 ---
+
+{% include stub %}
 
 The **FIRST Tech Challenge** (or **FTC**) is a robotics competition aimed at
 middle school and high school ages. Due to the fact that participating in the

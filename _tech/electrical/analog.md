@@ -1,0 +1,5 @@
+---
+title: Analog
+---
+
+{% include stub %}

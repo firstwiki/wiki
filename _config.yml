@@ -51,3 +51,38 @@ collections:
     output: true
     permalink: /:slug
 
+#
+# Defaults to make it easy to contribute new content
+#
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "history"
+    values:
+      layout: page
+  - 
+    scope:
+      path: ""
+      type: "main"
+    values:
+      layout: page
+  - 
+    scope:
+      path: ""
+      type: "nontech"
+    values:
+      layout: page
+  - 
+    scope:
+      path: ""
+      type: "people"
+    values:
+      layout: page
+  - 
+    scope:
+      path: ""
+      type: "tech"
+    values:
+      layout: page

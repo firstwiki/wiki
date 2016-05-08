@@ -1,7 +1,8 @@
 ---
 title: FIRST culture
-layout: stub
 ---
+
+{% include stub %}
 
 The **FIRST subculture** is based largely on the idea of [gracious
 professionalism](gracious-professionalism), extending from the more general [FIRST

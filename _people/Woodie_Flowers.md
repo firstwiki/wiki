@@ -1,8 +1,9 @@
 ---
 title: Woodie Flowers
-layout: stub
 ---
+
+{% include stub %}
 
 Woodie Flowers helped to start [FIRST](first).
 
-{% include wikipedia.html topic="Woodie Flowers" %}
+{% include wikilink topic="Woodie Flowers" %}
