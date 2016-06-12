@@ -1,6 +1,6 @@
 ---
-title: Pnuematic Cylinder
-tags: pnuematics
+title: Pneumatic Cylinder
+tags: pneumatics
 ---
 
 A **pneumatic cylinder** is a [pneumatics](pneumatics) part that converts air
