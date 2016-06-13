@@ -1,5 +1,6 @@
 ---
 title: CIM Motor
+tags: motor
 ---
 
 {% include outdated-warning %}
@@ -26,7 +27,7 @@ Max Efficiency | 45.0           | 4614        | 19.8        | 154        | 65%
 Max Power      | 171.7          | 2655        | 67.9        | 337        | 41%
 Stall          | 343.4          | 0           | 133.0       | 0          | 0%
 
-## By year
+## Kit of Parts
 
 ### 2011
 

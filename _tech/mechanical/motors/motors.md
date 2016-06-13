@@ -17,3 +17,12 @@ For determining the efficacy of a motor in performing a certain task, there are 
 
 Data about motors previously provided to [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition") participant [teams](team) can be found at the individual motor pages.
+
+## Motors
+
+{% assign docs = site['tech'] %}
+{% include by_tag collection=docs tag="motor" %}
+
+## Obsolete Motors
+
+{% include by_tag collection=docs tag="obsoletemotor" %}
