@@ -2,6 +2,9 @@
 title: Digital
 ---
 
+{% include stub %}
+{% include wikilink topic="Digital" %}
+
 A **digital** signal is a signal that is intended to be used in discrete
 increments. It is different from an [analog](analog)
 signal which does not have any discrete value assigned to it but has the

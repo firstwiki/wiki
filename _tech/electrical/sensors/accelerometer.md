@@ -2,6 +2,8 @@
 title: Accelerometer
 ---
 
+{% include wikilink topic="Accelerometer" %}
+
 An accelerometer is an electromechanical device that will measure acceleration forces. These forces may be static, like the constant force of gravity pulling at your feet, or they could be dynamic - caused by moving or vibrating the accelerometer.
 
 ## Uses

@@ -4,6 +4,7 @@ tag: sensors
 ---
 
 {% include cleanup %}
+{% include wikilink topic="Potentiometer" %}
 
 A **potentiometer**, also called a **pot**, is an analog sensor that changes resistance in
 proportion to the position of its shaft. Potentiometers can found in rotary or

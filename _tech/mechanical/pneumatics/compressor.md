@@ -3,6 +3,8 @@ title: Air Compressor
 tags: pneumatics
 ---
 
+{% include wikilink topic="Air compressor" %}
+
 An **air compressor** is a [pneumatics](pneumatics)
 component used to compress air for powering pneumatics systems.
 
