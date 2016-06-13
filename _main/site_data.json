@@ -1,0 +1,4 @@
+---
+layout: blank
+---
+{% include site_data.json %}
