@@ -2,6 +2,8 @@
 title: Mecanum Wheels
 ---
 
+{% include wikilink topic="Mecanum wheel" %}
+
 **Mecanum wheels** are drive wheels with free spinning rollers set around the circumference at some angle (typically 45 degrees) to the wheel faces to change the direction of the force resulting from the interaction between the wheel and the floor. Mecanum wheels are used in sets of 4 with one pair having its rollers skewed clockwise and the other pair counter clockwise. Identical wheels are placed diagonally opposite from each other such that the front left is identical to the back right and the back left is identical to the front right, the resulting drive base is capable of holonomic locomotion. 
 
 
@@ -22,7 +24,7 @@ and are more expensive as a result.
 
 ## Programming
 
-Programming Mecanum drivetrains was once a complex task that required decent
+Programming mecanum drivetrains was once a complex task that required decent
 knowledge of vectors and physics, however, in recent years, Mecanum sample
 code has been made available to teams making the capability more accessible to
 teams.
