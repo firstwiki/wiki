@@ -1,5 +1,6 @@
 ---
 title: WPILib
+tags: programming
 ---
 
 {% include stub %}

@@ -1,5 +1,6 @@
 ---
 title: PID Controller
+tags: programming
 ---
 
 A **Proportional-Integral-Derivative controller** is a [closed loop](closed-loop) [feedback](feedback) control. It is used to get some device to reach a _setpoint_ by reacting based on the [error](error) of the system. The [program](programming) reads in [input](input) from a [sensor](sensor) and reacts based on the difference between the sensor reading and the setpoint (the desired sensor reading) in three ways.

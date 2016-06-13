@@ -1,5 +1,6 @@
 ---
 title: Open Loop
+tags: programming
 ---
 
 {% include stub %}

@@ -1,5 +1,6 @@
 ---
 title: Dead Reckoning
+tags: programming
 ---
 
 {% include stub %}
