@@ -22,5 +22,4 @@ at this signal).
 
 ## External Links
 
-  * [Explanation of PWM Signals](http://www.powerdesignersusa.com/InfoWeb/design_center/articles/PWM/pwm.shtm "http://www.powerdesignersusa.com/InfoWeb/design_center/articles/PWM/pwm.shtm" )
-
+  * [Explanation of PWM Signals](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
