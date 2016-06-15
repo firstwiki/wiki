@@ -33,10 +33,30 @@ Another LED is state is the fault state. This is when the Talon blinks it's LED 
 * Over temperature (>170 degrees C)
 * A shorted output transistor.
 
-During a fault the output of the Talon is disabled until the fault condition is no longer present. This fault state is only present on the newer Talon SR, not the older Talon model.
+During a fault the output of the Talon is disabled until the fault condition is no longer present. This fault state is only present on the newer Talon SR, not the older Talon model. The last LED state is flashing red/green, which is enabled during calibration.
+
+### Calibration
+
+You can calibrate the Talon if the controller isn't properly responding to PWM inputs. Do the following if any of the following symptoms are occurring:
+
+* Neutral on joystick not stopping the motor (solid yellow LED)
+* Full throttle on joystick not doing the same on controller (Not solid LEDs when maxed on joystick)
+* Maxing out throttle on controller (solid LED) before joystick fully maxed.
+
+The calibration process will reset the maximum, minimum, and middle PWM values. Follow the follow steps to calibrate your Talon:
+
+1. Using a paper clip or other small pointed stick, press and hold the red button near the label "CAL". The LED should begin to flash red/green, meaning you've enabled calibration mode.
+2. Keeping the CAL button pressed down, move your joystick or other input device to the maximum and minimum input. Do this as many times that you think you need to fully get the maximum and minimum fully.
+3. Move the joystick back to it's center position on the axis that controls the Talon, and release the CAL button.
+4. If successful, the LED will blink green several times. The calibration may fail, resulting in the flashing on the LED red several times. In this case, the Talon will used the last valid calibration values.
+
+Calibration values are stored in memory after power cycles or resets, and the defaults are set for most standard FRC compatible joysticks.
+
 
 ## Programming
 
 
 
 ## History
+
+The Talon was originally introduced for the 2013 season in mid 2012 for off-season testing and beta team testing. They were made legal in the 2013 season. After the 2013 season, CTR electronics, the manufacturers, noticed a few issues and decided to fix these in a new, updated, motor controller called the Talon SR. There were very few changes to this new model. One of them was the introduction of Synchronous sign magnitude rectification. This is a change that doesn't change much in the driving style of the Talon, but should make it run colder. The LED status lights were also changed slightly. In 2015, they were discontinued for the advent on the new [Talon SRX](talon-srx). As of the 2016 season, they are still legal motor controllers. 
