@@ -1,5 +1,6 @@
 ---
 title: Servo
+tags: aux-cs
 ---
 
 {% include wikilink topic="Servomechanism" %}

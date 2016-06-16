@@ -1,5 +1,7 @@
 ---
 title: Accelerometer
+tags:
+- sensors
 ---
 
 {% include wikilink topic="Accelerometer" %}

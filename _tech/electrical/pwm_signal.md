@@ -1,5 +1,6 @@
 ---
 title: PWM Signal
+tags: communication
 ---
 
 {% include stub %}

@@ -1,5 +1,6 @@
 ---
 title: Analog
+tags: communication
 ---
 
 {% include stub %}

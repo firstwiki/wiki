@@ -1,5 +1,6 @@
 ---
 title: Circuit Breaker
+tags: aux-cs
 ---
 
 {% include stub %}

@@ -1,5 +1,6 @@
 ---
 title: PWM Cable
+tags: communication
 ---
 
 {% include outdated-warning %}
