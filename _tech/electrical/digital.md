@@ -1,5 +1,6 @@
 ---
 title: Digital
+tags: communication
 ---
 
 {% include stub %}

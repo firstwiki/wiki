@@ -1,5 +1,6 @@
 ---
 title: Spike Relay
+tags: aux-cs
 ---
 
 
@@ -57,4 +58,3 @@ have red lettering. These are older editions of the relay and lack reverse
 polarity protection on their inputs. In addition, when no control signal is
 present, the M+ and M- pins are connected to +12 instead of GND (So a 0 in
 software is +12, and a 1 in software is a GND)
-

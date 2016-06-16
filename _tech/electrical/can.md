@@ -1,5 +1,6 @@
 ---
 title: CAN
+tags: communication
 ---
 
 {% include stub %}

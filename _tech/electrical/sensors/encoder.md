@@ -1,6 +1,6 @@
 ---
 title: Encoder
-tag: sensors
+tag: sensor
 ---
 
 An incremental encoder (aka a "wheel encoder") is a device that when rotated sends out a series of digital signals that signify intervals in rotation of the shaft with which the encoder is connected.
