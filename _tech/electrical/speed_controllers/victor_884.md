@@ -108,4 +108,3 @@ forward and reverse resolutions).
 Note that a neutral PWM command to a factory calibrated Victor consists of a
 pulse of about 1.5 ms duration. As such, when no PWM input is applied, the
 Victor will detect this and flash it's LEDs yellow.
-
