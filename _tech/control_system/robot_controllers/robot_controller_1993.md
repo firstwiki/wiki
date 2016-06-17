@@ -1,5 +1,5 @@
 ---
-title: Robot Controller (1996)
+title: Robot Controller (1993)
 tags: robot-controllers
 ---
 
