@@ -8,8 +8,6 @@ project:
   sourcecode: https://github.com/Open-RIO
 ---
 
-{% include stub %}
-
 [OpenRIO](https://github.com/Open-RIO) is an open source, collaborative organisation that provides APIs, Frameworks, Examples and other Software Utilities for FRC teams and members around the world. The organisation is best known for its work on the [Toast API](https://github.com/Open-RIO/ToastAPI) and [GradleRIO](https://github.com/Open-RIO/GradleRIO). Although in the early years of OpenRIO the Java programming language was primarily used, other languages such as C and C++ have also gained traction in future and existing projects.
 
 ## Mission Statement
