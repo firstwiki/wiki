@@ -16,6 +16,14 @@ tags: programming
 #
 
 ---
+
+<style>
+    .pre-defined-filter li:not(.picked) .glyphicon-ok {
+        display: none;
+    }
+</style>
+
+
 <!-- TODO: implement filtering, make it look nicer, add short descriptions? -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
 <script type="text/javascript">
@@ -32,7 +40,48 @@ function teamUrl(n) {
     return '/frc' + t + '/' + n;
 }
 
-function renderTable() {
+function filterTeam(filters, year, team, code) {
+
+    function intersection(a, b) {
+        a = a.map(function(v) { return v.toLowerCase(); });
+        b = b.map(function(v) { if(typeof v !== 'undefined') return v.toLowerCase(); });
+        return a.filter(function(v) {
+            return b.indexOf(v) > -1;
+        });
+    }
+
+    code = code || {};
+    filters = filters || {};
+    ['language', 'year', 'team', 'codeType'].forEach(function(f) {
+        if (typeof filters[f] === 'undefined') {
+            filters[f] = [];
+        } else if (!(filters[f] instanceof Array)) {
+            filters[f] = [filters[f]];
+        }
+    });
+
+    // Filter by year (2003, 2016)
+    if (filters.year.length > 0 && filters.year.indexOf(year.toLowerCase()) < 0) return true;
+
+    // Filter by team number
+    if (filters.team.length > 0 && filters.team.indexOf(team.team.toString()) < 0) return true;
+
+    // Filter by code type
+    var codeType = Object.keys(code);
+    if (filters.codeType.length > 0 && intersection(filters.codeType, codeType).length === 0) return true;
+
+    // Filter by language
+    var language = codeType
+        .map(function(t) { return code[t][1]; })
+        .filter(function(t) { return typeof(t) !== 'undefined' && t !== null; });
+
+    if (filters.language.length > 0 && intersection(filters.language, language).length === 0) return true;
+
+    return false;
+}
+
+function renderTable(filters) {
+    $('#codestuff').html('');
     
     // transform the json into something useful
     // bucket it by year
@@ -44,7 +93,13 @@ function renderTable() {
             var team = json[j];
             
             d3.entries(team.code).forEach(function(e){
+
                 var year = codeData.get(e.key);
+
+                if (filterTeam(filters, e.key, team, e.value[0])) {
+                    return;
+                }
+
                 if (year === undefined) {
                     year = [];
                     codeData.set(e.key, year);
@@ -54,7 +109,6 @@ function renderTable() {
             });
         }
     }
-    
     
     // for each bucket
     var buckets = codeData.entries().sort(function(a, b) { return b.key - a.key});
@@ -109,6 +163,203 @@ $(document).ready(function(){
 });
 
 </script>
+
+
+<script>
+$(document).ready(function(){
+
+    var filters = {
+        year: [],
+        language: [],
+        team: [],
+        codeType: []
+    };
+
+    $('.dropdown-menu').on('click', function(ev){
+        ev.stopPropagation();
+    });
+
+    function preDefinedFilter($filter, filterName) {
+        $filter.find('li').on('click', function(ev) {
+            var $el = $(this);
+            $el.toggleClass('picked');
+            var filterValues = [];
+            $filter.find('li.picked').each(function(ev) {
+                filterValues.push($(this).attr('data-filter-value'));
+            });
+            filters[filterName] = filterValues;
+            console.log(filters);
+            renderTable(filters);
+        });
+    }
+
+    preDefinedFilter($('.language-filter'), 'language');
+    preDefinedFilter($('.code-type-filter'), 'codeType');
+
+    function userDefinedFilter($filter, filterName) {
+        var $addFilterValueInput = $filter.find('input[name=addFilterValue]');
+        var $addFilterValueForm = $filter.find('.add-filter-value-form');
+        $addFilterValueForm.on('submit', function(ev) {
+            ev.preventDefault();
+            var filterValues = [];
+
+            $filter.find('[data-filter-value]').each(function() {
+                filterValues.push($(this).attr('data-filter-value'));  
+            });
+            var filterValue = $addFilterValueInput.val();
+            if (filterValues.indexOf(filterValue) < 0) {
+                $('<li data-filter-value="' + filterValue + '" style="margin: 5px 10px;">' +
+                    '<span>' + filterValue + '<a style="line-height: .8;" class="close">&times;</a></span>' +
+                '</li>').appendTo($filter);
+                filterValues.push(filterValue);
+                $addFilterValueInput.val('');
+            }
+            filters[filterName] = filterValues;
+            renderTable(filters);
+        });
+        $filter.on('click', '[data-filter-value] .close', function(ev) {
+            var $filterValue = $(this).parents('[data-filter-value]');
+            var filterValue = $filterValue.attr('data-filter-value');
+            $filterValue.remove();
+            var valueIndex = filters[filterName].indexOf(filterValue);
+            if (valueIndex > -1) {
+                filters[filterName].splice(valueIndex, 1);
+            }
+            renderTable(filters);
+        });
+    }
+
+
+    userDefinedFilter($('.year-filter'), 'year');
+    userDefinedFilter($('.team-filter'), 'team');
+
+
+
+});
+</script>
+
+
+<span>Filter By: </span>
+
+<!-- Year Filter -->
+<div class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Year <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu user-defined-filter year-filter">
+    <li style="margin: 0 5px 0 6px;">
+        <div class="input-group">
+            <form class="add-filter-value-form">
+                <input type="input" class="form-control" name="addFilterValue" placeholder="Add Year" style="width: 105px;">
+                <span class="input-group-btn">
+                    <button class="btn btn-default add-filter-value-button" type="submit">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                    </button>
+                </span>
+            </form>
+        </div>
+    </li>
+  </ul>
+</div>
+
+<!-- Language Filter -->
+<div class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Language <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu pre-defined-filter language-filter">
+    <li class="" data-filter-value="java">
+        <a href="#">
+            Java<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="c++">
+        <a href="#">
+            C++<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="labview">
+        <a href="#">
+            LabVIEW<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="python">
+        <a href="#">
+            Python<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="javascript">
+        <a href="#">
+            JavaScript<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="arduino">
+        <a href="#">
+            Arduino<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="c">
+        <a href="#">
+            C<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="d">
+        <a href="#">
+            D<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+  </ul>
+</div>
+
+<!-- Team Number Filter -->
+<div class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Team <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu user-defined-filter team-filter">
+    <li style="margin: 0 5px 0 6px;">
+        <div class="input-group">
+            <form class="add-filter-value-form">
+                <input type="input" class="form-control" name="addFilterValue" placeholder="Add Team" style="width: 105px;">
+                <span class="input-group-btn">
+                    <button class="btn btn-default add-filter-value-button" type="submit">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                    </button>
+                </span>
+            </form>
+        </div>
+    </li>
+  </ul>
+</div>
+
+<div class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Code Type <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu pre-defined-filter code-type-filter">
+    <li class="" data-filter-value="robot">
+        <a href="#">
+            Robot<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="vision">
+        <a href="#">
+            Vision<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="dashboard">
+        <a href="#">
+            Dashboard<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="" data-filter-value="scouting">
+        <a href="#">
+            Scouting<span style="float: right" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        </a>
+    </li>
+  </ul>
+</div>
+
 
 <div id="loadcontainer" class="progress progress-striped active">
    <div id="loading" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
