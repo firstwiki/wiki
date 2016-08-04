@@ -6,6 +6,6 @@ tags: programming
 {% include stub %}
 {% include cleanup %}
 
-**Dead reckoning** refers to a [robot](robot) operating without awareness of how the environment around it is changing. In [FIRST](first), it typically refers to the method of [programming](programming) the [autonomous mode](autonomous-mode), and generally refers to a robot that does not use any [sensors](sensor) for the autonomous mode. However, that is not entirely accurate. A robot using [encoders](encoder) could be considered _dead reckoning_.
+**Dead reckoning** refers to a system operating without awareness of its absolute position. Instead, path integration is used based on a previous known location. In [FIRST](first), [robots](robot) may use dead reckoning if they do not have [sensors](sensor) to measure absolute position (for example, rangefinders). Dead reckoning can be used in [autonomous mode](autonomous-mode) to track approximate robot field position for autonomous operations. Accuracy depends on the rate of the integration loop as well as the accuracy of the [sensors](sensor), and error accumulates over time.
 
-A dead reckoning robot lacks the ability to respond to a changing environment. However, by not using sensors, dead reckoning robots can operate much faster and still be consistent (although that could easily be consistently wrong).
+One method of dead reckoning uses a [gyroscope](gyroscope) and [encoders](encoder) to track 2D field position. On each step, the robot can integrate its current position from its starting position by advancing the position by the change in the [encoder](encoder) value in the direction measured by the [gyroscope](gyroscope) value.
