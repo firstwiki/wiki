@@ -40,6 +40,72 @@ function teamUrl(n) {
     return '/frc' + t + '/' + n;
 }
 
+var filters = {
+    year: [],
+    language: [],
+    team: [],
+    codeType: []
+};
+
+
+function preDefinedFilter($filter, filterName) {
+    $filter.find('li').on('click', function(ev) {
+        var $el = $(this);
+        $el.toggleClass('picked');
+        var filterValues = [];
+        $filter.find('li.picked').each(function(ev) {
+            filterValues.push($(this).attr('data-filter-value'));
+        });
+        filters[filterName] = filterValues;
+        renderTable(filters);
+    });
+    $filter.find('li').each(function() {
+        var $el = $(this);
+        var filterValue = $el.attr('data-filter-value');
+        var filterCountQuery = {};
+        filterCountQuery[filterName] = filterValue;
+        $el.find('a span').before(' <span class="badge">' + getFilterCount(filterCountQuery) + '</span>');
+    });
+}
+
+
+function userDefinedFilter($filter, filterName) {
+    var $addFilterValueInput = $filter.find('input[name=addFilterValue]');
+    var $addFilterValueForm = $filter.find('.add-filter-value-form');
+    $addFilterValueForm.on('submit', function(ev) {
+        ev.preventDefault();
+        var filterValues = [];
+
+        $filter.find('[data-filter-value]').each(function() {
+            filterValues.push($(this).attr('data-filter-value'));  
+        });
+        var filterValue = $addFilterValueInput.val();
+        var filterCountQuery = {};
+        filterCountQuery[filterName] = filterValue;
+        if (filterValues.indexOf(filterValue) < 0) {
+            $('<li data-filter-value="' + filterValue + '" style="margin: 5px 10px;">' +
+                '<span>' + filterValue +
+                    ' <span class="badge">' + getFilterCount(filterCountQuery) + '</span>' +
+                    '<a style="line-height: .8;" class="close">&times;</a></span>' +
+            '</li>').appendTo($filter);
+            filterValues.push(filterValue);
+            $addFilterValueInput.val('');
+        }
+        filters[filterName] = filterValues;
+        renderTable(filters);
+    });
+    $filter.on('click', '[data-filter-value] .close', function(ev) {
+        var $filterValue = $(this).parents('[data-filter-value]');
+        var filterValue = $filterValue.attr('data-filter-value');
+        $filterValue.remove();
+        var valueIndex = filters[filterName].indexOf(filterValue);
+        if (valueIndex > -1) {
+            filters[filterName].splice(valueIndex, 1);
+        }
+        renderTable(filters);
+    });
+}
+
 function filterTeam(filters, year, team, code) {
 
     function intersection(a, b) {
@@ -80,6 +146,27 @@ function filterTeam(filters, year, team, code) {
     return false;
 }
 
+function getFilterCount(filters) {
+    var counter = 0;
+    var codeData = d3.map();
+    for (var i = 0; i < codeJson.length; i++) {
+        var json = codeJson[i];
+        for (var j = 0; j < json.length; j++) {
+            var team = json[j];
+            
+            d3.entries(team.code).forEach(function(e){
+
+                var year = codeData.get(e.key);
+                if (!filterTeam(filters, e.key, team, e.value[0])) {
+                    counter++;
+                }
+            });
+        }
+    }
+    return counter;
+} 
+
+
 function renderTable(filters) {
     $('#codestuff').html('');
     
@@ -115,7 +202,7 @@ function renderTable(filters) {
     
     for (var i = 0; i < buckets.length; i++) {
         var bucket = buckets[i];
-        $('#codestuff').append('<h3>' + bucket.key + '</h3>');
+        $('#codestuff').append('<h3>' + bucket.key + ' <span class="badge">' + bucket.value.length + '</span></h3>');
         
         var table = $('<table></table>').addClass('table');
         var tbody = $('<tbody></tbody>');
@@ -157,6 +244,10 @@ $(document).ready(function(){
             if (codeJson.length == teamdata.length) {
                 renderTable();
                 $('#loadcontainer').hide();
+                preDefinedFilter($('.language-filter'), 'language');
+                preDefinedFilter($('.code-type-filter'), 'codeType');
+                userDefinedFilter($('.year-filter'), 'year');
+                userDefinedFilter($('.team-filter'), 'team');
             }
         });
     }
@@ -167,74 +258,9 @@ $(document).ready(function(){
 
 <script>
 $(document).ready(function(){
-
-    var filters = {
-        year: [],
-        language: [],
-        team: [],
-        codeType: []
-    };
-
     $('.dropdown-menu').on('click', function(ev){
         ev.stopPropagation();
     });
-
-    function preDefinedFilter($filter, filterName) {
-        $filter.find('li').on('click', function(ev) {
-            var $el = $(this);
-            $el.toggleClass('picked');
-            var filterValues = [];
-            $filter.find('li.picked').each(function(ev) {
-                filterValues.push($(this).attr('data-filter-value'));
-            });
-            filters[filterName] = filterValues;
-            console.log(filters);
-            renderTable(filters);
-        });
-    }
-
-    preDefinedFilter($('.language-filter'), 'language');
-    preDefinedFilter($('.code-type-filter'), 'codeType');
-
-    function userDefinedFilter($filter, filterName) {
-        var $addFilterValueInput = $filter.find('input[name=addFilterValue]');
-        var $addFilterValueForm = $filter.find('.add-filter-value-form');
-        $addFilterValueForm.on('submit', function(ev) {
-            ev.preventDefault();
-            var filterValues = [];
-
-            $filter.find('[data-filter-value]').each(function() {
-                filterValues.push($(this).attr('data-filter-value'));  
-            });
-            var filterValue = $addFilterValueInput.val();
-            if (filterValues.indexOf(filterValue) < 0) {
-                $('<li data-filter-value="' + filterValue + '" style="margin: 5px 10px;">' +
-                    '<span>' + filterValue + '<a style="line-height: .8;" class="close">&times;</a></span>' +
-                '</li>').appendTo($filter);
-                filterValues.push(filterValue);
-                $addFilterValueInput.val('');
-            }
-            filters[filterName] = filterValues;
-            renderTable(filters);
-        });
-        $filter.on('click', '[data-filter-value] .close', function(ev) {
-            var $filterValue = $(this).parents('[data-filter-value]');
-            var filterValue = $filterValue.attr('data-filter-value');
-            $filterValue.remove();
-            var valueIndex = filters[filterName].indexOf(filterValue);
-            if (valueIndex > -1) {
-                filters[filterName].splice(valueIndex, 1);
-            }
-            renderTable(filters);
-        });
-    }
-
-
-    userDefinedFilter($('.year-filter'), 'year');
-    userDefinedFilter($('.team-filter'), 'team');
-
-
-
 });
 </script>
 
