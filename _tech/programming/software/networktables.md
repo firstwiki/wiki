@@ -28,7 +28,7 @@ NetworkTables v1 was introduced in 2011.
 NetworkTables v2 was introduced in 2013. It got rid of transactions, and
 introduced complex types such as array types.
 
-NetworkTables v3 was introduced in 2015, and the Java/C++ libraries were
+NetworkTables v3 was introduced in 2016, and the Java/C++ libraries were
 completely rewritten.
 
 ## Implementations
