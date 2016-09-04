@@ -37,6 +37,5 @@ Pneumatics is a system in which pressurized gases (air in the case of FIRST), ar
 
 ## Components
 
-{% assign docs = site['tech'] %}
-{% include by_tag collection=docs tag="pneumatics" %}
+{% include by_tag collection=site.tech tag="pneumatics" %}
 

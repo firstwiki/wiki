@@ -20,9 +20,8 @@ Competition") participant [teams](team) can be found at the individual motor pag
 
 ## Motors
 
-{% assign docs = site['tech'] %}
-{% include by_tag collection=docs tag="motor" %}
+{% include by_tag collection=site.tech tag="motor" %}
 
 ## Obsolete Motors
 
-{% include by_tag collection=docs tag="obsoletemotor" %}
+{% include by_tag collection=site.tech tag="obsoletemotor" %}

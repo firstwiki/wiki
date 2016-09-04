@@ -6,16 +6,16 @@ The Electrical system is consisted up of everything that gets controlled by the 
 
 ## [Speed Controllers](speed-controller)
 
-{% assign docs = site['tech'] %} {% include by_tag collection=docs tag="speed-controller" %}
+{% include by_tag collection=site.tech tag="speed-controller" %}
 
 ## [Sensors](sensor)
 
-{% assign docs = site['tech'] %} {% include by_tag collection=docs tag="sensors" %}
+{% include by_tag collection=site.tech tag="sensors" %}
 
 ## Communication
 
-{% assign docs = site['tech'] %} {% include by_tag collection=docs tag="communication" %}
+{% include by_tag collection=site.tech tag="communication" %}
 
 ## Auxiliary Control System
 
-{% assign docs = site['tech'] %} {% include by_tag collection=docs tag="aux-cs" %}
+{% include by_tag collection=site.tech tag="aux-cs" %}
