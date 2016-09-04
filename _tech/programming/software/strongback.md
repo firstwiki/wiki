@@ -1,6 +1,6 @@
 ---
 title: Strongback (Framework)
-tags: programming unofficial-software framework
+tags: programming community-software framework
 
 layout: software_project
 project:

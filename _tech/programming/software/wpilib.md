@@ -1,6 +1,11 @@
 ---
 title: WPILib
-tags: programming
+tags: programming frc-official-software software
+
+layout: software_project
+project:
+  name: WPILib
+  sourcecode: https://github.com/wpilibsuite/allwpilib
 ---
 
 {% include stub %}

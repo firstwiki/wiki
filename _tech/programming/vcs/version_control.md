@@ -1,6 +1,6 @@
 ---
 title: Version Control
-tags: programming
+tags: programming cots-software
 ---
 
 {% include stub %}
@@ -11,5 +11,4 @@ even be important enough for someone to write an article here about it.
 
 ## Topics
 
-{% assign docs = site['tech'] %}
-{% include by_tag collection=docs tag="vcs" %}
+{% include by_tag collection=site.tech tag="vcs" %}

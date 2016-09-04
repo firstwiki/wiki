@@ -1,6 +1,6 @@
 ---
 title: mjpg-streamer
-tags: programming unofficial-software
+tags: programming cots-software software
 project:
   name: mjpg-streamer
   sourcecode: https://github.com/robotpy/mjpg-streamer

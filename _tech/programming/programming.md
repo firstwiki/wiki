@@ -9,8 +9,7 @@ title: Programming
 
 ## Programming topics on FIRSTwiki
 
-{% assign docs = site['tech'] %}
-{% include by_tag collection=docs tag="programming" %}
+{% include by_tag collection=site.tech tag="programming" %}
 
 ## See also
 
