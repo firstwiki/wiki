@@ -1,5 +1,5 @@
 ---
 title: FIRST Stronghold
-category: FRC_Game
+category: FRC_Games
 ---
 {% include TODO %}
