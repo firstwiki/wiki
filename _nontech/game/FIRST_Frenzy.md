@@ -1,5 +1,5 @@
 ---
-title: FIRST Frenzy: Raising the Bar
+title: FIRST Frenzy\: Raising the Bar
 tags: frc_games
 ---
 {% include TODO %}
