@@ -6,12 +6,12 @@ FIRSTwiki: wiki site
 FIRSTwiki is an open-content encyclopedia about the FIRST Robotics Competition,
 designed to provide a useful resource for all aspects of the FIRST community.
 Following the tenets of gracious professionalism, members contribute back to the
-community by recording useful information that other members can benefit from. 
+community by recording useful information that other members can benefit from.
 
 FIRSTwiki is a different kind of wiki, hosted on github pages instead of on a
 traditional wiki platform. See http://firstwiki.github.io/docs/contributing
 for more information. It's unclear how well this form of wiki will work, but
-it's worth the experiment. :) 
+it's worth the experiment. :)
 
 About this repository
 ---------------------
@@ -37,6 +37,9 @@ Once that is done, you can start the site using the following shell script:
 
     ./run_server.sh
 
+
+More information can be found on the [`_scripts` repository](https://github.com/firstwiki/_scripts)
+
 Legal
 =====
 
@@ -44,4 +47,3 @@ All content on FIRSTwiki is available via the [GNU Free Documentation License 1.
 
 This is a community project and is not directly associated with or endorsed by
 the [FIRST Robotics Competition](http://www.firstinspires.org/).
-
