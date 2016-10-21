@@ -1,5 +1,27 @@
 ---
 title: FIRST Stronghold
-category: frc_games
+tags: frc_games
 ---
 {% include TODO %}
+
+## Game Overview
+
+
+
+### Field
+
+
+
+### Game Play
+
+
+
+### Scoring
+
+
+
+## Season Schedule
+
+
+
+## Robots
