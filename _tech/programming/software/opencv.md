@@ -21,3 +21,6 @@ successfully in competition.
 * [roborio-opencv](https://github.com/robotpy/roborio-opencv): Compiled OpenCV
   distribution for the [RoboRIO](roborio)
 
+### Related Video Tutorials
+
+* [Machine Vision with the Raspberry Pi | TE Sessions 2016](https://www.youtube.com/watch?v=ZNIlhVzC-4g)
