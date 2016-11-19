@@ -5,11 +5,6 @@ tags: frc_games
 {% include TODO %}
 
 {% include wikilink topic="Aim High" %}
-# Aim High
-
-## From FIRSTwiki
-
-Jump to: navigation, search
 
 ## Index of FRC Games
 
@@ -35,7 +30,7 @@ Jump to: navigation, search
 - 1993 [Rug Rage](Rug_Rage "Rug Rage")
 - 1992 [Maize Craze](Maize_Craze "Maize Craze")
 
-**Aim High** was the name of the 2006 season [FIRST](first) [game](FRC_Games "FRC Games").
+**Aim High** was the name of the 2006 season [FIRST](first) [game](frc-games "FRC Games").
 
 ## Contents
 
@@ -57,14 +52,6 @@ Jump to: navigation, search
 
 ## Game Description
 
-[![Aim High](/media/thumb/0/02/250px-Aim_High_Logo.png/200px-250px-
-Aim_High_Logo.png)](Image:250px-Aim_High_Logo.png "Aim High")
-
-[![Enlarge](/skins/common/images/magnify-clip.png)](Image:250px-
-Aim_High_Logo.png "Enlarge")
-
-Aim High
-
 Aim High is played by two alliances, red and blue, each consisting of three robots. During a 10 second autonomous mode, robots will be programmed to score into any of the three goals: one raised center goal marked by a green vision target and two corner goals at floor level. At the end of the autonomous period, the alliance with the most points will gain a 10 point bonus and will be placed on defense for round two. Rounds two, three, and four, which are each 40 seconds long, are human-controlled rounds. Between rounds two and three, the alliances will switch from offense to defense, or from defense to offense accordingly. At the start of round 4, any alliance can score into their corresponding goals. At the end of the match, an alliance can receive bonus points by placing its three robots on a platform below the center goal. The alliance with the most points wins. Scoring will be as follows: 3 points for any ball scored in the center goal, 1 point for any ball scored in the corner goals; 10 bonus points for scoring the highest in the autonomous round; and 25 points for placing all 3 robots on the platform at the end (10 for 2 and 5 for 1).
 
 ### Game Hint
@@ -72,40 +59,22 @@ Aim High is played by two alliances, red and blue, each consisting of three robo
 FIRST sent this e-mail blast:
 
 > Greetings Teams:
-
 >
-
 > The Game Design Committee is pleased to provide you with the following game clue:
-
 >
-
 > ```
 > five 'bots tangling with pasta
-
 > a game piece obsessed with a shovel's show
-
 > and seeing Montana's green heights
  ```
-
 >
-
 > We wish you all a Happy Holiday Season and look forward to seeing you at Kickoff.
-
 >
-
 > Go Teams!
 
 ## Field Layout
 
 The Aim High field has 6 goals and 2 platforms. Unlike previous years, an alliance's goals are on the far side of the field. The field is flat, measuring 54 feet long by 26 feet wide.
-
-[![ARENA '06](/media/thumb/c/c5/ARENA06.jpg/200px-
-ARENA06.jpg)](Image:ARENA06.jpg "ARENA '06")
-
-[![Enlarge](/skins/common/images/magnify-
-clip.png)](Image:ARENA06.jpg "Enlarge")
-
-ARENA '06
 
 ### Alliance Station
 
@@ -124,7 +93,7 @@ After the lunch break, the finals take place. This is a standard-elimination tou
 There were several changes in the [kit of parts](Kit_of_parts "Kit
 of parts") this year,
 
-- The inclusion of the [National Instruments](/index.php?title=National_Instruments&action=edit "National Instruments") [LabVIEW](LabVIEW "LabVIEW") program
+- The inclusion of the [National Instruments](national-instruments) [LabVIEW](LabVIEW) program
 - CMUCam II, including a pan/tilt assembly with [servos](servo), designed to follow an illuminated target
 - A new robot controller, based on the PIC18F8722, instead of the PIC18F8520
 - New EasyC programming tool
@@ -132,7 +101,7 @@ of parts") this year,
 - New, smaller Window motors
 - A new, smaller and lighter backup battery charger
 - An IR transmitter and reciever (for broken beam detection)
-- And (probably the most surprising) a [digital camera](/index.php?title=Digital_camera&action=edit "Digital camera") and _Picasa_ software supplied by [Google](/index.php?title=Google&action=edit "Google")
+- And (probably the most surprising) a [digital camera](digital-camera) and _Picasa_ software supplied by [Google](google)
 
 ## Rules
 
