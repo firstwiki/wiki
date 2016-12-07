@@ -5,6 +5,7 @@ tags: programming community-software software
 layout: software_project
 project:
   name: QDriverStation
+  website: https://frc-utilities.github.io/
   sourcecode: https://github.com/frc-utilities/QDriverStation
 ---
 
