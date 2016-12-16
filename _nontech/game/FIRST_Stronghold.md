@@ -57,10 +57,10 @@ The points assigned during matches are as shown:
 
 ## Season Schedule
 
-The game was 
+The game was released on January 9th on the official FIRST kickoff. The kickoff not only included the release video, but several skits to inform on the kit of parts, FIRST scholarships and interviews with several FIRST celebrities, including [Woodie Flowers](woodie_flowers) and [Dean Kamen](dean_kamen).
 
 ### Trailer
 
-
+Prior to the official kickoff, the medieval theme was announced in October with a official live stream from GameSense (now the RoboSports Network).
 
 ## Robots
