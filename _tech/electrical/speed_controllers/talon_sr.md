@@ -55,7 +55,25 @@ Calibration values are stored in memory after power cycles or resets, and the de
 
 ## Programming
 
+### Creating a Talon object
 
+To create an instance of a Talon Sr, use the [Talon class](http://first.wpi.edu/FRC/roborio/release/docs/java/edu/wpi/first/wpilibj/Talon.html):
+```java
+import edu.wpi.first.wpilibj.Talon; //Import Talon
+//...
+Talon t = new Talon(0);
+```
+The above example will create a Talon object named `t` connected to PWM channel 0.
+
+### Setting a Talon's motor speed
+
+To set a Talon's motor speed, use the [`set()`](http://first.wpi.edu/FRC/roborio/release/docs/java/edu/wpi/first/wpilibj/Talon.html#set-double-) method:
+```
+Talon t = new Talon(0); //See previous section
+t.set(1.0); //Sets the Talon to max speed
+```
+The speed of the Talon is from -1.0 to 1.0.
+1.0 is full speed forward, and -1.0 is full speed backward.
 
 ## History
 
