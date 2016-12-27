@@ -11,7 +11,7 @@ The Talon SR is a legal FIRST [Speed Controller](speed-controller) to use in the
 
 ### Use
 
-To connect, attach a [PWN cable](pwm-cable) to the PWM port on the Talon and two input wires, 12V and ground, from the [PDB](PDB), and -12v and +12v to the [motor](motors). The PWM cable is tight, this is a feature to keep PWM cables from falling out during matches. To insert, make sure the PWM Cable is straight and a 90 degree angle to the controller and push straight into the three pin port. It's common to catch on the side of the shroud and bend the pins. If this happens, take out the PWM cable, straighten the pins as best as you can, replace the cable if it's un reparable, and attempt again. The polarity **does** matter, and the black cable (or brown) should be near the embossed "B" on the surface. While color doesn't matter in the usual sense, conforming to standards of ground color is useful, especially when debugging or in inspection.
+To connect, attach a [PWM cable](pwm-cable) to the PWM port on the Talon and two input wires, 12V and ground, from the [PDB](PDB), and -12v and +12v to the [motor](motors). The PWM cable is tight, this is a feature to keep PWM cables from falling out during matches. To insert, make sure the PWM Cable is straight and a 90 degree angle to the controller and push straight into the three pin port. It's common to catch on the side of the shroud and bend the pins. If this happens, take out the PWM cable, straighten the pins as best as you can, replace the cable if it's un reparable, and attempt again. The polarity **does** matter, and the black cable (or brown) should be near the embossed "B" on the surface. While color doesn't matter in the usual sense, conforming to standards of ground color is useful, especially when debugging or in inspection.
 
 To insert the motor and input voltages, unscrew the retaining screw, and place your #6 crimps include in the [Kit of Parts](kit-of-parts) inside the contact area. Line up the bolt, and screw it in. The positive terminal on the intake voltage side is labeled with a red "+". The terminal next to it next to the PWM port is the ground connection. Take both these leads to the [PDP](PDP). The opposite side features the motor connections. The terminal closest to the white "M+" figure is the positive motor terminal. This a red wire on [CIM Motors](cim-motor) and [BAG Motors](bag-motor), and a positive terminal on all other motors.
 
@@ -53,9 +53,13 @@ The calibration process will reset the maximum, minimum, and middle PWM values. 
 Calibration values are stored in memory after power cycles or resets, and the defaults are set for most standard FRC compatible joysticks.
 
 
-## Programming
+## Programming links
 
+* [Java and C++ - wpilib programming guide](http://wpilib.screenstepslive.com/s/4485/m/13809/l/599702-driving-motors-with-speed-controller-objects-victors-talons-and-jaguars)
+* [Java - Official documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/edu/wpi/first/wpilibj/Talon.html)
+* [C++ - Official documentation](http://first.wpi.edu/FRC/roborio/release/docs/cpp/classTalon.html)
 
+Note: The first link has programming examples for other motor controllers, such as Victors and Jaguars.
 
 ## History
 
