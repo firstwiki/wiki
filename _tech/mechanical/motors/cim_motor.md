@@ -31,7 +31,7 @@ Stall          | 343.4          | 0           | 133.0       | 0          | 0%
 
 ### 2017
 
-CIM motors have been confirmed as legal in 2017 because they were available via FIRST Choice in round 1.
+Up to 37 (limited by maximum points per team) 2.5" CIM motors are available to veteran teams via FIRST Choice.
 
 ### 2014-2016
 
