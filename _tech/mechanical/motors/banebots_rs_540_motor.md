@@ -3,6 +3,7 @@ title: Banebots motor (M2-RS540-120)
 tags: obsoletemotor
 ---
 
+{% include historical %}
 {% include outdated-warning %}
 
 Stall current (amps) | 42
