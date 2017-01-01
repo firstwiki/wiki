@@ -9,6 +9,10 @@ The Victor 888 was added as a replacement for the Victor 884. It is manufactured
 
 ## Kit of Parts
 
+### 2017
+
+Four Victor 888 controllers are available to veteran teams via FIRST Choice.
+
 ### 2015-2016
 
 Victor 888 controllers are still legal, but none are provided in the KOP.
