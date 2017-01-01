@@ -9,6 +9,10 @@ The Talon SRX was created to replace the Talon and Talon SR. It is legal for use
 
 ## Kit of Parts
 
+### 2017
+
+Four Talon SRX controllers are available to veteran teams via FIRST Choice.
+
 ### 2016
 
 The Talon SRX is legal but is not provided in the KOP.
