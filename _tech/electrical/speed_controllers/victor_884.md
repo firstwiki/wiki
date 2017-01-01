@@ -7,23 +7,22 @@ tags: speed-controller
 {% include outdated-warning %}
 
 The **Victor 884** is a [speed controller](speed-controller) developed by [Innovation FIRST](innovationfirst) as an improved version of the [Victor
-883](victor-883). The Victor 884 works by reading a
+883](victor-883). It has been legal since 2003, longer than any other motor controller. The Victor 884 works by reading a
 [PWM](pwm) signal from a [robot
 controller](robot-controller), and adjusting
 the effective voltage supplied to the motors accordingly. The Victor 884 was
 the only FIRST legal speed controller allowed in the
-[2005](triple-play) [control
-system](control-system).
+2004-2008 [control
+systems](control-system).
 
 
 ## Technical
 
-The Victor 884 was part of the FIRST [control system](control-system).
 The Victor 884 works by recieving a [PWM
 signal](pwm-signal) input from a [robot
 controller](robot-controller), which may
 include the (full) [Robot Controller](robot-controller), the [Robovation](robovation)
-controller or a [Vex](vex) Controller. Depending on the
+controller, a [Vex](vex) Controller. Depending on the
 range of the [PWM](pwm) signal - with 0 being full reverse,
 127 being neutral, and 254 being full forward - the Victor 884 adjusts the
 output of the motor accordingly. This achieves a variable speed control for
@@ -39,11 +38,8 @@ cooled.
 
 ### Use
 
-Although some motors may be run on a [Spike](spike-relay) if desired, the [CIM
-motors](cim-motor) must use a Victor 884 speed controller. The Victor 884 Speed
-Controllers may be wired into either a 30 Amp or 40 Amp fuse on the breaker
-panel depending on the motor being used. Each additional motor on a FIRST
-Competition Robot needs to have a Victor 884 or [Spike relay](spike-relay).
+The Victor 884 Speed Controllers may be wired into either a 30 Amp or 40 Amp fuse on the breaker
+panel depending on the motor being used.
 
 
 ### Coast/Brake
@@ -108,3 +104,25 @@ forward and reverse resolutions).
 Note that a neutral PWM command to a factory calibrated Victor consists of a
 pulse of about 1.5 ms duration. As such, when no PWM input is applied, the
 Victor will detect this and flash it's LEDs yellow.
+
+## Kit of Parts
+
+### 2013-2016
+
+The Victor 884 is legal for use, but is not provided in the KOP.
+
+### 2010-2012
+
+One Victor 884 is provided to rookie teams only.
+
+### 2009
+
+One Victor 884 is provided to all teams. The Jaguar motor controller was added this year.
+
+### 2004-2008
+
+Four Victor 884 controllers are provided in the KOP. The Victor 884 is the only legal controller during this time.
+
+### 2003
+
+The Victor 884 makes its debut in FRC. Four are provided in the KOP. The Victor 883 is still legal.
