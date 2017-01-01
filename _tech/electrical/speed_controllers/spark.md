@@ -1,5 +1,7 @@
 ---
 title: SPARK
+
+tags: speed-controller
 ---
 
 The SPARK is a motor controller designed and sold by REV Robotics. It has PWM inputs for forward and reverse 
