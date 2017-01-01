@@ -51,15 +51,6 @@ When the white wire is at +5V and the red wire is at 0V, M+ receives the full
 input voltage. When the red wire is at +5V and the white wire is at 0V, M-
 receives the full input voltage.
 
-
-#  Spike Red
-
-Occasionally you might see versions of the Spike relay floating around that
-have red lettering. These are older editions of the relay and lack reverse
-polarity protection on their inputs. In addition, when no control signal is
-present, the M+ and M- pins are connected to +12 instead of GND (So a 0 in
-software is +12, and a 1 in software is a GND)
-
 ## Kit of Parts
 
 ### 2015-2016
@@ -85,3 +76,11 @@ Four Spike Relays are provided in the KOP.
 ### 2000
 
 No data.
+
+#  Spike Red
+
+Occasionally you might see versions of the Spike relay floating around that
+have red lettering. These are older editions of the relay and lack reverse
+polarity protection on their inputs. In addition, when no control signal is
+present, the M+ and M- pins are connected to +12 instead of GND (So a 0 in
+software is +12, and a 1 in software is a GND)
