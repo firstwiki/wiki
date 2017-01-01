@@ -69,7 +69,7 @@ Two of the four 2.5" CIM motors were replaced with two larger 3" "mini-bike" mot
 
 Four standard 2.5" motors are included in the KOP.
 
-### 2003 - 2004
+### 2003-2004
 
 Two standard 2.5" motors are included in the KOP, now labeled as CIM Motors in the KOP list.
 
