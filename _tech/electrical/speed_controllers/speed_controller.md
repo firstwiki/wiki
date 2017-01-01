@@ -20,4 +20,5 @@ A Speed Controller, also sometimes called a Motor Controller, is a electronics d
 
 In previous years, the following motor controllers have been legal, but no longer are:
 
+* [Tekin REBEL](tekin-rebel)
 * [Victor 883](victor-883)
