@@ -3,6 +3,7 @@ title: Spike Relay
 tags: aux-cs
 ---
 
+The Spike Relay has been a part of FRC since at least 2001 (no data for 2000). It was provided in all KOPs from 2001 to 2014. It was legal in 2015 and 2016 and will be legal again in 2017.
 
 ## Data
 
@@ -58,3 +59,29 @@ have red lettering. These are older editions of the relay and lack reverse
 polarity protection on their inputs. In addition, when no control signal is
 present, the M+ and M- pins are connected to +12 instead of GND (So a 0 in
 software is +12, and a 1 in software is a GND)
+
+## Kit of Parts
+
+### 2015-2016
+
+The Spike Relay is legal for use, but is not provided in the KOP.
+
+### 2013-2014
+
+One Spike Relay is provided to all teams.
+
+### 2010-2012
+
+One Spike Relay is provided to all teams, with one additional relay provided to rookie teams only.
+
+### 2009
+
+Two Spike Relays are provided in the KOP.
+
+### 2001-2008
+
+Four Spike Relays are provided in the KOP.
+
+### 2000
+
+No data.
