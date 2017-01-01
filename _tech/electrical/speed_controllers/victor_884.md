@@ -3,7 +3,6 @@ title: Victor 884
 tags: speed-controller
 ---
 
-{% include historical %}
 {% include outdated-warning %}
 
 The **Victor 884** is a [speed controller](speed-controller) developed by [Innovation FIRST](innovationfirst) as an improved version of the [Victor
