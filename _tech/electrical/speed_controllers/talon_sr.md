@@ -63,4 +63,22 @@ Note: The first link has programming examples for other motor controllers, such 
 
 ## History
 
-The Talon was originally introduced for the 2013 season in mid 2012 for off-season testing and beta team testing. They were made legal in the 2013 season. After the 2013 season, CTR electronics, the manufacturers, noticed a few issues and decided to fix these in a new, updated, motor controller called the Talon SR. There were very few changes to this new model. One of them was the introduction of Synchronous sign magnitude rectification. This is a change that doesn't change much in the driving style of the Talon, but should make it run colder. The LED status lights were also changed slightly. In 2015, they were discontinued for the advent on the new [Talon SRX](talon-srx). As of the 2016 season, they are still legal motor controllers. 
+The Talon was originally introduced for the 2013 season in mid 2012 for off-season testing and beta team testing. They were made legal in the 2013 season. After the 2013 season, CTR electronics, the manufacturers, noticed a few issues and decided to fix these in a new, updated, motor controller called the Talon SR. There were very few changes to this new model. One of them was the introduction of Synchronous sign magnitude rectification. This is a change that doesn't change much in the driving style of the Talon, but should make it run colder. The LED status lights were also changed slightly. In 2015, they were discontinued for the advent on the new [Talon SRX](talon-srx). As of the 2017 season, they are still legal motor controllers. 
+
+## Kit of Parts
+
+### 2016
+
+Both the Talon and Talon SR are legal for use, but neither are provided in the KOP.
+
+### 2015
+
+Four Talon SR motor controllers are provided in the KOP. The Talon is still legal, but is not provided in the KOP.
+
+### 2014
+
+The Talon SR makes its debut in FRC. The Talon is still legal, but neither are provided in the KOP.
+
+### 2013
+
+The Talon motor controller makes its debut in FRC, but is not provided in the KOP
