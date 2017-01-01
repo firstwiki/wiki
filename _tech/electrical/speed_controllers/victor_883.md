@@ -2,6 +2,7 @@
 title: Victor 883
 ---
 
+{% include historical %}
 {% include stub %}
 
 An older speed controller used in FIRST robotics competitions from 1999 to 2003. This speed controller is not allowed in competition any more and has been replaced by the [Victor 884](victor-884), which has a greater degree of control and a higher current limit. It replaced the Tekin REBEL.
