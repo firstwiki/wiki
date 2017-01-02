@@ -10,4 +10,5 @@ by InnovationFIRST, and later by VEX Robotics. Models include:
 
 * [Victor 883](victor-883)
 * [Victor 884](victor-884)
+* [Victor 888](victor-888)
 * [Victor SP](victor_sp)
