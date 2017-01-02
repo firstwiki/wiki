@@ -3,7 +3,6 @@ title: Victor 884
 tags: speed-controller
 ---
 
-{% include historical %}
 {% include outdated-warning %}
 
 The **Victor 884** is a [speed controller](speed-controller) developed by [Innovation FIRST](innovationfirst) as an improved version of the [Victor
@@ -22,7 +21,7 @@ The Victor 884 works by recieving a [PWM
 signal](pwm-signal) input from a [robot
 controller](robot-controller), which may
 include the (full) [Robot Controller](robot-controller), the [Robovation](robovation)
-controller or a [Vex](vex) Controller. Depending on the
+controller, a [Vex](vex) Controller. Depending on the
 range of the [PWM](pwm) signal - with 0 being full reverse,
 127 being neutral, and 254 being full forward - the Victor 884 adjusts the
 output of the motor accordingly. This achieves a variable speed control for

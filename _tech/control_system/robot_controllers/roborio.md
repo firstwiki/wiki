@@ -126,6 +126,16 @@ This LED acts exactly like the RSL outputs on the bottom left of the roboRIO, an
 ### Panel Buttons
 
 
+## Kit of Parts
+
+### 2016
+
+One RoboRIO is provided to rookie teams only.
+
+### 2015
+
+The RoboRIO makes its debut in FRC with one provided to all teams.
+
 
 ## Further Reading
 [NI roboRIO FRC User Manual](http://www.ni.com/pdf/manuals/374474a.pdf)

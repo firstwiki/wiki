@@ -31,7 +31,7 @@ Stall          | 343.4          | 0           | 133.0       | 0          | 0%
 
 ### 2017
 
-CIM motors have been confirmed as legal in 2017 because they were available via FIRST Choice in round 1.
+Up to 37 (limited by maximum points per team) 2.5" CIM motors are available to veteran teams via FIRST Choice.
 
 ### 2014-2016
 
@@ -69,7 +69,7 @@ Two of the four 2.5" CIM motors were replaced with two larger 3" "mini-bike" mot
 
 Four standard 2.5" motors are included in the KOP.
 
-### 2003 - 2004
+### 2003-2004
 
 Two standard 2.5" motors are included in the KOP, now labeled as CIM Motors in the KOP list.
 
