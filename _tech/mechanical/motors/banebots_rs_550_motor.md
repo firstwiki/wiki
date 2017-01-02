@@ -1,6 +1,6 @@
 ---
 title: Banebots motor (M2-RS550-120)
-tags: obsoletemotor
+tags: motor
 ---
 
 {% include outdated-warning %}
@@ -14,6 +14,18 @@ The RS-550 Banebots motor. The heavier, stronger, slightly larger sibling to the
 
 ## Kit of Parts
 
+### 2012-2016
+
+The RS-550 motor is legal for use but not provided in the KOP.
+
+### 2011
+
+One RS-550 is supplied in the KOP with one RS-540 and one RS-775.
+
+### 2009-2010
+
+The RS-550 is not legal for use.
+
 ### 2008
 
-This motor along with the RS-540 was supplied separately from the packages of parts at pickup.
+One RS-550 along with one RS-540 was supplied separately from the packages of parts at pickup.
