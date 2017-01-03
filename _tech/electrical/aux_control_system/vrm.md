@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: votage_regulator_module
+redirect_to: votage-regulator-module
 ---
