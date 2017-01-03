@@ -1,5 +1,7 @@
 ---
 title: Digital SideCar
+
+tags: aux-cs
 ---
 
 {% include historical %}
