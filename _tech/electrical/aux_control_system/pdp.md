@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: power_distribution_panel
+redirect_to: power-distribution-panel
 ---
