@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: robot-signal-light
+redirect_to: robot_signal_light
 ---
