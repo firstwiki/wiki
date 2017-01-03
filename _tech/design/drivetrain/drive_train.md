@@ -32,9 +32,11 @@ The _four wheel drive_ system is probably the most common drivetrain used in [FI
 
 ### Six Wheel Drive
 
-The _six wheel drive_ (also called "west coast drive") is a moderately common type of drivetrain. It offers a good compromise between traction and maneuverability. Most teams choose to lower the center wheels by approximately 1/8 - 3/16", allowing the robot to turn more easily because normally it has a shortened wheel base but at the same time, can tip over slightly, and enjoy the benefits of a full length wheel base.
+The _six wheel drive_ is a moderately common type of drivetrain. It offers a good compromise between traction and maneuverability. Most teams choose to lower the center wheels by approximately 1/8 - 3/16", allowing the robot to turn more easily because normally it has a shortened wheel base but at the same time, can tip over slightly, and enjoy the benefits of a full length wheel base.
 
 Some six wheel drive robots are in fact four wheel drive robots with an unpowered pair of extra wheels that just act to increase the wheel base for stability. When tipped to the unpowered set, some of its weight is diverted to unpowered wheels and traction is therefore reduced.
+
+A variety of a Six Wheel Drive is the [West Coast Drive](west-coast-drive), unsurprisingly commmonly found on the west coast with teams such as [the Cheesy Poofs](/frc0000/254) and features live axles, open sides and chain linked wheels.
 
 ### Car Drive
 
