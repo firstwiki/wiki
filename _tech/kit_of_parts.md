@@ -13,7 +13,7 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 ## 2002
 [Checklist](https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf "https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf")
 ## 2001
-[All 2001 KOP Files](http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip "http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip") (Secctions 4.1 to 5.4)
+[All 2001 KOP Files](http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip "http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip") (Sections 4.1 to 5.4)
 ## 2000
 [Cover](https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf "https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf")  
 [Table of Contents/Checklist](https://web.archive.org/web/20000829075449/http://www2.usfirst.org/2000comp/KitTOC.pdf "https://web.archive.org/web/20000829075449/http://www2.usfirst.org/2000comp/KitTOC.pdf")  
