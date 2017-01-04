@@ -6,6 +6,8 @@ title: Kit of Parts (FRC)
 
 The Kit of parts is the set of parts, tools, documents, and software given to each team every year. Many of the parts are donated to [FIRST](first) by manufacturers (see [FIRST sponsors](first-sponsors)).
 
+# 2016 Kit of Parts
+
 ## Motors
 
 | Item           | Part Number   | Qty | Rookie Tote? |
