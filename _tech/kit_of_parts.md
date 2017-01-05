@@ -8,7 +8,22 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 
 # Kit of Parts Lists
 
+## 2007
+
+
+## 2006
+[Checklist and Photo Gallery](https://web.archive.org/web/20061214212039/http://www2.usfirst.org/2006comp/other/KOP_CheckList_&_Photos-Rev_A.pdf "https://web.archive.org/web/20061214212039/http://www2.usfirst.org/2006comp/other/KOP_CheckList_&_Photos-Rev_A.pdf")
+
+## 2005
+[Checklist](https://web.archive.org/web/20050520061233/http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf "https://web.archive.org/web/20050520061233/http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf")
+[Photo Album](https://web.archive.org/web/20050207191928/http://www.usfirst.org/robotics/2005/kitpics.htm "https://web.archive.org/web/20050207191928/http://www.usfirst.org/robotics/2005/kitpics.htm")
+[Specifications](https://web.archive.org/web/20050204094539/http://www.usfirst.org/robotics/2005/specsheets.htm "https://web.archive.org/web/20050204094539/http://www.usfirst.org/robotics/2005/specsheets.htm")
+
+## 2004
+[Checklist](https://web.archive.org/web/20040323225928/http://www2.usfirst.org/2004comp/6-TheKit-RevB-incorporated.pdf "https://web.archive.org/web/20040323225928/http://www2.usfirst.org/2004comp/6-TheKit-RevB-incorporated.pdf")
+
 ## 2003
+[Checklist](https://web.archive.org/web/20030315014552/http://www2.usfirst.org/2003comp/The_Robot.pdf "https://web.archive.org/web/20030315014552/http://www2.usfirst.org/2003comp/The_Robot.pdf") (page 28)
 
 ## 2002
 [Checklist](https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf "https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf")
