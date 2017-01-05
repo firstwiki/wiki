@@ -8,8 +8,28 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 
 # Kit of Parts Lists
 
-## 2007
+## 2013
+[Black Tote Checklist](https://web.archive.org/web/20140910152701/http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/BlackToteRevB.pdf "https://web.archive.org/web/20140910152701/http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/BlackToteRevB.pdf")
+[Green Tote (Rookie) Checklist](https://web.archive.org/web/20130402163446/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/GreenTote_0.pdf "https://web.archive.org/web/20130402163446/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/GreenTote_0.pdf")
+[Drive Base Kit Checklist](https://web.archive.org/web/20130415042507/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/AndyMarkDriveBaseKit_0.pdf "https://web.archive.org/web/20130415042507/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/AndyMarkDriveBaseKit_0.pdf")
 
+## 2012
+[Checklist](https://web.archive.org/web/20150915023559/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/KickoffKitChecklistRev_A.pdf "https://web.archive.org/web/20150915023559/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/KickoffKitChecklistRev_A.pdf")
+
+## 2011
+[Checklist](https://web.archive.org/web/20130925075519/http://www.team358.org/history/2011/2011KOPChecklist.pdf "https://web.archive.org/web/20130925075519/http://www.team358.org/history/2011/2011KOPChecklist.pdf")
+
+## 2010
+[Checklist](https://web.archive.org/web/20130403123115/http://www.usfirst.org/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/2010%20Kit%20Of%20Parts%20Checklist_RevC.pdf "https://web.archive.org/web/20130403123115/http://www.usfirst.org/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/2010%20Kit%20Of%20Parts%20Checklist_RevC.pdf")
+
+## 2009
+[Checklist](https://web.archive.org/web/20130403132811/http://www.usfirst.org/uploadedFiles/2009%20KOP%20Checklist%20Rev%20B.pdf "https://web.archive.org/web/20130403132811/http://www.usfirst.org/uploadedFiles/2009%20KOP%20Checklist%20Rev%20B.pdf")
+
+## 2008
+[Checklist](https://web.archive.org/web/20130403094633/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/2008%20KoP%20Checklist-RevB.pdf "https://web.archive.org/web/20130403094633/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/2008%20KoP%20Checklist-RevB.pdf")
+
+## 2007
+[Checklist](https://web.archive.org/web/20130403095038/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/Manual/KOP_Checklist_RevE.pdf "https://web.archive.org/web/20130403095038/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/Manual/KOP_Checklist_RevE.pdf")
 
 ## 2006
 [Checklist and Photo Gallery](https://web.archive.org/web/20061214212039/http://www2.usfirst.org/2006comp/other/KOP_CheckList_&_Photos-Rev_A.pdf "https://web.archive.org/web/20061214212039/http://www2.usfirst.org/2006comp/other/KOP_CheckList_&_Photos-Rev_A.pdf")
