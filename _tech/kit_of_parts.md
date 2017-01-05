@@ -4,7 +4,52 @@ title: Kit of Parts (FRC)
 
 {% include stub %}
 
-The Kit of parts is the set of parts, tools, documents, and software given to each team every year. Many of the parts are donated to [FIRST](first) by manufacturers (see [FIRST sponsors](first-sponsors)).
+The Kit of parts is the set of parts, tools, documents, and software given to each team every year. Many of the parts are donated to [FIRST](first) by manufacturers (see [FIRST sponsors](first-sponsors)). It consists of a tote of items for veterans, a second tote of items for rookie teams, a drive base kit (for teams that did not opt out). It can also contain extra packages and separate items.
+
+# Kit of Parts Lists
+
+## 2003
+
+## 2002
+[Checklist](https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf "https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf")
+## 2001
+[All 2001 KOP Files](http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip "http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip") (Sections 4.1 to 5.4)
+## 2000
+[Cover](https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf "https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf")  
+[Table of Contents/Checklist](https://web.archive.org/web/20000829075449/http://www2.usfirst.org/2000comp/KitTOC.pdf "https://web.archive.org/web/20000829075449/http://www2.usfirst.org/2000comp/KitTOC.pdf")  
+[Gray Container Part 1 Photos](https://web.archive.org/web/20000829075427/http://www.usfirst.org/2000comp/Docs/KitGray1.pdf "https://web.archive.org/web/20000829075427/http://www.usfirst.org/2000comp/Docs/KitGray1.pdf")  
+Gray Container Part 2 Photos  
+[Gray Container Part 3 Photos](https://web.archive.org/web/20000829075505/http://www.usfirst.org/2000comp/Docs/KitGray3.pdf "https://web.archive.org/web/20000829075505/http://www.usfirst.org/2000comp/Docs/KitGray3.pdf")  
+[Gray Container Part 4 Photos](https://web.archive.org/web/20000829075516/http://www.usfirst.org/2000comp/Docs/KitGray4.pdf "https://web.archive.org/web/20000829075516/http://www.usfirst.org/2000comp/Docs/KitGray4.pdf")  
+[Gray Container Part 5 Photos](https://web.archive.org/web/20000829075959/http://www2.usfirst.org/2000comp/KitGray5.pdf "https://web.archive.org/web/20000829075959/http://www2.usfirst.org/2000comp/KitGray5.pdf")  
+[Gray Container Part 6 Photos](https://web.archive.org/web/20000829075922/http://www.usfirst.org/2000comp/Docs/KitGray6.pdf "https://web.archive.org/web/20000829075922/http://www.usfirst.org/2000comp/Docs/KitGray6.pdf")  
+[Gray Container Part 7 Photos](https://web.archive.org/web/20000829075932/http://www.usfirst.org/2000comp/Docs/KitGray7.pdf "https://web.archive.org/web/20000829075932/http://www.usfirst.org/2000comp/Docs/KitGray7.pdf")  
+[Green Container Part 1 Photos](https://web.archive.org/web/20000829075939/http://www.usfirst.org/2000comp/Docs/KitGreen1.pdf "https://web.archive.org/web/20000829075939/http://www.usfirst.org/2000comp/Docs/KitGreen1.pdf")  
+Green Container Part 2 Photos  
+[Green Container Part 3 Photos](https://web.archive.org/web/20000829080014/http://www.usfirst.org/2000comp/Docs/KitGreen3.pdf "https://web.archive.org/web/20000829080014/http://www.usfirst.org/2000comp/Docs/KitGreen3.pdf")
+## 1999
+[Checklist](https://web.archive.org/web/19991003182755/http://www.usfirst.org/1999comp/kickoff/KitChecklist.pdf "https://web.archive.org/web/19991003182755/http://www.usfirst.org/1999comp/kickoff/KitChecklist.pdf")  
+Gray Container Photo Gallery  
+[Green Container Photo Gallery](https://web.archive.org/web/20001003030615/http://www.usfirst.org/1999comp/KitAlbum/GreenContainer.pdf "https://web.archive.org/web/20001003030615/http://www.usfirst.org/1999comp/KitAlbum/GreenContainer.pdf")
+## 1998
+[Rules including KOP](http://team358.org/history/1992-1999/1998GameRules.zip "http://team358.org/history/1992-1999/1998GameRules.zip") (1998therobot.pdf page 2)
+## 1997
+[Rules including KOP](http://team358.org/history/1992-1999/1997GameRules.zip "http://team358.org/history/1992-1999/1997GameRules.zip") (1997therobot.pdf page 10)
+## 1996
+[Checklist](http://team358.org/history/1992-1999/1996_game_rules.pdf "http://team358.org/history/1992-1999/1996_game_rules.pdf") (page 21)  
+## 1995
+[Checklist](http://team358.org/history/1992-1999/95_GameManual.PDF "http://team358.org/history/1992-1999/95_GameManual.PDF") (page 8)  
+## 1994
+## 1993
+[Checklist](http://team358.org/history/1992-1999/1993comp.pdf "http://team358.org/history/1992-1999/1993comp.pdf") (page 18)  
+## 1992
+[Checklist](http://team358.org/history/1992-1999/1992comp.pdf "http://team358.org/history/1992-1999/1992comp.pdf") (page 10)  
+
+
+
+
+
+# 2016 Kit of Parts
 
 ## Motors
 
