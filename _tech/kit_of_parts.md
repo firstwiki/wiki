@@ -15,8 +15,8 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 [Checklist and Photo Gallery](https://web.archive.org/web/20061214212039/http://www2.usfirst.org/2006comp/other/KOP_CheckList_&_Photos-Rev_A.pdf "https://web.archive.org/web/20061214212039/http://www2.usfirst.org/2006comp/other/KOP_CheckList_&_Photos-Rev_A.pdf")
 
 ## 2005
-[Checklist](https://web.archive.org/web/20050520061233/http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf "https://web.archive.org/web/20050520061233/http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf")
-[Photo Album](https://web.archive.org/web/20050207191928/http://www.usfirst.org/robotics/2005/kitpics.htm "https://web.archive.org/web/20050207191928/http://www.usfirst.org/robotics/2005/kitpics.htm")
+[Checklist](https://web.archive.org/web/20050520061233/http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf "https://web.archive.org/web/20050520061233/http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf")  
+[Photo Album](https://web.archive.org/web/20050207191928/http://www.usfirst.org/robotics/2005/kitpics.htm "https://web.archive.org/web/20050207191928/http://www.usfirst.org/robotics/2005/kitpics.htm")  
 [Specifications](https://web.archive.org/web/20050204094539/http://www.usfirst.org/robotics/2005/specsheets.htm "https://web.archive.org/web/20050204094539/http://www.usfirst.org/robotics/2005/specsheets.htm")
 
 ## 2004
