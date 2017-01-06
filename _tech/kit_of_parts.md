@@ -8,6 +8,9 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 
 # Kit of Parts Lists
 
+## 2017
+[Checklists (encrypted)](https://web.archive.org/web/20170106010308/https://firstfrc.blob.core.windows.net/frc2017/Checklists/Checklist_encrypted.zip "https://web.archive.org/web/20170106010308/https://firstfrc.blob.core.windows.net/frc2017/Checklists/Checklist_encrypted.zip")
+
 ## 2016
 [Gray Tote Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf")  
 [Yellow Tote (Rookie) Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-yellow-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-yellow-tote.pdf")  
