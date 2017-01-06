@@ -69,7 +69,7 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 [Checklist](https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf "https://web.archive.org/web/20040630165807/http://www2.usfirst.org/2002comp/kit_checklist.pdf")
 
 ## 2001
-[All 2001 KOP Files](http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip "http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip") (Sections 4.1 to 5.4)
+[All 2001 KOP Files](https://web.archive.org/web/20170106011651/http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip "https://web.archive.org/web/20170106011651/http://team358.org/history/2001/FIRSTDiabolicalDynamicsRules.zip") (Sections 4.1 to 5.4)
 
 ## 2000
 [Cover](https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf "https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf")  
@@ -91,24 +91,24 @@ Gray Container Photo Gallery
 [Green Container Photo Gallery](https://web.archive.org/web/20001003030615/http://www.usfirst.org/1999comp/KitAlbum/GreenContainer.pdf "https://web.archive.org/web/20001003030615/http://www.usfirst.org/1999comp/KitAlbum/GreenContainer.pdf")
 
 ## 1998
-[Rules including KOP](http://team358.org/history/1992-1999/1998GameRules.zip "http://team358.org/history/1992-1999/1998GameRules.zip") (1998therobot.pdf page 2)
+[Rules including KOP](https://web.archive.org/web/20170106011558/http://team358.org/history/1992-1999/1998GameRules.zip "https://web.archive.org/web/20170106011558/http://team358.org/history/1992-1999/1998GameRules.zip") (1998therobot.pdf page 2)
 
 ## 1997
-[Rules including KOP](http://team358.org/history/1992-1999/1997GameRules.zip "http://team358.org/history/1992-1999/1997GameRules.zip") (1997therobot.pdf page 10)
+[Rules including KOP](https://web.archive.org/web/20170106011458/http://team358.org/history/1992-1999/1997GameRules.zip "https://web.archive.org/web/20170106011458/http://team358.org/history/1992-1999/1997GameRules.zip") (1997therobot.pdf page 10)
 
 ## 1996
-[Checklist](http://team358.org/history/1992-1999/1996_game_rules.pdf "http://team358.org/history/1992-1999/1996_game_rules.pdf") (page 21)  
+[Checklist](https://web.archive.org/web/20130925144450/http://team358.org/history/1992-1999/1996_game_rules.pdf "https://web.archive.org/web/20130925144450/http://team358.org/history/1992-1999/1996_game_rules.pdf") (page 21)  
 
 ## 1995
-[Checklist](http://team358.org/history/1992-1999/95_GameManual.PDF "http://team358.org/history/1992-1999/95_GameManual.PDF") (page 8)  
+[Checklist](https://web.archive.org/web/20130924104057/http://team358.org/history/1992-1999/95_GameManual.PDF "https://web.archive.org/web/20130924104057/http://team358.org/history/1992-1999/95_GameManual.PDF") (page 8)  
 
 ## 1994
 
 ## 1993
-[Checklist](http://team358.org/history/1992-1999/1993comp.pdf "http://team358.org/history/1992-1999/1993comp.pdf") (page 18)  
+[Checklist](https://web.archive.org/web/20130925104135/http://team358.org/history/1992-1999/1993comp.pdf "https://web.archive.org/web/20130925104135/http://team358.org/history/1992-1999/1993comp.pdf") (page 18)  
 
 ## 1992
-[Checklist](http://team358.org/history/1992-1999/1992comp.pdf "http://team358.org/history/1992-1999/1992comp.pdf") (page 10)  
+[Checklist](https://web.archive.org/web/20130925052934/http://team358.org/history/1992-1999/1992comp.pdf "https://web.archive.org/web/20130925052934/http://team358.org/history/1992-1999/1992comp.pdf") (page 10)  
 
 
 
