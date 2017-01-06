@@ -8,9 +8,26 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 
 # Kit of Parts Lists
 
+## 2016
+[Gray Tote Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf")  
+[Yellow Tote (Rookie) Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-yellow-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-yellow-tote.pdf")  
+[Drive Base Kit Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-drive-base-kit.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-drive-base-kit.pdf")  
+[Separate Items Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-separate-items.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-separate-items.pdf")
+
+## 2015
+[Yellow Tote Checklist](https://web.archive.org/web/20150328221255/https://rps01.usfirst.org/frc/manual/2015/VeteranKit.pdf "https://web.archive.org/web/20150328221255/https://rps01.usfirst.org/frc/manual/2015/VeteranKit.pdf")  
+[Gray Tote (Rookie) Checklist](https://web.archive.org/web/20150328211400/https://rps01.usfirst.org/frc/manual/2015/RookieKit.pdf "https://web.archive.org/web/20150328211400/https://rps01.usfirst.org/frc/manual/2015/RookieKit.pdf")  
+[Drive Base Kit Checklist](https://web.archive.org/web/20150328195631/https://rps01.usfirst.org/frc/manual/2015/DriveBaseKit.pdf "https://web.archive.org/web/20150328195631/https://rps01.usfirst.org/frc/manual/2015/DriveBaseKit.pdf")  
+[Separate Items Checklist](https://web.archive.org/web/20150328204133/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Resources/Separate%20Items.pdf "https://web.archive.org/web/20150328204133/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Resources/Separate%20Items.pdf")
+
+## 2014
+[Black Tote Checklist](https://web.archive.org/web/20140707064232/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/Black_Tote_2014.1.7.pdf "https://web.archive.org/web/20140707064232/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/Black_Tote_2014.1.7.pdf")  
+[Green Tote (Rookie) Checklist](https://web.archive.org/web/20140707081051/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/Green_Tote_2014.1.4.pdf "https://web.archive.org/web/20140707081051/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/Green_Tote_2014.1.4.pdf")  
+[Drive Base Kit Checklist](https://web.archive.org/web/20140707080927/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/AM14U_2014.1.4.pdf "https://web.archive.org/web/20140707080927/http://www3.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/AM14U_2014.1.4.pdf")
+
 ## 2013
-[Black Tote Checklist](https://web.archive.org/web/20140910152701/http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/BlackToteRevB.pdf "https://web.archive.org/web/20140910152701/http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/BlackToteRevB.pdf")
-[Green Tote (Rookie) Checklist](https://web.archive.org/web/20130402163446/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/GreenTote_0.pdf "https://web.archive.org/web/20130402163446/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/GreenTote_0.pdf")
+[Black Tote Checklist](https://web.archive.org/web/20140910152701/http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/BlackToteRevB.pdf "https://web.archive.org/web/20140910152701/http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/BlackToteRevB.pdf")  
+[Green Tote (Rookie) Checklist](https://web.archive.org/web/20130402163446/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/GreenTote_0.pdf "https://web.archive.org/web/20130402163446/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/GreenTote_0.pdf")  
 [Drive Base Kit Checklist](https://web.archive.org/web/20130415042507/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/AndyMarkDriveBaseKit_0.pdf "https://web.archive.org/web/20130415042507/http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2013/AndyMarkDriveBaseKit_0.pdf")
 
 ## 2012
