@@ -13,13 +13,9 @@ An older speed controller used in FIRST robotics competitions from 1999 to 2003.
 
 The Victor 883 is still legal but has been replaced in the KOP by the Victor 884.
 
-### 2001-2002
+### 2000-2002
 
 Four Victor 883 controllers are provided in the KOP. The Tekin REBEL is not legal.
-
-### 2000
-
-No data.
 
 ### 1999
 
