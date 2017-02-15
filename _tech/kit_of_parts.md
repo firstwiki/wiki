@@ -9,7 +9,10 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 # Kit of Parts Lists
 
 ## 2017
-[Checklists (encrypted)](https://web.archive.org/web/20170106010308/https://firstfrc.blob.core.windows.net/frc2017/Checklists/Checklist_encrypted.zip "https://web.archive.org/web/20170106010308/https://firstfrc.blob.core.windows.net/frc2017/Checklists/Checklist_encrypted.zip")
+[Gray Tote Checklist](https://web.archive.org/web/20170215150825/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-GrayTote.pdf "https://web.archive.org/web/20170215150825/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-GrayTote.pdf")  
+[Yellow Tote (Rookie) Checklist](https://web.archive.org/web/20170215151008/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-YellowTote.pdf "https://web.archive.org/web/20170215151008/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-YellowTote.pdf")  
+[Separate Items Checklist](https://web.archive.org/web/20170215151817/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-SeparateItems.pdf "https://web.archive.org/web/20170215151817/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-SeparateItems.pdf")  
+[Drive Base Kit Checklist](https://web.archive.org/web/20170215152055/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-DriveBaseKit.pdf "https://web.archive.org/web/20170215152055/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-DriveBaseKit.pdf")
 
 ## 2016
 [Gray Tote Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf")  
@@ -103,6 +106,7 @@ Gray Container Photo Gallery
 [Checklist](https://web.archive.org/web/20130924104057/http://team358.org/history/1992-1999/95_GameManual.PDF "https://web.archive.org/web/20130924104057/http://team358.org/history/1992-1999/95_GameManual.PDF") (page 8)  
 
 ## 1994
+No KOP documents have been found.
 
 ## 1993
 [Checklist](https://web.archive.org/web/20130925104135/http://team358.org/history/1992-1999/1993comp.pdf "https://web.archive.org/web/20130925104135/http://team358.org/history/1992-1999/1993comp.pdf") (page 18)  
