@@ -113,3 +113,13 @@ No KOP documents have been found.
 
 ## 1992
 [Checklist](https://web.archive.org/web/20130925052934/http://team358.org/history/1992-1999/1992comp.pdf "https://web.archive.org/web/20130925052934/http://team358.org/history/1992-1999/1992comp.pdf") (page 10)
+
+# First Choice Lists
+
+## 2017
+[Everything](https://archive.fo/LnTcU)
+
+## 2016 - 1992
+
+No FC documents have been found. 
+
