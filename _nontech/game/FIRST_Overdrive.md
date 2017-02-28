@@ -18,6 +18,9 @@ The game is made up of two scoring periods. The first 15 seconds of play is the 
 
 The next two minutes of play is the Teleoperated period. At this time, robots are radio controlled by team operators standing at either end of the field.
 
+### Offical Game Summary[[1]](https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf "https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf")
+In the 2008 game, “FIRST Overdrive,” students’ robots are designed to race around a track knocking down 40" inflated Trackballs and moving them around the track, passing them either over or under a 6'6" overpass. Extra points are scored by robots positioning the Trackballs back on the overpass before the end of the 2 minute and 15 second match.
+
 ### Scoring
 
 During the Hybrid period, robots traveling in a counter clockwise direction score:
