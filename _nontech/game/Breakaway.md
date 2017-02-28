@@ -10,6 +10,10 @@ Breakaway is the 2010 FIRST Robotics Competition game announced on January 9, 20
 
 The object of Breakaway is to score as many points for your alliance as possible. The winner of a match is determined by the most points scored when the timer ends or when all robots have stopped moving, and after penalties are assessed.
 
+### Offical Summary[[1]](https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf "https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf")
+In the 2010 game, BREAKAWAY®, two alliances of three teams compete on a 27-by-54-foot field with bumps, attempting to earn points by collecting soccer balls in goals. Additional bonus points are earned for each robot suspended in air and not touching the field at the end of the match.
+
+
 ### Field
 
 Breakaway is played on a 27 foot × 54 foot carpeted field. The field is divided up into three zones:
