@@ -106,7 +106,7 @@ Gray Container Photo Gallery
 [Checklist](https://web.archive.org/web/20130924104057/http://team358.org/history/1992-1999/95_GameManual.PDF "https://web.archive.org/web/20130924104057/http://team358.org/history/1992-1999/95_GameManual.PDF") (page 8)  
 
 ## 1994
-No KOP documents have been found.
+No KOP documents have been found. If you or someone you know has a copy, please upload and link it.
 
 ## 1993
 [Checklist](https://web.archive.org/web/20130925104135/http://team358.org/history/1992-1999/1993comp.pdf "https://web.archive.org/web/20130925104135/http://team358.org/history/1992-1999/1993comp.pdf") (page 18)  
@@ -120,13 +120,21 @@ No KOP documents have been found.
 [Everything](https://archive.fo/LnTcU)
 
 ## 2016
-[Unofficial list](https://www.chiefdelphi.com/forums/showpost.php?p=1506403&postcount=52)
+[Unofficial List](https://www.chiefdelphi.com/forums/showpost.php?p=1506403&postcount=52)
 
 ## 2015
 
 [Everything](https://archive.fo/4X4za)
 
-## 2014 - 2011
+## 2014
 
-No FC documents have been found. 
+FIRST Choice was moved to its own site in 2014, with a new robots.txt. Thus, the WayBack Machine was unable to archive them. No FC documents have been found as of March 1, 2017.
 
+## 2013
+[FIRST Choice Public Viewing Page](https://web.archive.org/web/20121220042210/http://www.andymark.com/FIRST-Choice-Public-Viewing-2013-s/411.htm "https://web.archive.org/web/20121220042210/http://www.andymark.com/FIRST-Choice-Public-Viewing-2013-s/411.htm")
+
+## 2012
+[FIRST Choice Public Viewing Page](https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm "https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm")
+
+## 2011
+[Unofficial List](https://www.chiefdelphi.com/forums/showpost.php?p=985332&postcount=45 "https://www.chiefdelphi.com/forums/showpost.php?p=985332&postcount=45")
