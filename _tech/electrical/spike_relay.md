@@ -69,13 +69,13 @@ One Spike Relay is provided to all teams, with one additional relay provided to 
 
 Two Spike Relays are provided in the KOP.
 
-### 2001-2008
+### 200-2008
 
 Four Spike Relays are provided in the KOP.
 
 ### 2000
+The Spike Relay makes its debut in FRC. Four are provided in the KOP
 
-No data.
 
 #  Spike Red
 
