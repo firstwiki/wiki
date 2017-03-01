@@ -1,11 +1,14 @@
 ---
-title: Logo Motion
+title: LOGO MOTION™
 tags: frc_games
 ---
 {% include historical %}
 {% include cleanup %}
 
-Logo Motion is the 2011 FIRST Robotics Competition game. Playing pieces are inner tubes shaped like the components of the FIRST logo. The primary objective of the game is to place them on racks to gain points. In the endgame, robots deploy smaller robots ("minibots") to climb a tower. Minibots must be made from the FIRST Tech Challenge kit of parts. The game celebrates the 20th season of the FRC and is also meant to commemorate the artist Jack Kamen, who designed the original FIRST logo.
+LOGO MOTION™ is the 2011 FIRST Robotics Competition game. Playing pieces are inner tubes shaped like the components of the FIRST logo. The primary objective of the game is to place them on racks to gain points. In the endgame, robots deploy smaller robots ("minibots") to climb a tower. Minibots must be made from the FIRST Tech Challenge kit of parts. The game celebrates the 20th season of the FRC and is also meant to commemorate the artist Jack Kamen, who designed the original FIRST logo.
+
+### Official Game Summary[[1]](https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf "https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf")
+In the 2011 game, LOGO MOTION™, two alliances of three teams compete on a 27-by-54-foot field with poles, attempting to earn points by hanging as many triangle, circle, and square logo pieces as possible. Bonus points are earned for each robot that can hang and assemble logo pieces to form the FIRST logo. Robots can also deploy Mini-Bots to climb vertical poles for a chance to earn additional points.
 
 ## Rules
 

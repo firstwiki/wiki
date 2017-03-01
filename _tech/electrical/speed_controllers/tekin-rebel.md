@@ -5,13 +5,9 @@ title: Tekin REBEL
 {% include historical %}
 {% include stub %}
 
-The Tekin REBEL was a motor controller used from 1995-1999 (no data for 1994 or 2000). 
+The Tekin REBEL was a motor controller used from 1995-1999 (no data for 1994). 
 
 ## Kit of Parts
-
-### 2000
-
-No data.
 
 ### 1999
 
