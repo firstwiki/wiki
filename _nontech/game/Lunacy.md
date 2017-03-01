@@ -7,7 +7,7 @@ tags: frc_games
 LUNACY™ was the challenge for the 2009 robotics season. This game was played on a special surface and slick wheels to simulate driving in one-sixth of the gravity experienced on earth to approximate the conditions on the moon. Each of six robots pulled a trailer that served as a goal for the opposing alliance. There were two alliances of three teams each. Alliances had to get special balls, or "moon rocks", into opposing the alliance's trailers to score points.
 
 ### Official Game Summary[[1]](https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf "https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf")
-In the 2009 game, LUNACY®, robots are designed to pick up 9" game balls and score them in trailers hitched to their opponents’ robots for points during a 2 minute and 15 second match. Additional points are awarded for scoring a special game ball, the Super Cell, in the opponents' trailers during the last 20 seconds of the match. “LUNACY” is played on a low-friction floor, which means teams must contend with the laws of physics.
+In the 2009 game, LUNACY™, robots are designed to pick up 9" game balls and score them in trailers hitched to their opponents’ robots for points during a 2 minute and 15 second match. Additional points are awarded for scoring a special game ball, the Super Cell, in the opponents' trailers during the last 20 seconds of the match. “LUNACY” is played on a low-friction floor, which means teams must contend with the laws of physics.
 
 ## Game Play
 
