@@ -1,5 +1,5 @@
 ---
-title: FIRST Stronghold
+title: FIRST Stronghold™
 tags: frc_games
 ---
 {% include TODO %}
@@ -8,11 +8,11 @@ tags: frc_games
 
 ## Game Overview
 
-*FIRST* Stronghold is based loosely on a Castle Raid. Each alliance much launch 10 in. foam "Boulders" into the opponent alliance's "Tower" as well as traversing the alliance's "Defenses"
+*FIRST* Stronghold™ is based loosely on a Castle Raid. Each alliance much launch 10 in. foam "Boulders" into the opponent alliance's "Tower" as well as traversing the alliance's "Defenses"
 
 ### Field
 
-*FIRST* Stronghold is played on a standard [FRC field](frc-field), featuring "Scotch Pine" colored carpet. It features two main sections of the field, which is duplicated on each side of the field. The central area between the two Outer Works is the "neutral zone", in which 6 of the boulders start at the beginning of the match.
+*FIRST* Stronghold™ is played on a standard [FRC field](frc-field), featuring "Scotch Pine" colored carpet. It features two main sections of the field, which is duplicated on each side of the field. The central area between the two Outer Works is the "neutral zone", in which 6 of the boulders start at the beginning of the match.
 
 #### Outer Works
 
@@ -31,11 +31,11 @@ The driver station featured a human player station on one side of the field (the
 
 ### Game Play
 
-Like most standard FRC games, *FIRST* Stronghold starts with a 15 second autonomous period. Robots can score points by crossing defenses and scoring boulders in any of the goals, just like teleop, but can also "reach" a defense by just being partly on the outerworks to score some points at the end of autonomous. After autonomous is finished, a two minute fifteen second teleop period beings, in which teams can cross defenses, score boulders and play defense. During the last 20 seconds, robots may extend past the height limit of 4' 6" and try and scale the tower for extra points. If they cannot scale, they can simply drive onto the batter surrounding the tower and get some points there.
+Like most standard FRC games, *FIRST* Stronghold™ starts with a 15 second autonomous period. Robots can score points by crossing defenses and scoring boulders in any of the goals, just like teleop, but can also "reach" a defense by just being partly on the outerworks to score some points at the end of autonomous. After autonomous is finished, a two minute fifteen second teleop period beings, in which teams can cross defenses, score boulders and play defense. During the last 20 seconds, robots may extend past the height limit of 4' 6" and try and scale the tower for extra points. If they cannot scale, they can simply drive onto the batter surrounding the tower and get some points there.
 
 ### Scoring
 
-*FIRST* Stronghold reintroduced the concept of "ranking points" after their absence in 2015. A team could score up to four ranking points per match:
+*FIRST* Stronghold™ reintroduced the concept of "ranking points" after their absence in 2015. A team could score up to four ranking points per match:
 
 - Two for winning the match
 - One for having a tie in the match
