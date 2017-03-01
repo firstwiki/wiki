@@ -1,5 +1,5 @@
 ---
-title: Co-opertition *FIRST*
+title: Co-opertition FIRST
 tags: frc_games
 ---
 {% include TODO %}
