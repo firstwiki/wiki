@@ -4,7 +4,7 @@ tags: frc_games
 ---
 {% include TODO %}
 
-FIRST Steamworks is the 2017 game. The official game will be released on January 7th 2017.
+*FIRST* Steamworks is the 2017 game. The official game was released on January 7th 2017.
 
 ### Trailer
 
