@@ -11,7 +11,7 @@ Points are scored by positioning “floppies,” robots, and the “puck” on t
 
 
 
-## Official Documents[[2]](https://web.archive.org/web/20000305080913/http://www.usfirst.org/1999comp/Documentation.html "https://web.archive.org/web/20000305080913/http://www.usfirst.org/1999comp/Documentation.html")
+## Official Documents[[2]](https://web.archive.org/web/20000305080913/http://www.usfirst.org/1999comp/Documentation.html "https://web.archive.org/web/20000305080913/http://www.usfirst.org/1999comp/Documentation.html")[[3]](https://drive.google.com/drive/u/0/folders/0B_NPAkx7sAJAVFlsT0FnTFM0R3M "https://drive.google.com/drive/u/0/folders/0B_NPAkx7sAJAVFlsT0FnTFM0R3M")
 ### The Manual
 [Dean and Woodie's Letters](https://web.archive.org/web/20000531130438/http://www.usfirst.org/1999comp/Manual/DeanandWoodieLetters.pdf "https://web.archive.org/web/20000531130438/http://www.usfirst.org/1999comp/Manual/DeanandWoodieLetters.pdf")  
 [Game Manual](https://web.archive.org/web/20000605181043/http://www.usfirst.org/1999comp/Manual/TheGame.pdf "https://web.archive.org/web/20000605181043/http://www.usfirst.org/1999comp/Manual/TheGame.pdf")  
@@ -20,7 +20,7 @@ The Robot - Appendix H Part 1
 The Robot - Appendix H Part 2  
 [Administrative Details](https://web.archive.org/web/20000522210620/http://www.usfirst.org/1999comp/Manual/AdministrativeDetails.pdf "https://web.archive.org/web/20000522210620/http://www.usfirst.org/1999comp/Manual/AdministrativeDetails.pdf")  
 [Events](https://web.archive.org/web/20001003030439/http://www.usfirst.org/1999comp/Manual/Events.pdf "https://web.archive.org/web/20001003030439/http://www.usfirst.org/1999comp/Manual/Events.pdf")  
-Awards
+[Awards](https://drive.google.com/file/d/0B_NPAkx7sAJAeElBMXVuUGg5NGM/view?usp=sharing "https://drive.google.com/file/d/0B_NPAkx7sAJAeElBMXVuUGg5NGM/view?usp=sharing")
 
 ### Playing Field
 The Field  
@@ -42,7 +42,7 @@ Gray Container Album
 ### Control System
 [Default Control Program](https://web.archive.org/web/20000305180535/http://www.usfirst.org/1999comp/Manual/RXSLAVE.BS2 "https://web.archive.org/web/20000305180535/http://www.usfirst.org/1999comp/Manual/RXSLAVE.BS2")
 
-### Team Updates[[3]](https://drive.google.com/drive/u/0/folders/0B_NPAkx7sAJAVFlsT0FnTFM0R3M "https://drive.google.com/drive/u/0/folders/0B_NPAkx7sAJAVFlsT0FnTFM0R3M")
+### Team Updates
 Team Update #1  
 Team Update #2  
 [Team Update #3](https://drive.google.com/file/d/0B_NPAkx7sAJASVVERExxcGVCbXc/view?usp=sharing "https://drive.google.com/file/d/0B_NPAkx7sAJASVVERExxcGVCbXc/view?usp=sharing")  
