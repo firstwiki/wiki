@@ -42,7 +42,7 @@ The Field (File not found as of 3/5/17)
 ### Control System
 [Default Control Program](https://web.archive.org/web/20000305180535/http://www.usfirst.org/1999comp/Manual/RXSLAVE.BS2 "https://web.archive.org/web/20000305180535/http://www.usfirst.org/1999comp/Manual/RXSLAVE.BS2")
 
-### Team Updates
+### Team Updates[[5]](https://web.archive.org/web/19990914002421/http://www.usfirst.org/1999comp/TeamUpdates/ "https://web.archive.org/web/19990914002421/http://www.usfirst.org/1999comp/TeamUpdates/")
 Team Update #1 (File not found as of 3/5/17)  
 Team Update #2 (File not found as of 3/5/17)  
 [Team Update #3](https://web.archive.org/web/20001003030647/http://www.usfirst.org/1999comp/TeamUpdates/tmup3.pdf" https://web.archive.org/web/20001003030647/http://www.usfirst.org/1999comp/TeamUpdates/tmup3.pdf")  
@@ -50,7 +50,7 @@ Team Update #2 (File not found as of 3/5/17)
 [Team Update #5](https://web.archive.org/web/19991003103326/http://www.usfirst.org/1999comp/TeamUpdates/tmup5.pdf "https://web.archive.org/web/19991003103326/http://www.usfirst.org/1999comp/TeamUpdates/tmup5.pdf")  
 [Team Update #6](https://web.archive.org/web/19991003125241/http://www.usfirst.org/1999comp/TeamUpdates/tmup6.pdf "https://web.archive.org/web/19991003125241/http://www.usfirst.org/1999comp/TeamUpdates/tmup6.pdf")  
 
-### Autodesk Updates[[5]](https://web.archive.org/web/19990914000319/http://www.usfirst.org/1999comp/AutodeskUpdates/ "https://web.archive.org/web/19990914000319/http://www.usfirst.org/1999comp/AutodeskUpdates/")
+### Autodesk Updates[[6]](https://web.archive.org/web/19990914000319/http://www.usfirst.org/1999comp/AutodeskUpdates/ "https://web.archive.org/web/19990914000319/http://www.usfirst.org/1999comp/AutodeskUpdates/")
 1999 Autodesk Technology Workshop Presentation (File not found as of 3/5/17)  
 Nik Grant's Tips for Output to Video (File not found as of 3/5/17)  
 [Ted Boardman's Tips for Animating with 3D Studio MAX](https://web.archive.org/web/20001003030724/http://www.usfirst.org/1999comp/AutodeskUpdates/Tednote.pdf "https://web.archive.org/web/20001003030724/http://www.usfirst.org/1999comp/AutodeskUpdates/Tednote.pdf")  
