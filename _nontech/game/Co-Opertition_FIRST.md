@@ -13,11 +13,11 @@ Four teams, paired in two alliances, will compete in each match. An alliance sco
 
 ### The Manual
 [The Game](https://web.archive.org/web/20000829075102/http://www.usfirst.org/2000comp/Docs/TheGame.pdf "https://web.archive.org/web/20000829075102/http://www.usfirst.org/2000comp/Docs/TheGame.pdf")  
-The Robot  
-The Robot - Appendix H Part 1  
-The Robot - Appendix H Part 2  
-The Robot - Appendix H Part 3  
-The Robot - Appendix H Part 4  
+The Robot (File not found as of 3/6/17)  
+The Robot - Appendix H Part 1 (File not found as of 3/6/17)  
+The Robot - Appendix H Part 2 (File not found as of 3/6/17)  
+The Robot - Appendix H Part 3 (File not found as of 3/6/17)  
+The Robot - Appendix H Part 4 (File not found as of 3/6/17)  
 [Administrative Details](https://web.archive.org/web/20000829075305/http://www.usfirst.org/2000comp/Docs/Administrative2000.pdf "https://web.archive.org/web/20000829075305/http://www.usfirst.org/2000comp/Docs/Administrative2000.pdf")  
 [Regional Events](https://web.archive.org/web/20000829075316/http://www.usfirst.org/2000comp/Docs/RegionalEvents2000.pdf "https://web.archive.org/web/20000829075316/http://www.usfirst.org/2000comp/Docs/RegionalEvents2000.pdf")  
 [National Championship](https://web.archive.org/web/20000829075322/http://www.usfirst.org/2000comp/Docs/NationalChampionship2000.pdf "https://web.archive.org/web/20000829075322/http://www.usfirst.org/2000comp/Docs/NationalChampionship2000.pdf")  
@@ -34,14 +34,14 @@ The Robot - Appendix H Part 4
 [Cover](https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf "https://web.archive.org/web/20000829075414/http://www.usfirst.org/2000comp/Docs/KitCover.pdf")  
 [Table of Contents and Kit Checklist](https://web.archive.org/web/20000829075449/http://www2.usfirst.org/2000comp/KitTOC.pdf "https://web.archive.org/web/20000829075449/http://www2.usfirst.org/2000comp/KitTOC.pdf")  
 [Gray Container-pt1](https://web.archive.org/web/20000829075427/http://www.usfirst.org/2000comp/Docs/KitGray1.pdf "https://web.archive.org/web/20000829075427/http://www.usfirst.org/2000comp/Docs/KitGray1.pdf")  
-Gray Container-pt2  
+Gray Container-pt2 (File not found as of 3/6/17)  
 [Gray Container-pt3](https://web.archive.org/web/20000829075505/http://www.usfirst.org/2000comp/Docs/KitGray3.pdf "https://web.archive.org/web/20000829075505/http://www.usfirst.org/2000comp/Docs/KitGray3.pdf")  
 [Gray Container-pt4](https://web.archive.org/web/20000829075516/http://www.usfirst.org/2000comp/Docs/KitGray4.pdf "https://web.archive.org/web/20000829075516/http://www.usfirst.org/2000comp/Docs/KitGray4.pdf")  
 [Gray Container-pt5](https://web.archive.org/web/20000829075959/http://www2.usfirst.org/2000comp/KitGray5.pdf "https://web.archive.org/web/20000829075959/http://www2.usfirst.org/2000comp/KitGray5.pdf")  
 [Gray Container-pt6](https://web.archive.org/web/20000829075922/http://www.usfirst.org/2000comp/Docs/KitGray6.pdf "https://web.archive.org/web/20000829075922/http://www.usfirst.org/2000comp/Docs/KitGray6.pdf")  
 [Gray Container-pt7](https://web.archive.org/web/20000829075932/http://www.usfirst.org/2000comp/Docs/KitGray7.pdf "https://web.archive.org/web/20000829075932/http://www.usfirst.org/2000comp/Docs/KitGray7.pdf")  
 [Green Container-pt1](https://web.archive.org/web/20000829075939/http://www.usfirst.org/2000comp/Docs/KitGreen1.pdf "https://web.archive.org/web/20000829075939/http://www.usfirst.org/2000comp/Docs/KitGreen1.pdf")  
-Green Container-pt2  
+Green Container-pt2 (File not found as of 3/6/17)  
 [Green Container-pt3](https://web.archive.org/web/20000829080014/http://www.usfirst.org/2000comp/Docs/KitGreen3.pdf "https://web.archive.org/web/20000829080014/http://www.usfirst.org/2000comp/Docs/KitGreen3.pdf")
 
 ### SMC Pneumatics Part Specifications
@@ -90,5 +90,5 @@ Green Container-pt2
 [FIRST Tutorial - Where on Mars is "Robot Vehicle"?!](https://web.archive.org/web/20000919170529/http://www.usfirst.org/2000comp/AutodeskUpdates/Niks2000tutorial.pdf "https://web.archive.org/web/20000919170529/http://www.usfirst.org/2000comp/AutodeskUpdates/Niks2000tutorial.pdf")  
 [3D Studio Max 3](https://web.archive.org/web/20000919170600/http://www.usfirst.org/2000comp/AutodeskUpdates/teds2000tutorial.pdf "https://web.archive.org/web/20000919170600/http://www.usfirst.org/2000comp/AutodeskUpdates/teds2000tutorial.pdf")  
 [Support File](https://web.archive.org/web/20010617150829/http://www.usfirst.org/2000comp/AutodeskUpdates/ROBOT2.max "https://web.archive.org/web/20010617150829/http://www.usfirst.org/2000comp/AutodeskUpdates/ROBOT2.max")  
-TOP 3D Studio MAX ISSUES  
+TOP 3D Studio MAX ISSUES (File not found as of 3/6/17)  
 [3D Studio Max Productivity Tips](https://web.archive.org/web/20000919170643/http://www.usfirst.org/2000comp/AutodeskUpdates/Tedstips.pdf "https://web.archive.org/web/20000919170643/http://www.usfirst.org/2000comp/AutodeskUpdates/Tedstips.pdf")
