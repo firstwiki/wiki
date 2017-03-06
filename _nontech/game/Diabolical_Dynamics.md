@@ -71,6 +71,3 @@ Team Update #3
 Team Update #4  
 Team Update #5  
 Team Update #6  
-
-### Innovation First Control System Documentation
-[Control System](https://web.archive.org/web/20010502231810/http://www.innovationfirst.com/FIRSTRobotics/index_text.htm "https://web.archive.org/web/20010502231810/http://www.innovationfirst.com/FIRSTRobotics/index_text.htm")  
