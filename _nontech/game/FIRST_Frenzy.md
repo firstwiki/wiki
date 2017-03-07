@@ -66,3 +66,21 @@ The game for the 2004 season requires robots to collect and pass 13” balls to 
 [Section 3 - The Arena: Material Suppliers](https://web.archive.org/web/20040806171504/http://www2.usfirst.org/2004comp/MaterialSuppliers.pdf "https://web.archive.org/web/20040806171504/http://www2.usfirst.org/2004comp/MaterialSuppliers.pdf")  
 [Section 4 - The Game](https://web.archive.org/web/20040323125657/http://www2.usfirst.org/2004comp/4-TheGame-RevC-incorporated.pdf "https://web.archive.org/web/20040323125657/http://www2.usfirst.org/2004comp/4-TheGame-RevC-incorporated.pdf")  
 [Section 5 - The Robot](https://web.archive.org/web/20040602105637/http://www2.usfirst.org/2004comp/5-TheRobot-RevC-incorporated.pdf "https://web.archive.org/web/20040602105637/http://www2.usfirst.org/2004comp/5-TheRobot-RevC-incorporated.pdf")  
+
+#### Section 5 - The Robot: Important Documents
+[2004 Robot Inspection Checklist](https://web.archive.org/web/20040531023550/http://www2.usfirst.org/2004comp/2004_Robot_Inspection_Checklist_rev3-8-04.pdf "https://web.archive.org/web/20040531023550/http://www2.usfirst.org/2004comp/2004_Robot_Inspection_Checklist_rev3-8-04.pdf")  
+[2004 Robot Power Distribution](https://web.archive.org/web/20050226101505/http://www2.usfirst.org/2004comp/2004_Power_Distribution_Diagram_rev0120704.pdf "https://web.archive.org/web/20050226101505/http://www2.usfirst.org/2004comp/2004_Power_Distribution_Diagram_rev0120704.pdf")  
+[2004 FIRST Pneumatics Manual](https://web.archive.org/web/20040806175438/http://www2.usfirst.org/2004comp/2004_FIRST_Pneumatics_Manual.pdf "https://web.archive.org/web/20040806175438/http://www2.usfirst.org/2004comp/2004_FIRST_Pneumatics_Manual.pdf")  
+[Current Sensor](https://web.archive.org/web/20040602074025/http://www2.usfirst.org/2004comp/Specs/Current_Sensor.pdf "https://web.archive.org/web/20040602074025/http://www2.usfirst.org/2004comp/Specs/Current_Sensor.pdf")  
+[Photo-detector Diagram](https://web.archive.org/web/20050115090409/http://www2.usfirst.org/2004comp/Photo-detector_Diagram_rev012904.pdf "https://web.archive.org/web/20050115090409/http://www2.usfirst.org/2004comp/Photo-detector_Diagram_rev012904.pdf")  
+  
+[Section 6 - The Kit](https://web.archive.org/web/20040610220808/http://www2.usfirst.org/2004comp/6-TheKit-RevB-incorporated.pdf "https://web.archive.org/web/20040610220808/http://www2.usfirst.org/2004comp/6-TheKit-RevB-incorporated.pdf")  
+
+#### Section 6 - The Kit: Important Documents
+[2004 Kit of Parts Supplier Contacts](https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf "https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf")  
+[Batteries Plus Order Form](https://web.archive.org/web/20040602145712/http://www2.usfirst.org/2004comp/Batteries_Plus_Order_Form.pdf "https://web.archive.org/web/20040602145712/http://www2.usfirst.org/2004comp/Batteries_Plus_Order_Form.pdf")  
+[MMH Ventures Fax Order Form](https://web.archive.org/web/20040602144734/http://www2.usfirst.org/2004comp/MMH_Ventures_Fax_Order_Form-RevA.pdf "https://web.archive.org/web/20040602144734/http://www2.usfirst.org/2004comp/MMH_Ventures_Fax_Order_Form-RevA.pdf")  
+[Terminal Supply Order Form (front)](https://web.archive.org/web/20050226101512/http://www2.usfirst.org/2004comp/US_Robotics_front.pdf "https://web.archive.org/web/20050226101512/http://www2.usfirst.org/2004comp/US_Robotics_front.pdf")  
+[Terminal Supply Order Form (back)](https://web.archive.org/web/20040602131654/http://www2.usfirst.org/2004comp/US_Robotics_back.pdf "https://web.archive.org/web/20040602131654/http://www2.usfirst.org/2004comp/US_Robotics_back.pdf")  
+  
+[Section 7 - The Tournament](https://web.archive.org/web/20040602070839/http://www2.usfirst.org/2004comp/7-TheTournament-RevC-incorporated.pdf "https://web.archive.org/web/20040602070839/http://www2.usfirst.org/2004comp/7-TheTournament-RevC-incorporated.pdf")  
