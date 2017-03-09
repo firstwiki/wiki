@@ -77,6 +77,8 @@ The game for the 2004 season requires robots to collect and pass 13” balls to 
 [Section 6 - The Kit](https://web.archive.org/web/20040610220808/http://www2.usfirst.org/2004comp/6-TheKit-RevB-incorporated.pdf "https://web.archive.org/web/20040610220808/http://www2.usfirst.org/2004comp/6-TheKit-RevB-incorporated.pdf")  
 
 #### Section 6 - The Kit: Important Documents
+##### 2004 CAD Drawings
+[All of the 2004 dxf files (.zip)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/2004_dxf_files_all.ZIP "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/2004_dxf_files_all.ZIP")  
 [2004 Kit of Parts Supplier Contacts](https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf "https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf")  
 [Batteries Plus Order Form](https://web.archive.org/web/20040602145712/http://www2.usfirst.org/2004comp/Batteries_Plus_Order_Form.pdf "https://web.archive.org/web/20040602145712/http://www2.usfirst.org/2004comp/Batteries_Plus_Order_Form.pdf")  
 [MMH Ventures Fax Order Form](https://web.archive.org/web/20040602144734/http://www2.usfirst.org/2004comp/MMH_Ventures_Fax_Order_Form-RevA.pdf "https://web.archive.org/web/20040602144734/http://www2.usfirst.org/2004comp/MMH_Ventures_Fax_Order_Form-RevA.pdf")  
