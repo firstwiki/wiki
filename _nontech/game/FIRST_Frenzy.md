@@ -105,9 +105,9 @@ The game for the 2004 season requires robots to collect and pass 13” balls to 
 [Team Update #7](https://web.archive.org/web/20040602042312/http://www2.usfirst.org/2004comp/tmup7.pdf "https://web.archive.org/web/20040602042312/http://www2.usfirst.org/2004comp/tmup7.pdf")  
 [Team Update #8](https://web.archive.org/web/20040602121944/http://www2.usfirst.org/2004comp/tmup8.pdf "https://web.archive.org/web/20040602121944/http://www2.usfirst.org/2004comp/tmup8.pdf")  
 [Team Update #9](https://web.archive.org/web/20040723031127/http://www2.usfirst.org/2004comp/tmup9.pdf "https://web.archive.org/web/20040723031127/http://www2.usfirst.org/2004comp/tmup9.pdf")  
-[Team Update #10]
-[Team Update #11]
-[Team Update #12]
-[Team Update #13]
-[Team Update #14]
-[Team Update #15]
+[Team Update #10](https://web.archive.org/web/20050212192322/http://www2.usfirst.org/2004comp/tmup10.pdf "https://web.archive.org/web/20050212192322/http://www2.usfirst.org/2004comp/tmup10.pdf")  
+[Team Update #11](https://web.archive.org/web/20040325042823/http://www2.usfirst.org/2004comp/tmup11.pdf "https://web.archive.org/web/20040325042823/http://www2.usfirst.org/2004comp/tmup11.pdf")  
+[Team Update #12](https://web.archive.org/web/20040323165250/http://www2.usfirst.org/2004comp/tmup12.pdf "https://web.archive.org/web/20040323165250/http://www2.usfirst.org/2004comp/tmup12.pdf")  
+[Team Update #13](https://web.archive.org/web/20040602015023/http://www2.usfirst.org/2004comp/tmup13.pdf "https://web.archive.org/web/20040602015023/http://www2.usfirst.org/2004comp/tmup13.pdf)  
+[Team Update #14](https://web.archive.org/web/20040602090837/http://www2.usfirst.org/2004comp/tmup14.pdf "https://web.archive.org/web/20040602090837/http://www2.usfirst.org/2004comp/tmup14.pdf")  
+[Team Update #15](https://web.archive.org/web/20040602165226/http://www2.usfirst.org/2004comp/tmup15.pdf "https://web.archive.org/web/20040602165226/http://www2.usfirst.org/2004comp/tmup15.pdf")
