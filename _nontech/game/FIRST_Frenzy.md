@@ -84,3 +84,30 @@ The game for the 2004 season requires robots to collect and pass 13” balls to 
 [Terminal Supply Order Form (back)](https://web.archive.org/web/20040602131654/http://www2.usfirst.org/2004comp/US_Robotics_back.pdf "https://web.archive.org/web/20040602131654/http://www2.usfirst.org/2004comp/US_Robotics_back.pdf")  
   
 [Section 7 - The Tournament](https://web.archive.org/web/20040602070839/http://www2.usfirst.org/2004comp/7-TheTournament-RevC-incorporated.pdf "https://web.archive.org/web/20040602070839/http://www2.usfirst.org/2004comp/7-TheTournament-RevC-incorporated.pdf")  
+[Section 8 - The Awards](https://web.archive.org/web/20040325025813/http://www2.usfirst.org/2004comp/8-TheAwards-RevA-incorporated.pdf "https://web.archive.org/web/20040325025813/http://www2.usfirst.org/2004comp/8-TheAwards-RevA-incorporated.pdf")  
+
+#### Section 8 - The Awards: Important Documents
+[2004 Chairman's Award Executive Summary Form](https://web.archive.org/web/20041009152230/http://www2.usfirst.org/2004comp/2004_CHAIRMAN_Exec_Summary.doc "https://web.archive.org/web/20041009152230/http://www2.usfirst.org/2004comp/2004_CHAIRMAN_Exec_Summary.doc")  
+[2004 Website Award Scoring Sheet](https://web.archive.org/web/20041204223929/http://www2.usfirst.org/2004comp/2004_website_award_scoring_sheet.pdf "https://web.archive.org/web/20041204223929/http://www2.usfirst.org/2004comp/2004_website_award_scoring_sheet.pdf")  
+  
+[Section 9 - Team Organization](https://web.archive.org/web/20041204212703/http://www2.usfirst.org/2004comp/9-TeamOrganization.pdf "https://web.archive.org/web/20041204212703/http://www2.usfirst.org/2004comp/9-TeamOrganization.pdf")  
+[Section 10 - At the Events](https://web.archive.org/web/20050524035609/http://www2.usfirst.org/2004comp/10-AttheEvents-RevB-incorporated.pdf "https://web.archive.org/web/20050524035609/http://www2.usfirst.org/2004comp/10-AttheEvents-RevB-incorporated.pdf")  
+[Section 11 - Robot Transportation](https://web.archive.org/web/20040602123515/http://www2.usfirst.org/2004comp/11-RobotTransportation-RevB-incorporated.pdf "https://web.archive.org/web/20040602123515/http://www2.usfirst.org/2004comp/11-RobotTransportation-RevB-incorporated.pdf")  
+[Section 12 - Scholarships](https://web.archive.org/web/20040806171139/http://www2.usfirst.org/2004comp/12-Scholarships.pdf "https://web.archive.org/web/20040806171139/http://www2.usfirst.org/2004comp/12-Scholarships.pdf")
+
+### Team Updates
+[Team Update #1](https://web.archive.org/web/20040602050938/http://www2.usfirst.org/2004comp/tmup1.pdf "https://web.archive.org/web/20040602050938/http://www2.usfirst.org/2004comp/tmup1.pdf")  
+[Team Update #2](https://web.archive.org/web/20040327140450/http://www2.usfirst.org/2004comp/tmup2.pdf "https://web.archive.org/web/20040327140450/http://www2.usfirst.org/2004comp/tmup2.pdf")  
+[Team Update #3](https://web.archive.org/web/20040602033711/http://www2.usfirst.org/2004comp/tmup3.pdf "https://web.archive.org/web/20040602033711/http://www2.usfirst.org/2004comp/tmup3.pdf")  
+[Team Update #4](https://web.archive.org/web/20040327142349/http://www2.usfirst.org/2004comp/tmup4.pdf "https://web.archive.org/web/20040327142349/http://www2.usfirst.org/2004comp/tmup4.pdf")  
+[Team Update #5](https://web.archive.org/web/20041204211040/http://www2.usfirst.org/2004comp/tmup5.pdf "https://web.archive.org/web/20041204211040/http://www2.usfirst.org/2004comp/tmup5.pdf")  
+[Team Update #6](https://web.archive.org/web/20040204033811/http://www2.usfirst.org/2004comp/tmup6.pdf "https://web.archive.org/web/20040204033811/http://www2.usfirst.org/2004comp/tmup6.pdf")  
+[Team Update #7](https://web.archive.org/web/20040602042312/http://www2.usfirst.org/2004comp/tmup7.pdf "https://web.archive.org/web/20040602042312/http://www2.usfirst.org/2004comp/tmup7.pdf")  
+[Team Update #8](https://web.archive.org/web/20040602121944/http://www2.usfirst.org/2004comp/tmup8.pdf "https://web.archive.org/web/20040602121944/http://www2.usfirst.org/2004comp/tmup8.pdf")  
+[Team Update #9](https://web.archive.org/web/20040723031127/http://www2.usfirst.org/2004comp/tmup9.pdf "https://web.archive.org/web/20040723031127/http://www2.usfirst.org/2004comp/tmup9.pdf")  
+[Team Update #10]
+[Team Update #11]
+[Team Update #12]
+[Team Update #13]
+[Team Update #14]
+[Team Update #15]
