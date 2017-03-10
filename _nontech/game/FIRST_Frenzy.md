@@ -79,7 +79,35 @@ The game for the 2004 season requires robots to collect and pass 13” balls to 
 #### Section 6 - The Kit: Important Documents
 ##### 2004 CAD Drawings
 [All of the 2004 dxf files (.zip)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/2004_dxf_files_all.ZIP "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/2004_dxf_files_all.ZIP")  
-[2004 Kit of Parts Supplier Contacts](https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf "https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf")  
+[12 position fuse\breaker panel (.dxf)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/ATC_Breaker_Panel.dxf "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/ATC_Breaker_Panel.dxf")  
+[12 volt Battery (.dxf)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Battery.dxf "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Battery.dxf")  
+[120 Amp circuit breaker (.dxf)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Breaker_120A.dxf "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Breaker_120A.dxf")  
+[Maxi circuit breaker panel (.dxf)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Maxi_CB_Panel.dxf "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Maxi_CB_Panel.dxf")  
+[Power Distribution block (.dxf)](https://web.archive.org/web/20040824162503/http://www2.usfirst.org/2004comp/drawings/Pwr_Dist_Block.dxf "https://web.archive.org/web/20040824162503/http://www2.usfirst.org/2004comp/drawings/Pwr_Dist_Block.dxf")  
+[IFI Robot Controller (.dxf)](https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Robot_Controller.dxf "https://web.archive.org/web/20041009212450/http://www2.usfirst.org/2004comp/drawings/Robot_Controller.dxf")  
+[IFI Spike Relay (.dxf)](https://web.archive.org/web/20041013021627/http://www2.usfirst.org/2004comp/drawings/Spike_Relay.dxf "https://web.archive.org/web/20041013021627/http://www2.usfirst.org/2004comp/drawings/Spike_Relay.dxf")  
+[IFI Speed Controller (.dxf)](https://web.archive.org/web/20041013022139/http://www2.usfirst.org/2004comp/drawings/Victor.dxf "https://web.archive.org/web/20041013022139/http://www2.usfirst.org/2004comp/drawings/Victor.dxf")  
+  
+[2004 Kit of Parts Supplier Contacts](https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf "https://web.archive.org/web/20050117122949/http://www2.usfirst.org/2004comp/2004_FRC_Kit_of_Parts_Supplier_Contacts.pdf")
+
+##### 2004 Specification Sheets
+[All the 2004 Specsheets (.zip)](https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/2004Specsheets.ZIP "https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/2004Specsheets.ZIP")  
+[Banner Sensor](https://web.archive.org/web/20040313162440/http://www2.usfirst.org/2004comp/Specs/bannersensors.pdf "https://web.archive.org/web/20040313162440/http://www2.usfirst.org/2004comp/Specs/bannersensors.pdf")  
+Bussman Circuit Breaker (File not found as of 3/9/17)  
+[CIM aka Chiaphua aka Atwood (.jpg)](https://web.archive.org/web/20050509115721/http://www2.usfirst.org/2004comp/Specs/Chiaphua.jpg "https://web.archive.org/web/20050509115721/http://www2.usfirst.org/2004comp/Specs/Chiaphua.jpg")  
+[Current Sensor](https://web.archive.org/web/20040602074025/http://www2.usfirst.org/2004comp/Specs/Current_Sensor.pdf "https://web.archive.org/web/20040602074025/http://www2.usfirst.org/2004comp/Specs/Current_Sensor.pdf")  
+[EBM Muffin Fan](https://web.archive.org/web/20040407192415/http://www2.usfirst.org/2004comp/Specs/ebm_fans.pdf "https://web.archive.org/web/20040407192415/http://www2.usfirst.org/2004comp/Specs/ebm_fans.pdf")  
+[Exide Battery](https://web.archive.org/web/20040428235611/http://www2.usfirst.org/2004comp/Specs/Exide.pdf "https://web.archive.org/web/20040428235611/http://www2.usfirst.org/2004comp/Specs/Exide.pdf)  
+[Nippon-Denso Window Motor (.doc)](https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/Nippon-Denso_Window_Motor_specs.doc "https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/Nippon-Denso_Window_Motor_specs.doc")  
+[Skill Bosch Disassembly (.ppt)](https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/Bosch_Disassembly.ppt "https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/Bosch_Disassembly.ppt")  
+Skill Bosch Efficiency (File not found as of 3/9/17)  
+[Skill Bosch Motor Curve (.xls)](https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/S-B_Motor_Curve_11_and_12v.xls "https://web.archive.org/web/20041011112838/http://www2.usfirst.org/2004comp/Specs/S-B_Motor_Curve_11_and_12v.xls")  
+[Skill Bosch Pinion Gear](https://web.archive.org/web/20040407192025/http://www2.usfirst.org/2004comp/Specs/S-B_Pinion_Gear.pdf "https://web.archive.org/web/20040407192025/http://www2.usfirst.org/2004comp/Specs/S-B_Pinion_Gear.pdf")  
+[Skill Bosch with Gearbox performance](https://web.archive.org/web/20040125153432/http://www2.usfirst.org/2004comp/Specs/Skill_Bosch_with_Gearbox_performance.pdf "https://web.archive.org/web/20040125153432/http://www2.usfirst.org/2004comp/Specs/Skill_Bosch_with_Gearbox_performance.pdf")  
+Skyway Wheels (File not found as of 3/9/17)  
+[Snap Action fuses](https://web.archive.org/web/20040407203107/http://www2.usfirst.org/2004comp/Specs/snap_action_fuses.pdf "https://web.archive.org/web/20040407203107/http://www2.usfirst.org/2004comp/Specs/snap_action_fuses.pdf")  
+[VIshay-IR Beacon Receiver](https://web.archive.org/web/20040407222407/http://www2.usfirst.org/2004comp/Specs/VIshay-IR_Beacon_receiver.pdf "https://web.archive.org/web/20040407222407/http://www2.usfirst.org/2004comp/Specs/VIshay-IR_Beacon_receiver.pdf")  
+  
 [Batteries Plus Order Form](https://web.archive.org/web/20040602145712/http://www2.usfirst.org/2004comp/Batteries_Plus_Order_Form.pdf "https://web.archive.org/web/20040602145712/http://www2.usfirst.org/2004comp/Batteries_Plus_Order_Form.pdf")  
 [MMH Ventures Fax Order Form](https://web.archive.org/web/20040602144734/http://www2.usfirst.org/2004comp/MMH_Ventures_Fax_Order_Form-RevA.pdf "https://web.archive.org/web/20040602144734/http://www2.usfirst.org/2004comp/MMH_Ventures_Fax_Order_Form-RevA.pdf")  
 [Terminal Supply Order Form (front)](https://web.archive.org/web/20050226101512/http://www2.usfirst.org/2004comp/US_Robotics_front.pdf "https://web.archive.org/web/20050226101512/http://www2.usfirst.org/2004comp/US_Robotics_front.pdf")  
