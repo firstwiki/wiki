@@ -11,7 +11,7 @@ The game for the 2004 season requires robots to collect and pass 13” balls to 
 
 
 
-## Official Documents
+## Official Documents[[2]](https://web.archive.org/web/20041009152230/http://www.usfirst.org/robotics/doc_updt.htm "https://web.archive.org/web/20041009152230/http://www.usfirst.org/robotics/doc_updt.htm")
 [2004 Trophy, Banner and Medallion Order Form](https://web.archive.org/web/20051228105804/http://www.usfirst.org/robotics/2004/2004_Trophy_order_form.pdf "https://web.archive.org/web/20041009152230/http://www.usfirst.org/robotics/2004/2004_Trophy_order_form.pdf")  
 2004 Bronze Medallion Order Form (File not found as of 3/6/17)  
 
