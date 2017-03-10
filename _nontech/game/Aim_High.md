@@ -123,7 +123,8 @@ It is expected that many robots will launch the foam ball with a baseball pitche
 
 The game is a test of accuracy and efficient use of resources, such as the CMUCam, to make the largest scoring advantage.
 
-## Sources
+## Official Documents
+[Section 0 - Introduction](https://web.archive.org/web/20060622211102/http://www2.usfirst.org/2006comp/Manual/0-Introduction.pdf "https://web.archive.org/web/20060622211102/http://www2.usfirst.org/2006comp/Manual/0-Introduction.pdf")  
+[Section 1 - Communication](https://web.archive.org/web/20060622212326/http://www2.usfirst.org/2006comp/Manual/1-Communication_RevD.pdf "https://web.archive.org/web/20060622212326/http://www2.usfirst.org/2006comp/Manual/1-Communication_RevD.pdf")  
+[Section 2 - Team Organization](https://web.archive.org/web/20060622210604/http://www2.usfirst.org/2006comp/Manual/2-Team_Org.pdf "https://web.archive.org/web/20060622210604/http://www2.usfirst.org/2006comp/Manual/2-Team_Org.pdf")  
 
-- [Kickoff movie](http://robotics.nasa.gov/events/2006_kickoff.php "http://robotics.nasa.gov/events/2006_kickoff.php") hosted by NASA.
-- [2006 game manual](http://www.usfirst.org/robotics/doc_updt.htm "http://www.usfirst.org/robotics/doc_updt.htm")
