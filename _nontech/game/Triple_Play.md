@@ -142,7 +142,7 @@ Terminal Supply FAQ (Photo not found as of 3/10/17)
 [Team Update #20](https://web.archive.org/web/20050824095714/http://www2.usfirst.org/2005comp/Updates/Team_Update_20.pdf "https://web.archive.org/web/20050824095714/http://www2.usfirst.org/2005comp/Updates/Team_Update_20.pdf")  
 [Team Update #21](https://web.archive.org/web/20061028100301/http://www2.usfirst.org/2005comp/Updates/Team_Update_21.pdf "https://web.archive.org/web/20061028100301/http://www2.usfirst.org/2005comp/Updates/Team_Update_21.pdf")
 
-### Videos
+### Videos[[7]](https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/kickoff.htm "https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/kickoff.htm")
 [Triple Play Animation (Large) (.mov)](https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/TriplePlayMovie.Large.mov "https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/TriplePlayMovie.Large.mov")  
 [Triple Play Animation (Medium) (.mov)](https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/TriplePlayMovie.Med.mov "https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/TriplePlayMovie.Med.mov")  
 [Triple Play Animation (Small) (.mov)](https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/TriplePlayMovie.Small.mov "https://web.archive.org/web/20051025024147/http://robotics.nasa.gov/first/2005/TriplePlayMovie.Small.mov")  
