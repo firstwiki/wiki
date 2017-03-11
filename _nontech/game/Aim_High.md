@@ -249,3 +249,12 @@ Team Update #8 (File not found as of 3/10/17)
 Team Update #9 (File not found as of 3/10/17)  
 [Team Update #10](https://web.archive.org/web/20151103222150/http://www2.usfirst.org/2006comp/Updates/Team_Update_10_Feb-17-06.pdf "https://web.archive.org/web/20151103222150/http://www2.usfirst.org/2006comp/Updates/Team_Update_10_Feb-17-06.pdf")
 
+### Videos
+[Aim High Animation (Large) (.mov)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/AimHigh-Lrg.mov "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/AimHigh-Lrg.mov")  
+[Aim High Animation (Medium) (.mov)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/AimHigh-Med.mov "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/AimHigh-Med.mov")  
+[Aim High Animation (Small) (.mov)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/AimHigh-Sml.mov "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/AimHigh-Sml.mov")  
+[FIRST Kickoff (.wmv)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/kickoff.wmv "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/kickoff.wmv")  
+[FIRST Kickoff (.rm)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/kickoff.rm "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/events/first/kickoff.rm")  
+[Chassis Build (.mov)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/first/2005/trans_chassis.mov "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/first/2005/trans_chassis.mov")  
+[Chassis Build (.wmv)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/first/2005/tran_chassis_01.wmv "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/first/2005/tran_chassis_01.wmv")  
+[Chassis Build (.ram)](https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/first/2005/tran_chassis_02.ram "https://web.archive.org/web/20060118114701/http://robotics.nasa.gov/first/2005/tran_chassis_02.ram")
