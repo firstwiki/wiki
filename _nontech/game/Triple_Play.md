@@ -59,7 +59,7 @@ The game for the 2005 season is played on a 27' wide by 52' long playing field w
 [Guidelines, Tips & Good Practices](https://web.archive.org/web/20051109141729/http://www2.usfirst.org/2005comp/Manuals/Guidelines_C.pdf "https://web.archive.org/web/20051109141729/http://www2.usfirst.org/2005comp/Manuals/Guidelines_C.pdf")  
 [2005 FIRST Pneumatics Manual](https://web.archive.org/web/20051109143617/http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf "https://web.archive.org/web/20051109143617/http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf")  
 
-##### 2005 FRC Kit of Parts Photo Album[[3]](https://web.archive.org/web/20051109134155/http://www.usfirst.org/robotics/2005/kitpics.htm "https://web.archive.org/web/20051109134155/http://www.usfirst.org/robotics/2005/kitpics.htm")
+#### 2005 FRC Kit of Parts Photo Album[[3]](https://web.archive.org/web/20051109134155/http://www.usfirst.org/robotics/2005/kitpics.htm "https://web.archive.org/web/20051109134155/http://www.usfirst.org/robotics/2005/kitpics.htm")
 [Coil, Wire, Red (.jpg)](https://web.archive.org/web/20120525100210/http://www2.usfirst.org/2005comp/photos/KOP_Photos/BLACK%20CONTAINER%20ITEM%202/6%20Awg%20Wire.JPG "https://web.archive.org/web/20120525100210/http://www2.usfirst.org/2005comp/photos/KOP_Photos/BLACK%20CONTAINER%20ITEM%202/6%20Awg%20Wire.JPG")  
 [Compressor, Thomas (.jpg)](https://web.archive.org/web/20120525100907/http://www2.usfirst.org/2005comp/photos/KOP_Photos/BLACK%20CONTAINER%20ITEM%202/Pneumatics%20Compressor.jpg "https://web.archive.org/web/20120525100907/http://www2.usfirst.org/2005comp/photos/KOP_Photos/BLACK%20CONTAINER%20ITEM%202/Pneumatics%20Compressor.jpg")  
 [Volume Tank, Clippard (.jpg)](https://web.archive.org/web/20120525101017/http://www2.usfirst.org/2005comp/photos/KOP_Photos/BLACK%20CONTAINER%20ITEM%202/Clippard%20Volume%20Tank.jpg "https://web.archive.org/web/20120525101017/http://www2.usfirst.org/2005comp/photos/KOP_Photos/BLACK%20CONTAINER%20ITEM%202/Clippard%20Volume%20Tank.jpg")  
@@ -79,7 +79,7 @@ The game for the 2005 season is played on a 27' wide by 52' long playing field w
 [Electronics Kit (.pdf)](https://web.archive.org/web/20120525093951/http://www2.usfirst.org/2005comp/photos/electronicskit.pdf "https://web.archive.org/web/20120525093951/http://www2.usfirst.org/2005comp/photos/electronicskit.pdf") 
 [Sensor Kit (.pdf)](https://web.archive.org/web/20120525093925/http://www2.usfirst.org/2005comp/photos/Senskit.pdf "https://web.archive.org/web/20120525093925/http://www2.usfirst.org/2005comp/photos/Senskit.pdf")  
 
-##### 2005 FIRST Robotics Competition Kit of Parts Specification Sheets[[4]](https://web.archive.org/web/20051109140155/http://www.usfirst.org/robotics/2005/specsheets.htm "https://web.archive.org/web/20051109140155/http://www.usfirst.org/robotics/2005/specsheets.htm")
+#### 2005 FIRST Robotics Competition Kit of Parts Specification Sheets[[4]](https://web.archive.org/web/20051109140155/http://www.usfirst.org/robotics/2005/specsheets.htm "https://web.archive.org/web/20051109140155/http://www.usfirst.org/robotics/2005/specsheets.htm")
 [Allegro Gear Tooth Sensor](https://web.archive.org/web/20050204231134/http://www2.usfirst.org/2005comp/Specs/gths1.pdf "https://web.archive.org/web/20050204231134/http://www2.usfirst.org/2005comp/Specs/gths1.pdf")  
 [Bussman 120 A Circuit Breaker](https://web.archive.org/web/20050330220422/http://www2.usfirst.org/2005comp/Specs/120acb.pdf "https://web.archive.org/web/20050330220422/http://www2.usfirst.org/2005comp/Specs/120acb.pdf")  
 [CIM](https://web.archive.org/web/20050204235646/http://www2.usfirst.org/2005comp/Specs/CIM.pdf "https://web.archive.org/web/20050204235646/http://www2.usfirst.org/2005comp/Specs/CIM.pdf")  
@@ -103,7 +103,7 @@ Texas Instruments Accelerometer (File not found as of 3/10/17)
 Taigene PSD (File not found as of 3/10/17)  
 [Wika Gauges](https://web.archive.org/web/20050204225629/http://www2.usfirst.org/2005comp/Specs/wika1.pdf "https://web.archive.org/web/20050204225629/http://www2.usfirst.org/2005comp/Specs/wika1.pdf")  
 
-##### FIRST Robotics Competition Kit of Parts Order Forms[[5]](https://web.archive.org/web/20051109141502/http://www.usfirst.org/robotics/2005/KOP_Order_Forms.htm "https://web.archive.org/web/20051109141502/http://www.usfirst.org/robotics/2005/KOP_Order_Forms.htm")
+#### FIRST Robotics Competition Kit of Parts Order Forms[[5]](https://web.archive.org/web/20051109141502/http://www.usfirst.org/robotics/2005/KOP_Order_Forms.htm "https://web.archive.org/web/20051109141502/http://www.usfirst.org/robotics/2005/KOP_Order_Forms.htm")
 Replacement/Spare Parts List (File not found as of 3/10/17)  
 Batteries Plus Order Form (File not found as of 3/10/17)  
 [Midtronics Battery Charger Order Form](https://web.archive.org/web/20060707153601/http://www2.usfirst.org/2005comp/Specs/OrderForms/Midtronics_Battery_Charger_order_info.pdf "https://web.archive.org/web/20060707153601/http://www2.usfirst.org/2005comp/Specs/OrderForms/Midtronics_Battery_Charger_order_info.pdf")  
@@ -119,7 +119,7 @@ Terminal Supply FAQ (Photo not found as of 3/10/17)
 [Section 8 - The Tournament](https://web.archive.org/web/20051109143824/http://www2.usfirst.org/2005comp/Section_8-The_Tournament_rev_C.pdf "https://web.archive.org/web/20051109143824/http://www2.usfirst.org/2005comp/Section_8-The_Tournament_rev_C.pdf")  
 [Section 9 - The Awards](https://web.archive.org/web/20051109141826/http://www2.usfirst.org/2005comp/Section_9_The_Awards.pdf  "https://web.archive.org/web/20051109141826/http://www2.usfirst.org/2005comp/Section_9_The_Awards.pdf")
 
-### Team Updates[[6]]
+### Team Updates[[6]](https://web.archive.org/web/20051109133334/http://www.usfirst.org/robotics/2005/tmup.htm "https://web.archive.org/web/20051109133334/http://www.usfirst.org/robotics/2005/tmup.htm")
 [Team Update #1](https://web.archive.org/web/20050529185158/http://www2.usfirst.org/2005comp/Updates/Team_Update_01.pdf "https://web.archive.org/web/20050529185158/http://www2.usfirst.org/2005comp/Updates/Team_Update_01.pdf")  
 [Team Update #2](https://web.archive.org/web/20051109142431/http://www2.usfirst.org/2005comp/Updates/Team_Update_02.pdf "https://web.archive.org/web/20051109142431/http://www2.usfirst.org/2005comp/Updates/Team_Update_02.pdf")  
 [Team Update #3](https://web.archive.org/web/20060708024556/http://www2.usfirst.org/2005comp/Updates/Team_Update_03.pdf "https://web.archive.org/web/20060708024556/http://www2.usfirst.org/2005comp/Updates/Team_Update_03.pdf")  
