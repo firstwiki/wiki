@@ -4,7 +4,7 @@ tags: frc_games
 ---
 {% include cleanup %}
 
-FIRST Overdrive is the 2008 game for the FIRST Robotics Competition, announced on January 5, 2008.
+*FIRST* Overdrive is the 2008 game for the FIRST Robotics Competition, announced on January 5, 2008.
 
 In Overdrive, teams race around the field and compete to complete counterclockwise laps around a central barrier while manipulating large 40-inch (1 m) diameter "Trackballs" over and under overpasses to score additional points.
 
@@ -12,11 +12,14 @@ An archive of the game rules can be found on the FIRST website 2008 FRC Manual a
 
 ## Game Overview
 
-FIRST Overdrive is played on a 54 foot × 27 foot (16 m × 8 m) track divided lengthwise by a lane divider which divides the field into a Red side and a Blue side. The lane divider is crossed by a 6 1/2 foot tall overpass marking the red and blue finish lines. Two three-team alliances race around the track in a counter clockwise direction manipulating their alliance's Trackballs.
+*FIRST* Overdrive is played on a 54 foot × 27 foot (16 m × 8 m) track divided lengthwise by a lane divider which divides the field into a Red side and a Blue side. The lane divider is crossed by a 6 1/2 foot tall overpass marking the red and blue finish lines. Two three-team alliances race around the track in a counter clockwise direction manipulating their alliance's Trackballs.
 
 The game is made up of two scoring periods. The first 15 seconds of play is the Hybrid period in which robots are autonomous, and may also respond to digital signals sent by team Robocoaches stationed at the corners of the track.
 
 The next two minutes of play is the Teleoperated period. At this time, robots are radio controlled by team operators standing at either end of the field.
+
+### Offical Game Summary[[1]](https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf "https://web.archive.org/web/20150316194933/http://www3.usfirst.org/sites/default/files/uploadedFiles/Who/FIRST_History/FRC_Game_Summaries_Photos.pdf")
+In the 2008 game, “*FIRST* Overdrive,” students’ robots are designed to race around a track knocking down 40" inflated Trackballs and moving them around the track, passing them either over or under a 6'6" overpass. Extra points are scored by robots positioning the Trackballs back on the overpass before the end of the 2 minute and 15 second match.
 
 ### Scoring
 
@@ -45,7 +48,7 @@ The number of different IR signals the IR board is physically able to receive is
 
 ## Robots
 
-FIRST overdrive challenged many teams to score points utilizing the large ball game pieces. The result was a mixed pool of robots that managed to score points using the balls in different ways.
+*FIRST* Overdrive challenged many teams to score points utilizing the large ball game pieces. The result was a mixed pool of robots that managed to score points using the balls in different ways.
 
 - "Lifters" were the most straight forward robots which utilized either an arm or lifting device to lift the ball over the overpass.
 - "Pushers" were one of the more common robot types. These robots scored by pushing the balls around the track. These robots could also score more points by simply going in circles around the track at high speed, earning points with each lap.

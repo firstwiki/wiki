@@ -31,7 +31,7 @@ Stall          | 343.4          | 0           | 133.0       | 0          | 0%
 
 ### 2017
 
-Up to 37 (limited by maximum points per team) 2.5" CIM motors are available to veteran teams via FIRST Choice.
+Four standard 2.5" motors are included, along with one miniCIM motor and one BAG motor. In FIRST Choice, CIM motors were available to veteran teams at a cost of 20 credits each, with no quantity limit.
 
 ### 2014-2016
 

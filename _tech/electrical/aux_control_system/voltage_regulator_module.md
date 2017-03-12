@@ -1,5 +1,7 @@
 ---
 title: Voltage Regulator Module (VRM)
+
+tags: aux-cs
 ---
 
 {% include stub %}

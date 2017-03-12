@@ -16,7 +16,7 @@ The nominal operating voltage of the MDL-BDC is 12 volts, while the MDL-BDC24 is
 
 ## Kit of Parts
 
-### 2015-2016
+### 2015-2017
 
 Jaguars are legal for use but not provided in the KOP.
 

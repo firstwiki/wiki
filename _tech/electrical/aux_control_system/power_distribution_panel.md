@@ -1,5 +1,7 @@
 ---
 title: Power Distribution Panel (PDP)
+
+tags: aux-cs
 ---
 
 {% include stub %}

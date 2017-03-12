@@ -5,7 +5,7 @@ tags: speed-controller
 
 {% include stub %}
 
-The Victor 888 was added as a replacement for the Victor 884. It is manufactured by VEX Robotics, a division of Innovation First Robotics. The Victor 888 has been legal since 2013 and will be legal again in 2017.
+The Victor 888 was added as a replacement for the Victor 884. It is manufactured by VEX Robotics, a division of Innovation First Robotics. The Victor 888 has been legal since 2013.
 
 ## Kit of Parts
 

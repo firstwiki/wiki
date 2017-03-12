@@ -1,5 +1,7 @@
 ---
 title: Pneumatic Control Module (PCM)
+
+tags: aux-cs
 ---
 
 {% include stub %}
