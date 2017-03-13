@@ -65,3 +65,7 @@ A _holonomic drive_ (aka "omni drive") also allows a robot to travel with three 
 ### Mecanum Drive
 
 A [mecanum drive](mecanum) is another omnidirectional drive system. It consist of wheels with their rollers angled in a conventional four wheel drive layout. With an independent motor/transmission on each wheel, omni driving can be achieved by varying speeds.
+
+### Ball Drive
+
+A [ball drive] (http://hackproj.blogspot.com/2012/10/robot-omniwheels.html) is likely the best hypothetical omni-directional drive system
