@@ -156,3 +156,12 @@ _FIRST_ 2007 Chassis Kit Manual (File not found as of 3/11/17 due to robots.txt)
 [12/30/2006 Kickoff KOP Information and Consent and Release Form Reminder!](https://web.archive.org/web/20070713034725/http://www.usfirst.org/community/frc/content.aspx?id=3824 "https://web.archive.org/web/20070713034725/http://www.usfirst.org/community/frc/content.aspx?id=3824")  
 [01/02/2007 Replacement Parts Request Process](https://web.archive.org/web/20070713034928/http://www.usfirst.org/community/frc/content.aspx?id=3826 "https://web.archive.org/web/20070713034928/http://www.usfirst.org/community/frc/content.aspx?id=3826")  
 [01/02/2007 Robot Shipping Information](https://web.archive.org/web/20070713023444/http://www.usfirst.org/community/frc/content.aspx?id=4124 "https://web.archive.org/web/20070713023444/http://www.usfirst.org/community/frc/content.aspx?id=4124")  
+[01/03/2007	2007 FRC Manual Decryption and Bill of Materials Information](
+[01/05/2007	SMC Pneumatics and 2007 FRC Game Pieces Purchasing Information](
+[01/06/2007	Purchasing 2007 FRC Game Pieces and Yaw Rate Gyro and Dual Axis Accelerometer Boards Information](
+[01/08/2007	_FIRST_ Senior Mentor Conference Call on "Looming Deadlines and How to Meet Them"](
+[01/09/2007	Dean's FRC 2007 Kickoff Homework Assignment](
+[01/09/2007	Question & Answer System Opens Wednesday, January 10th!](
+[01/12/2007	Resource and Rookie Workshops Available On-Line Now!](
+[01/12/2007	Scholarship Info](
+[01/12/2007	Volunteer for World Festival!](
