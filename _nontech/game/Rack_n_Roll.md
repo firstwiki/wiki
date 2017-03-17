@@ -156,62 +156,62 @@ _FIRST_ 2007 Chassis Kit Manual (File not found as of 3/11/17 due to robots.txt)
 [12/30/2006 Kickoff KOP Information and Consent and Release Form Reminder!](https://web.archive.org/web/20070713034725/http://www.usfirst.org/community/frc/content.aspx?id=3824 "https://web.archive.org/web/20070713034725/http://www.usfirst.org/community/frc/content.aspx?id=3824")  
 [01/02/2007 Replacement Parts Request Process](https://web.archive.org/web/20070713034928/http://www.usfirst.org/community/frc/content.aspx?id=3826 "https://web.archive.org/web/20070713034928/http://www.usfirst.org/community/frc/content.aspx?id=3826")  
 [01/02/2007 Robot Shipping Information](https://web.archive.org/web/20070713023444/http://www.usfirst.org/community/frc/content.aspx?id=4124 "https://web.archive.org/web/20070713023444/http://www.usfirst.org/community/frc/content.aspx?id=4124")  
-[01/03/2007	2007 FRC Manual Decryption and Bill of Materials Information](
-[01/05/2007	SMC Pneumatics and 2007 FRC Game Pieces Purchasing Information](
-[01/06/2007	Purchasing 2007 FRC Game Pieces and Yaw Rate Gyro and Dual Axis Accelerometer Boards Information](
-[01/08/2007	_FIRST_ Senior Mentor Conference Call on "Looming Deadlines and How to Meet Them"](
-[01/09/2007	Dean's FRC 2007 Kickoff Homework Assignment](
-[01/09/2007	Question & Answer System Opens Wednesday, January 10th!](
-[01/12/2007	Resource and Rookie Workshops Available On-Line Now!](
-[01/12/2007	Scholarship Info](
-[01/12/2007	Volunteer for World Festival!](
-[01/12/2007	Important Team Update Posted - could affect your build](
-[01/15/2007	Upcoming Deadlines, Reminders and Team Search Information](
-[01/16/2007	Chairman's Award, Website Award and Woodie Flowers Award Information - Gyro/Accelerometer Board Deadline Correction](
-[01/19/2007	SMC Pneumatics Bag Update](
-[01/25/2007	SMC Pneumatics Kit Content List](
-[01/25/2007	New Robot Shipping Information Available On-line!](
-[02/10/2007	Award Deadline Reminders and Judges Information](
-[02/15/2007	Team Updates Reminder and Kit Transmission Information](
-[02/15/2007	_FIRST_ Scholarships Alert!](
-[02/16/2007	Robot Shipping Deadline Reminder and Initial Crate Shipment Verification Process!](
-[02/17/2007	Website, Woodie Flowers and Regional Chairman's Award Submission Verification and Rookie All Star Special Note](
-[02/20/2007	What to Expect at Your Regional Event](
-[02/22/2007	Championship Qualification and Registration Process](
-[02/23/2007	Scholarships Alert!](
-[02/25/2007	Safety At the Events, NEW Eye and Face Protection Policy and Student Safety Captain Meeting Information](
-[02/26/2007	Are you Ready? Let the 2007 Games Begin!](
-[02/27/2007	Important Event "Don't Forgets!"](
-[02/27/2007	Important Consent and Release Form Special Notice](
-[03/01/2007	BAE Systems Granite State Regional Weather Delay, Friday March 2, 2007](
-[03/08/2007	Scholarship Updates](
-[03/15/2007	The Fourth Annual _FIRST_ Robotics Conference at the Georgia World Congress Center in Atlanta, April 11-13](
-[03/16/2007	UTC Connecticut Regional Weather Delay](
-[03/16/2007	New York City Regional Weather Delay](
-[03/16/2007	Chesapeake Regional Weather Delay](
-[03/22/2007	Camera Calibration on Practice Day/Team Update #19](
-[03/27/2007	Scholarship Alert for all students going to the _FIRST_ Championship](
-[03/28/2007	Championship FIRST Finale Ticket Information](
-[04/03/2007	_FIRST_ Robotics Conference in GA](
-[04/06/2007	_FIRST_ Championship Team Forum Announcement](
-[04/09/2007	Championship Division List, Pit Closing Information, Weather Update](
-[04/14/2007	Businessweek.com Features _FIRST_](
-[04/19/2007	Thank You 2007 FRC Teams!](
-[04/20/2007	_FIRST_ President Paul Gudonis Announces New Initiative - The President's Circle](
-[04/23/2007	Recognition of 2007 Award Winning Teams Reception on Capitol Hill](
-[04/27/2007	President Bush and Members of Congress to Honor _FIRST_ Students on April 30th, 2007](
-[04/30/2007	President's Circle Challenge Video Available Tomorrow, Tuesday, May 1st at 1:00 pm!](
-[05/01/2007	2007 FRC Team Leader Survey Now Available On-line](
-[05/07/2007	Bronze Participation Medallions](
-[05/09/2007	_FIRST_ Featured on NBC Nightly News with Brian Williams](
-[05/11/2007	Team Forum Information](
-[05/14/2007	Robot Control System Announcement](
-[05/16/2007	Remembering Mike Wade](
-[05/25/2007	President's Circle Video Deadline Extension Announced!](
-[05/29/2007	Save the date for the 2007 _FIRST_ Women in Science & Technology Forum!](
-[06/05/2007	Kit of Parts Survey](
-[06/08/2007	Encyclopaedia Britannica Congratulatory Award for 2007 FRC Teams!](
-[06/18/2007	Senior Mentor Conference Call Information](
-[06/22/2007	Kit of Parts Survey Deadline Reminder](
+[01/03/2007	2007 FRC Manual Decryption and Bill of Materials Information](https://web.archive.org/web/20070713085650/http://www.usfirst.org/community/frc/content.aspx?id=3942 "https://web.archive.org/web/20070713085650/http://www.usfirst.org/community/frc/content.aspx?id=3942")  
+[01/05/2007	SMC Pneumatics and 2007 FRC Game Pieces Purchasing Information](https://web.archive.org/web/20070713085427/http://www.usfirst.org/community/frc/content.aspx?id=4058 "https://web.archive.org/web/20070713085427/http://www.usfirst.org/community/frc/content.aspx?id=4058")  
+[01/06/2007	Purchasing 2007 FRC Game Pieces and Yaw Rate Gyro and Dual Axis Accelerometer Boards Information](https://web.archive.org/web/20070713023422/http://www.usfirst.org/community/frc/content.aspx?id=4060 "https://web.archive.org/web/20070713023422/http://www.usfirst.org/community/frc/content.aspx?id=4060")  
+[01/08/2007	_FIRST_ Senior Mentor Conference Call on "Looming Deadlines and How to Meet Them"](https://web.archive.org/web/20070713085412/http://www.usfirst.org/community/frc/content.aspx?id=4102 "https://web.archive.org/web/20070713085412/http://www.usfirst.org/community/frc/content.aspx?id=4102")  
+[01/09/2007	Dean's FRC 2007 Kickoff Homework Assignment](https://web.archive.org/web/20070713034258/http://www.usfirst.org/community/frc/content.aspx?id=4104 "https://web.archive.org/web/20070713034258/http://www.usfirst.org/community/frc/content.aspx?id=4104")  
+[01/09/2007	Question & Answer System Opens Wednesday, January 10th!](https://web.archive.org/web/20070713081840/http://www.usfirst.org/community/frc/content.aspx?id=4106 "https://web.archive.org/web/20070713081840/http://www.usfirst.org/community/frc/content.aspx?id=4106")  
+01/12/2007 Resource and Rookie Workshops Available On-Line Now! (File not found as of 3/16/17)  
+[01/12/2007	Scholarship Info](https://web.archive.org/web/20070713074807/http://www.usfirst.org/community/frc/content.aspx?id=4134 "https://web.archive.org/web/20070713074807/http://www.usfirst.org/community/frc/content.aspx?id=4134")  
+[01/12/2007	Volunteer for World Festival!](https://web.archive.org/web/20070713034420/http://www.usfirst.org/community/frc/content.aspx?id=4146 "https://web.archive.org/web/20070713034420/http://www.usfirst.org/community/frc/content.aspx?id=4146")  
+[01/12/2007	Important Team Update Posted - could affect your build](https://web.archive.org/web/20070713081826/http://www.usfirst.org/community/frc/content.aspx?id=4144 "https://web.archive.org/web/20070713081826/http://www.usfirst.org/community/frc/content.aspx?id=4144")  
+[01/15/2007	Upcoming Deadlines, Reminders and Team Search Information](https://web.archive.org/web/20070713082457/http://www.usfirst.org/community/frc/content.aspx?id=4150 "https://web.archive.org/web/20070713082457/http://www.usfirst.org/community/frc/content.aspx?id=4150")  
+[01/16/2007	Chairman's Award, Website Award and Woodie Flowers Award Information - Gyro/Accelerometer Board Deadline Correction](https://web.archive.org/web/20070713035141/http://www.usfirst.org/community/frc/content.aspx?id=4152 "https://web.archive.org/web/20070713035141/http://www.usfirst.org/community/frc/content.aspx?id=4152")  
+[01/19/2007	SMC Pneumatics Bag Update](https://web.archive.org/web/20070713085522/http://www.usfirst.org/community/frc/content.aspx?id=4170 "https://web.archive.org/web/20070713085522/http://www.usfirst.org/community/frc/content.aspx?id=4170")  
+[01/25/2007	SMC Pneumatics Kit Content List](https://web.archive.org/web/20070713082416/http://www.usfirst.org/community/frc/content.aspx?id=4216 "https://web.archive.org/web/20070713082416/http://www.usfirst.org/community/frc/content.aspx?id=4216")  
+[01/25/2007	New Robot Shipping Information Available On-line!](https://web.archive.org/web/20070713024212/http://www.usfirst.org/community/frc/content.aspx?id=4220 "https://web.archive.org/web/20070713024212/http://www.usfirst.org/community/frc/content.aspx?id=4220")  
+[02/10/2007	Award Deadline Reminders and Judges Information](https://web.archive.org/web/20070713085508/http://www.usfirst.org/community/frc/content.aspx?id=4732 "https://web.archive.org/web/20070713085508/http://www.usfirst.org/community/frc/content.aspx?id=4732")  
+[02/15/2007	Team Updates Reminder and Kit Transmission Information](https://web.archive.org/web/20070713023924/http://www.usfirst.org/community/frc/content.aspx?id=4608 "https://web.archive.org/web/20070713023924/http://www.usfirst.org/community/frc/content.aspx?id=4608")  
+[02/15/2007	_FIRST_ Scholarships Alert!](https://web.archive.org/web/20070713034810/http://www.usfirst.org/community/frc/content.aspx?id=4618 "https://web.archive.org/web/20070713034810/http://www.usfirst.org/community/frc/content.aspx?id=4618")  
+[02/16/2007	Robot Shipping Deadline Reminder and Initial Crate Shipment Verification Process!](https://web.archive.org/web/20070713023735/http://www.usfirst.org/community/frc/content.aspx?id=4620 "https://web.archive.org/web/20070713023735/http://www.usfirst.org/community/frc/content.aspx?id=4620")  
+[02/17/2007	Website, Woodie Flowers and Regional Chairman's Award Submission Verification and Rookie All Star Special Note](https://web.archive.org/web/20070713023618/http://www.usfirst.org/community/frc/content.aspx?id=4716 "https://web.archive.org/web/20070713023618/http://www.usfirst.org/community/frc/content.aspx?id=4716")  
+[02/20/2007	What to Expect at Your Regional Event](https://web.archive.org/web/20070809201442/http://www.usfirst.org/community/frc/content.aspx?id=4722 "https://web.archive.org/web/20070809201442/http://www.usfirst.org/community/frc/content.aspx?id=4722")  
+[02/22/2007	Championship Qualification and Registration Process](https://web.archive.org/web/20070713074835/http://www.usfirst.org/community/frc/content.aspx?id=4730 "https://web.archive.org/web/20070713074835/http://www.usfirst.org/community/frc/content.aspx?id=4730")  
+[02/23/2007	Scholarships Alert!](https://web.archive.org/web/20070713044623/http://www.usfirst.org/community/frc/content.aspx?id=4850 "https://web.archive.org/web/20070713044623/http://www.usfirst.org/community/frc/content.aspx?id=4850")  
+[02/25/2007	Safety At the Events, NEW Eye and Face Protection Policy and Student Safety Captain Meeting Information](https://web.archive.org/web/20070713035014/http://www.usfirst.org/community/frc/content.aspx?id=4852 "https://web.archive.org/web/20070713035014/http://www.usfirst.org/community/frc/content.aspx?id=4852")  
+[02/26/2007	Are you Ready? Let the 2007 Games Begin!](https://web.archive.org/web/20070713034642/http://www.usfirst.org/community/frc/content.aspx?id=4854 "https://web.archive.org/web/20070713034642/http://www.usfirst.org/community/frc/content.aspx?id=4854")  
+[02/27/2007	Important Event "Don't Forgets!"](https://web.archive.org/web/20070811124110/http://www.usfirst.org/community/frc/content.aspx?id=4860 "https://web.archive.org/web/20070811124110/http://www.usfirst.org/community/frc/content.aspx?id=4860")  
+[02/27/2007	Important Consent and Release Form Special Notice](https://web.archive.org/web/20070713081741/http://www.usfirst.org/community/frc/content.aspx?id=4862 "https://web.archive.org/web/20070713081741/http://www.usfirst.org/community/frc/content.aspx?id=4862")  
+[03/01/2007	BAE Systems Granite State Regional Weather Delay, Friday March 2, 2007](https://web.archive.org/web/20070809201418/http://www.usfirst.org/community/frc/content.aspx?id=4914 "https://web.archive.org/web/20070809201418/http://www.usfirst.org/community/frc/content.aspx?id=4914")  
+[03/08/2007	Scholarship Updates](https://web.archive.org/web/20070713082515/http://www.usfirst.org/community/frc/content.aspx?id=4962 "https://web.archive.org/web/20070713082515/http://www.usfirst.org/community/frc/content.aspx?id=4962")  
+[03/15/2007	The Fourth Annual _FIRST_ Robotics Conference at the Georgia World Congress Center in Atlanta, April 11-13](https://web.archive.org/web/20070811124212/http://www.usfirst.org/community/frc/content.aspx?id=5012 "https://web.archive.org/web/20070811124212/http://www.usfirst.org/community/frc/content.aspx?id=5012")  
+[03/16/2007	UTC Connecticut Regional Weather Delay](https://web.archive.org/web/20070713081810/http://www.usfirst.org/community/frc/content.aspx?id=5006 "https://web.archive.org/web/20070713081810/http://www.usfirst.org/community/frc/content.aspx?id=5006")  
+[03/16/2007	New York City Regional Weather Delay](https://web.archive.org/web/20070811123834/http://www.usfirst.org/community/frc/content.aspx?id=5008 "https://web.archive.org/web/20070811123834/http://www.usfirst.org/community/frc/content.aspx?id=5008")  
+03/16/2007 Chesapeake Regional Weather Delay (File not found as of 3/16/17)  
+[03/22/2007	Camera Calibration on Practice Day/Team Update #19](https://web.archive.org/web/20070713085740/http://www.usfirst.org/community/frc/content.aspx?id=5056 "https://web.archive.org/web/20070713085740/http://www.usfirst.org/community/frc/content.aspx?id=5056")  
+[03/27/2007	Scholarship Alert for all students going to the _FIRST_ Championship](https://web.archive.org/web/20070713023823/http://www.usfirst.org/community/frc/content.aspx?id=5116 "https://web.archive.org/web/20070713023823/http://www.usfirst.org/community/frc/content.aspx?id=5116")  
+[03/28/2007	Championship FIRST Finale Ticket Information](https://web.archive.org/web/20070713012233/http://www.usfirst.org/community/frc/content.aspx?id=5118 "https://web.archive.org/web/20070713012233/http://www.usfirst.org/community/frc/content.aspx?id=5118")  
+[04/03/2007	_FIRST_ Robotics Conference in GA](https://web.archive.org/web/20070713012346/http://www.usfirst.org/community/frc/content.aspx?id=5336 "https://web.archive.org/web/20070713012346/http://www.usfirst.org/community/frc/content.aspx?id=5336")  
+[04/06/2007	_FIRST_ Championship Team Forum Announcement](https://web.archive.org/web/20070811124458/http://www.usfirst.org/community/frc/content.aspx?id=5338 "https://web.archive.org/web/20070811124458/http://www.usfirst.org/community/frc/content.aspx?id=5338")  
+[04/09/2007	Championship Division List, Pit Closing Information, Weather Update](https://web.archive.org/web/20070811124334/http://www.usfirst.org/community/frc/content.aspx?id=5342 "https://web.archive.org/web/20070811124334/http://www.usfirst.org/community/frc/content.aspx?id=5342")  
+[04/14/2007	Businessweek.com Features _FIRST_](https://web.archive.org/web/20070713085551/http://www.usfirst.org/community/frc/content.aspx?id=5370 "https://web.archive.org/web/20070713085551/http://www.usfirst.org/community/frc/content.aspx?id=5370")  
+[04/19/2007	Thank You 2007 FRC Teams!](https://web.archive.org/web/20070713034954/http://www.usfirst.org/community/frc/content.aspx?id=5374 "https://web.archive.org/web/20070713034954/http://www.usfirst.org/community/frc/content.aspx?id=5374")  
+[04/20/2007	_FIRST_ President Paul Gudonis Announces New Initiative - The President's Circle](https://web.archive.org/web/20070712032203/http://www.usfirst.org/community/frc/content.aspx?id=5384 "https://web.archive.org/web/20070712032203/http://www.usfirst.org/community/frc/content.aspx?id=5384")  
+[04/23/2007	Recognition of 2007 Award Winning Teams Reception on Capitol Hill](https://web.archive.org/web/20070713082444/http://www.usfirst.org/community/frc/content.aspx?id=5396 "https://web.archive.org/web/20070713082444/http://www.usfirst.org/community/frc/content.aspx?id=5396")  
+[04/27/2007	President Bush and Members of Congress to Honor _FIRST_ Students on April 30th, 2007](https://web.archive.org/web/20070713044558/http://www.usfirst.org/community/frc/content.aspx?id=5408 "https://web.archive.org/web/20070713044558/http://www.usfirst.org/community/frc/content.aspx?id=5408")  
+[04/30/2007	President's Circle Challenge Video Available Tomorrow, Tuesday, May 1st at 1:00 pm!](https://web.archive.org/web/20070713024057/http://www.usfirst.org/community/frc/content.aspx?id=5412 "https://web.archive.org/web/20070713024057/http://www.usfirst.org/community/frc/content.aspx?id=5412")  
+[05/01/2007	2007 FRC Team Leader Survey Now Available On-line](https://web.archive.org/web/20070713081657/http://www.usfirst.org/community/frc/content.aspx?id=5438 "https://web.archive.org/web/20070713081657/http://www.usfirst.org/community/frc/content.aspx?id=5438")  
+[05/07/2007	Bronze Participation Medallions](https://web.archive.org/web/20070713034229/http://www.usfirst.org/community/frc/content.aspx?id=5446 "https://web.archive.org/web/20070713034229/http://www.usfirst.org/community/frc/content.aspx?id=5446")  
+[05/09/2007	_FIRST_ Featured on NBC Nightly News with Brian Williams](https://web.archive.org/web/20070713085634/http://www.usfirst.org/community/frc/content.aspx?id=5452 "https://web.archive.org/web/20070713085634/http://www.usfirst.org/community/frc/content.aspx?id=5452")  
+[05/11/2007	Team Forum Information](https://web.archive.org/web/20070713082349/http://www.usfirst.org/community/frc/content.aspx?id=5456 "https://web.archive.org/web/20070713082349/http://www.usfirst.org/community/frc/content.aspx?id=5456")  
+[05/14/2007	Robot Control System Announcement](https://web.archive.org/web/20070713044736/http://www.usfirst.org/community/frc/content.aspx?id=5458 "https://web.archive.org/web/20070713044736/http://www.usfirst.org/community/frc/content.aspx?id=5458")  
+[05/16/2007	Remembering Mike Wade](https://web.archive.org/web/20070713082430/http://www.usfirst.org/community/frc/content.aspx?id=5488 "https://web.archive.org/web/20070713082430/http://www.usfirst.org/community/frc/content.aspx?id=5488")  
+[05/25/2007	President's Circle Video Deadline Extension Announced!](https://web.archive.org/web/20070811124629/http://www.usfirst.org/community/frc/content.aspx?id=5512 "https://web.archive.org/web/20070811124629/http://www.usfirst.org/community/frc/content.aspx?id=5512")  
+[05/29/2007	Save the date for the 2007 _FIRST_ Women in Science & Technology Forum!](https://web.archive.org/web/20070811124525/http://www.usfirst.org/community/frc/content.aspx?id=5514 "https://web.archive.org/web/20070811124525/http://www.usfirst.org/community/frc/content.aspx?id=5514")  
+[06/05/2007	Kit of Parts Survey](https://web.archive.org/web/20070811124430/http://www.usfirst.org/community/frc/content.aspx?id=5524 "https://web.archive.org/web/20070811124430/http://www.usfirst.org/community/frc/content.aspx?id=5524")  
+[06/08/2007	Encyclopaedia Britannica Congratulatory Award for 2007 FRC Teams!](https://web.archive.org/web/20070713034331/http://www.usfirst.org/community/frc/content.aspx?id=5528 "https://web.archive.org/web/20070713034331/http://www.usfirst.org/community/frc/content.aspx?id=5528")  
+[06/18/2007	Senior Mentor Conference Call Information](https://web.archive.org/web/20070713085705/http://www.usfirst.org/community/frc/content.aspx?id=5666 "https://web.archive.org/web/20070713085705/http://www.usfirst.org/community/frc/content.aspx?id=5666")  
+[06/22/2007	Kit of Parts Survey Deadline Reminder](https://web.archive.org/web/20070809201536/http://www.usfirst.org/community/frc/content.aspx?id=5676
 [06/25/2007	Join FLL Team on Visit to IBM's Almaden Research Center on June 26](
 [06/28/2007	Senior Mentor Conference Call Available On Line Now!](
