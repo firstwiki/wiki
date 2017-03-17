@@ -165,3 +165,53 @@ _FIRST_ 2007 Chassis Kit Manual (File not found as of 3/11/17 due to robots.txt)
 [01/12/2007	Resource and Rookie Workshops Available On-Line Now!](
 [01/12/2007	Scholarship Info](
 [01/12/2007	Volunteer for World Festival!](
+[01/12/2007	Important Team Update Posted - could affect your build](
+[01/15/2007	Upcoming Deadlines, Reminders and Team Search Information](
+[01/16/2007	Chairman's Award, Website Award and Woodie Flowers Award Information - Gyro/Accelerometer Board Deadline Correction](
+[01/19/2007	SMC Pneumatics Bag Update](
+[01/25/2007	SMC Pneumatics Kit Content List](
+[01/25/2007	New Robot Shipping Information Available On-line!](
+[02/10/2007	Award Deadline Reminders and Judges Information](
+[02/15/2007	Team Updates Reminder and Kit Transmission Information](
+[02/15/2007	_FIRST_ Scholarships Alert!](
+[02/16/2007	Robot Shipping Deadline Reminder and Initial Crate Shipment Verification Process!](
+[02/17/2007	Website, Woodie Flowers and Regional Chairman's Award Submission Verification and Rookie All Star Special Note](
+[02/20/2007	What to Expect at Your Regional Event](
+[02/22/2007	Championship Qualification and Registration Process](
+[02/23/2007	Scholarships Alert!](
+[02/25/2007	Safety At the Events, NEW Eye and Face Protection Policy and Student Safety Captain Meeting Information](
+[02/26/2007	Are you Ready? Let the 2007 Games Begin!](
+[02/27/2007	Important Event "Don't Forgets!"](
+[02/27/2007	Important Consent and Release Form Special Notice](
+[03/01/2007	BAE Systems Granite State Regional Weather Delay, Friday March 2, 2007](
+[03/08/2007	Scholarship Updates](
+[03/15/2007	The Fourth Annual _FIRST_ Robotics Conference at the Georgia World Congress Center in Atlanta, April 11-13](
+[03/16/2007	UTC Connecticut Regional Weather Delay](
+[03/16/2007	New York City Regional Weather Delay](
+[03/16/2007	Chesapeake Regional Weather Delay](
+[03/22/2007	Camera Calibration on Practice Day/Team Update #19](
+[03/27/2007	Scholarship Alert for all students going to the _FIRST_ Championship](
+[03/28/2007	Championship FIRST Finale Ticket Information](
+[04/03/2007	_FIRST_ Robotics Conference in GA](
+[04/06/2007	_FIRST_ Championship Team Forum Announcement](
+[04/09/2007	Championship Division List, Pit Closing Information, Weather Update](
+[04/14/2007	Businessweek.com Features _FIRST_](
+[04/19/2007	Thank You 2007 FRC Teams!](
+[04/20/2007	_FIRST_ President Paul Gudonis Announces New Initiative - The President's Circle](
+[04/23/2007	Recognition of 2007 Award Winning Teams Reception on Capitol Hill](
+[04/27/2007	President Bush and Members of Congress to Honor _FIRST_ Students on April 30th, 2007](
+[04/30/2007	President's Circle Challenge Video Available Tomorrow, Tuesday, May 1st at 1:00 pm!](
+[05/01/2007	2007 FRC Team Leader Survey Now Available On-line](
+[05/07/2007	Bronze Participation Medallions](
+[05/09/2007	_FIRST_ Featured on NBC Nightly News with Brian Williams](
+[05/11/2007	Team Forum Information](
+[05/14/2007	Robot Control System Announcement](
+[05/16/2007	Remembering Mike Wade](
+[05/25/2007	President's Circle Video Deadline Extension Announced!](
+[05/29/2007	Save the date for the 2007 _FIRST_ Women in Science & Technology Forum!](
+[06/05/2007	Kit of Parts Survey](
+[06/08/2007	Encyclopaedia Britannica Congratulatory Award for 2007 FRC Teams!](
+[06/18/2007	Senior Mentor Conference Call Information](
+[06/22/2007	Kit of Parts Survey Deadline Reminder](
+[06/25/2007	Join FLL Team on Visit to IBM's Almaden Research Center on June 26](
+[06/28/2007	Senior Mentor Conference Call Available On Line Now!](
