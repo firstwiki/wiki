@@ -10,6 +10,7 @@ Rack 'N' Roll was the 2007 FRC Game.
 In the 2007 game, “Rack ‘N’ Roll,” students’ robots are designed to hang inflated colored tubes on pegs configured in rows and columns on a 10-foot high center “rack” structure. Extra points are scored by robots being in their home zone and lifted more than 4” off the floor by another robot before the end of the 2 minute and 15 second match.
 
 ## Official Documents
+[2007 _FIRST_ Robotics Competition Season Welcome Letter](https://web.archive.org/web/20070522074429/http://www.usfirst.org/community/frc/content.aspx?id=448 "https://web.archive.org/web/20070522074429/http://www.usfirst.org/community/frc/content.aspx?id=448")  
 [2007 Trophy and Medallions Reorder Form](https://web.archive.org/web/20070713180308/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/2007_Award_Reorder_Form.pdf "https://web.archive.org/web/20070713180308/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/2007_Award_Reorder_Form.pdf")  
 [2007 Rack 'N' Roll Score Calculator (.exe)](https://web.archive.org/web/20070713054106/http://www2.usfirst.org/2007comp/Software/FIRST_RnR_Calc_1.2.exe "https://web.archive.org/web/20070713054106/http://www2.usfirst.org/2007comp/Software/FIRST_RnR_Calc_1.2.exe")  
 Rack 'N' Roll Score Calculator User's Guide (File not found as of 3/11/17)  
@@ -215,3 +216,13 @@ _FIRST_ 2007 Chassis Kit Manual (File not found as of 3/11/17 due to robots.txt)
 [06/22/2007	Kit of Parts Survey Deadline Reminder](https://web.archive.org/web/20070809201536/http://www.usfirst.org/community/frc/content.aspx?id=5676 "https://web.archive.org/web/20070809201536/http://www.usfirst.org/community/frc/content.aspx?id=5676")  
 [06/25/2007	Join FLL Team on Visit to IBM's Almaden Research Center on June 26](https://web.archive.org/web/20070713081715/http://www.usfirst.org/community/frc/content.aspx?id=5668 "https://web.archive.org/web/20070713081715/http://www.usfirst.org/community/frc/content.aspx?id=5668")  
 [06/28/2007	Senior Mentor Conference Call Available On Line Now!](https://web.archive.org/web/20070713034402/http://www.usfirst.org/community/frc/content.aspx?id=5714 "https://web.archive.org/web/20070713034402/http://www.usfirst.org/community/frc/content.aspx?id=5714")  
+  
+[Calendar of Important Deadlines](https://web.archive.org/web/20070522073638/http://www.usfirst.org/community/frc/content.aspx?id=454 "https://web.archive.org/web/20070522073638/http://www.usfirst.org/community/frc/content.aspx?id=454")  
+
+#### 2007 Robot Shipping
+[Shipping Your Robot -- Important Guidelines!! (.ppt)](https://web.archive.org/web/20070522074256/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Shipping%20Your%20Robot%20--%20Important%20Guidelines.ppt "https://web.archive.org/web/20070522074256/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Shipping%20Your%20Robot%20--%20Important%20Guidelines.ppt")  
+[Ready to Ship -- How to Ship from My Location](https://web.archive.org/web/20070713074702/http://www.usfirst.org/community/frc/content.aspx?id=4154 "https://web.archive.org/web/20070713074702/http://www.usfirst.org/community/frc/content.aspx?id=4154")  
+  
+[Get Published, an opportunity for teams who win FRC Engineering awards](https://web.archive.org/web/20070713180335/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Get_Published.pdf "https://web.archive.org/web/20070713180335/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Get_Published.pdf")  
+[Autodesk Visualization Award - Regional Competitions](https://web.archive.org/web/20070713180255/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Autodesk_Visualization_Design_Regional_Competition_2007_.pdf "https://web.archive.org/web/20070713180255/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Autodesk_Visualization_Design_Regional_Competition_2007_.pdf")  
+[Consent and Release Form](https://web.archive.org/web/20070713180320/http://www.usfirst.org/uploadedFiles/Community/Assets/2006-07ConsentandReleaseForm2.pdf "https://web.archive.org/web/20070713180320/http://www.usfirst.org/uploadedFiles/Community/Assets/2006-07ConsentandReleaseForm2.pdf")
