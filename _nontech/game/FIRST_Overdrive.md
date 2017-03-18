@@ -63,12 +63,6 @@ The number of different IR signals the IR board is physically able to receive is
 [Section 4 - Robot Transportation](https://web.archive.org/web/20100415073104/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/4%20-Robot%20Transportation-RevA.pdf "https://web.archive.org/web/20100415073104/http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/4%20-Robot%20Transportation-RevA.pdf")  
   
 [Section 5 - The Awards](https://web.archive.org/web/20100616130921/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/5%20-Awards%20RevC.pdf "https://web.archive.org/web/20100616130921/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/5%20-Awards%20RevC.pdf")  
-[Regional Awards](https://web.archive.org/web/20100613103144/http://usfirst.org/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/2010%20FRC%20Regional%20%20Awards.pdf "https://web.archive.org/web/20100613103144/http://usfirst.org/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/2010%20FRC%20Regional%20%20Awards.pdf")  
-[Championship Awards](https://web.archive.org/web/20100613103212/http://usfirst.org/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/2010%20FRC%20Championship%20Awards.pdf "https://web.archive.org/web/20100613103212/http://usfirst.org/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/2010%20FRC%20Championship%20Awards.pdf")  
-[Chairman's Award Criteria](https://web.archive.org/web/20100613131655/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Chairman%20Award%20Criteria%281%29.pdf "https://web.archive.org/web/20100613131655/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/Chairman%20Award%20Criteria%281%29.pdf")  
-[Woodie Flowers Award Criteria](https://web.archive.org/web/20100613131622/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2010%20WFA.pdf "https://web.archive.org/web/20100613131622/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2010%20WFA.pdf")  
-
-
 [Section 6 - The Arena](https://web.archive.org/web/20100616131157/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/6%20-The%20Arena-RevB.pdf "https://web.archive.org/web/20100616131157/http://usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/6%20-The%20Arena-RevB.pdf")  
 
 #### Official _FIRST_ Drawings
