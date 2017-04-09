@@ -22,6 +22,7 @@ tagline:          The FIRST Robotics encyclopedia
 paginate:         5
 safe:             false
 excerpt_separator: ""
+strict_front_matter: true
 
 data_dir:         _common/_data
 includes_dir:     _common/_includes
