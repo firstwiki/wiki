@@ -214,7 +214,7 @@ The game is a test of accuracy and efficient use of resources, such as the CMUCa
 [Norgren Main Regulator](https://web.archive.org/web/20050204233438/http://www2.usfirst.org/2005comp/Specs/Noreg.pdf "https://web.archive.org/web/20050204233438/http://www2.usfirst.org/2005comp/Specs/Noreg.pdf")  
 [Papst Fan, Large](https://web.archive.org/web/20050204231654/http://www2.usfirst.org/2005comp/Specs/fan1.pdf "https://web.archive.org/web/20050204231654/http://www2.usfirst.org/2005comp/Specs/fan1.pdf")  
 [Papst Fan, Small](https://web.archive.org/web/20050204222848/http://www2.usfirst.org/2005comp/Specs/fan2.pdf "https://web.archive.org/web/20050204222848/http://www2.usfirst.org/2005comp/Specs/fan2.pdf")  
-[Rexroth Value](https://web.archive.org/web/20061231173051/http://www2.usfirst.org/2006comp/Specs/Rexroth.pdf "https://web.archive.org/web/20061231173051/http://www2.usfirst.org/2006comp/Specs/Rexroth.pdf")  
+[Rexroth Valve](https://web.archive.org/web/20061231173051/http://www2.usfirst.org/2006comp/Specs/Rexroth.pdf "https://web.archive.org/web/20061231173051/http://www2.usfirst.org/2006comp/Specs/Rexroth.pdf")  
 [Skyway 8" Wheel](https://web.archive.org/web/20050204224033/http://www2.usfirst.org/2005comp/Specs/skyway.pdf "https://web.archive.org/web/20050204224033/http://www2.usfirst.org/2005comp/Specs/skyway.pdf")  
 [SMC Double Solenoid](https://web.archive.org/web/20050204222202/http://www2.usfirst.org/2005comp/Specs/SY3000.pdf "https://web.archive.org/web/20050204222202/http://www2.usfirst.org/2005comp/Specs/SY3000.pdf")  
 [SMC Flow Control Valve](https://web.archive.org/web/20050204234000/http://www2.usfirst.org/2005comp/Specs/Floctl.pdf "https://web.archive.org/web/20050204234000/http://www2.usfirst.org/2005comp/Specs/Floctl.pdf")  
