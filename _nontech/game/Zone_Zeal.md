@@ -11,7 +11,7 @@ Each 2 minute match begins with the 24’ x 48’ field broken up into 5 zones a
 
 ## Official Documents
 [Early BOM for part of the game](https://web.archive.org/web/20040105150430/http://www.usfirst.org/robotics/2002/earlyBOM.pdf "https://web.archive.org/web/20040105150430/http://www.usfirst.org/robotics/2002/earlyBOM.pdf")  
-[The Game](https://web.archive.org/web/20040107154341/http://www2.usfirst.org/2002comp/game.pdf https://web.archive.org/web/20040107154341/http://www2.usfirst.org/2002comp/game.pdf")
+[The Game](https://web.archive.org/web/20040107154341/http://www2.usfirst.org/2002comp/game.pdf  "https://web.archive.org/web/20040107154341/http://www2.usfirst.org/2002comp/game.pdf")
 
 ### The Robot
 [The Robot, rules & specs](https://web.archive.org/web/20031128040840/http://www2.usfirst.org/2002comp/robot.pdf "https://web.archive.org/web/20031128040840/http://www2.usfirst.org/2002comp/robot.pdf")  
