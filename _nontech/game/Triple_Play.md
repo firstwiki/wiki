@@ -43,7 +43,8 @@ The game for the 2005 season is played on a 27' wide by 52' long playing field w
 [2005 FIRST Robotics Competition Game Team Field Elements Tetra and Goal Assembly](https://web.archive.org/web/20051109144806/http://www2.usfirst.org/2005comp/Drawings/2005_TEAM_Field_elements_TETRA-GOAL_ASSY.pdf "https://web.archive.org/web/20051109144806/http://www2.usfirst.org/2005comp/Drawings/2005_TEAM_Field_elements_TETRA-GOAL_ASSY.pdf")  
 [2005 FIRST Robotics Competition Game Team Field Elements Tetra and Goal Assembly Innovation First Version](https://web.archive.org/web/20051109144007/http://www2.usfirst.org/2005comp/Drawings/FIRST_2005_Tet_Goal_Assy.pdf "https://web.archive.org/web/20051109144007/http://www2.usfirst.org/2005comp/Drawings/FIRST_2005_Tet_Goal_Assy.pdf")  
 [2005 FIRST Robotics Competition Game Team Field Elements Vision Tetra](https://web.archive.org/web/20051109144830/http://www2.usfirst.org/2005comp/Drawings/2005_TEAM_Field_elements_VISION_TETRA%20.pdf "https://web.archive.org/web/20051109144830/http://www2.usfirst.org/2005comp/Drawings/2005_TEAM_Field_elements_VISION_TETRA%20.pdf")
-
+  
+[Section 4 - The Game](https://web.archive.org/web/20051109143022/http://www2.usfirst.org:80/2005comp/Section_4-The_Game_rev_C.pdf "https://web.archive.org/web/20051109143022/http://www2.usfirst.org:80/2005comp/Section_4-The_Game_rev_C.pdf")
 ### Section 5 - The Robot
 [Section 5 - The Robot (includes the Kit of Parts)](https://web.archive.org/web/20051109143206/http://www2.usfirst.org/2005comp/Section_5-The_Robot_rev_B.pdf "https://web.archive.org/web/20051109143206/http://www2.usfirst.org/2005comp/Section_5-The_Robot_rev_B.pdf")  
 
