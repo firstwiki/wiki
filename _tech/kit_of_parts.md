@@ -131,10 +131,12 @@ No KOP documents have been found. If you or someone you know has a copy, please 
 FIRST Choice was moved to its own site in 2014, with a new robots.txt. Thus, the WayBack Machine was unable to archive them. No FC documents have been found as of March 1, 2017.
 
 ## 2013
-[FIRST Choice Public Viewing Page](https://web.archive.org/web/20121220042210/http://www.andymark.com/FIRST-Choice-Public-Viewing-2013-s/411.htm "https://web.archive.org/web/20121220042210/http://www.andymark.com/FIRST-Choice-Public-Viewing-2013-s/411.htm")
+[FIRST Choice Public Viewing Page](https://web.archive.org/web/20121220042210/http://www.andymark.com/FIRST-Choice-Public-Viewing-2013-s/411.htm "https://web.archive.org/web/20121220042210/http://www.andymark.com/FIRST-Choice-Public-Viewing-2013-s/411.htm")  
+[FIRST Choice Instructions (.avi)](https://web.archive.org/web/20170521024143/http://files.andymark.com/Run2013FIRSTChoice.avi "https://web.archive.org/web/20170521024143/http://files.andymark.com/Run2013FIRSTChoice.avi")
 
 ## 2012
-[FIRST Choice Public Viewing Page](https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm "https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm")
+[FIRST Choice Public Viewing Page](https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm "https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm")  
+[FIRST Choice Instructions (.avi)](https://web.archive.org/web/20170521024030/http://files.andymark.com/FIRSTChoiceInstructions.avi "https://web.archive.org/web/20170521024030/http://files.andymark.com/FIRSTChoiceInstructions.avi")
 
 ## 2011
-[Unofficial List](https://www.chiefdelphi.com/forums/showpost.php?p=985332&postcount=45 "https://www.chiefdelphi.com/forums/showpost.php?p=985332&postcount=45")
+[FIRST Choice List](https://web.archive.org/web/20170521023406/http://files.andymark.com/2011FirstChoiceList.pdf "https://web.archive.org/web/20170521023406/http://files.andymark.com/2011FirstChoiceList.pdf")
