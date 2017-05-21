@@ -137,4 +137,4 @@ FIRST Choice was moved to its own site in 2014, with a new robots.txt. Thus, the
 [FIRST Choice Public Viewing Page](https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm "https://web.archive.org/web/20120108043431/http://www.andymark.com/FIRST-Choice-Public-s/411.htm")
 
 ## 2011
-[Unofficial List](https://www.chiefdelphi.com/forums/showpost.php?p=985332&postcount=45 "https://www.chiefdelphi.com/forums/showpost.php?p=985332&postcount=45")
+[FIRST Choice List](https://web.archive.org/web/20170521023406/http://files.andymark.com/2011FirstChoiceList.pdf "https://web.archive.org/web/20170521023406/http://files.andymark.com/2011FirstChoiceList.pdf")
