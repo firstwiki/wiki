@@ -224,3 +224,41 @@ The Compact Connectors with CAGE CLAMP COMPACT fitting can connect up to 5 strip
   -	3 lever (0.815"x0.673"x0.570")
   -	5 lever (0.8201".0450"x0.570")
 - Manufacturer Part#: 222-412 + 222-413 + 222-415
+  
+## Volume Chamber, small [(fc13-016)](https://web.archive.org/web/20130122082547/http://www.andymark.com:80/FIRST-Choice-p/fc13-016.htm "https://web.archive.org/web/20130122082547/http://www.andymark.com:80/FIRST-Choice-p/fc13-016.htm")
+__5 Credits__  
+Donated by: Clippard
+#### Product Overview:
+Stainless steel and aluminum storage tank, 16³in
+#### Specifications:
+- Max 250 PSI,
+- 30 F to 250 F 
+- 1/4 NPT Ports
+- Weight: 0.8
+- Manufacturer Part #: AVT-32-16
+  
+## CAN Cable Kit [(fc13-017)](https://web.archive.org/web/20130122082552/http://www.andymark.com:80/FIRST-Choice-p/fc13-017.htm "https://web.archive.org/web/20130122082552/http://www.andymark.com:80/FIRST-Choice-p/fc13-017.htm")
+__5 Credits__  
+Donated by: Cross the Road Electronics
+#### Product Overview:
+Four CAN Cables with RJ12 connectors, one at 24 inches, three at 10 inches.
+#### Specifications:
+- 1-24" cable, 3-10"cables
+- Weight: 0.072
+- Lengths: 24"/10"
+- Part #: CTRE_cable
+  
+## First Touch I/O Module [(fc13-018)](https://web.archive.org/web/20130122082750/http://www.andymark.com:80/FIRST-Choice-p/fc13-018.htm "https://web.archive.org/web/20130122082750/http://www.andymark.com:80/FIRST-Choice-p/fc13-018.htm")
+__8 Credits__  
+Donated by: Cypress Semoconductor
+#### Product Overview:
+Eval board that accomodates I/O at the Driver Station
+#### Specifications:
+- Kit Contains: 
+  -	PSoC 3 FirstTouch Board
+  -	USB Cable 
+  -	9V Battery
+  -	Proximity Wire
+  -	Quick Start Guide
+  -	Kit CD, which includes: PSoC Creator™, Kit Projects, and Documentation
+- Part #: CY8CKIT-003
