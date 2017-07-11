@@ -111,7 +111,7 @@ This is an air pressure switch with a factory preset setting of 115-120 psi. Thi
 - Port: 1/8" NPT male
 - Cycle life: 1 million
 
-![Low Pressure Switch SM](https://web-beta.archive.org/web/20151016225950im_/http://www.andymark.com/v/vspfiles/assets/images/am-2006.jpg "Low Pressure Switch SM")
+![Low Pressure Switch SM](https://web.archive.org/web/20151016225950im_/http://www.andymark.com/v/vspfiles/assets/images/am-2006.jpg "Low Pressure Switch SM")
   
 ## White Lithium Grease [(fc13-007)](https://web.archive.org/web/20130122081808/http://www.andymark.com:80/FIRST-Choice-p/fc13-007.htm "https://web.archive.org/web/20130122081808/http://www.andymark.com:80/FIRST-Choice-p/fc13-007.htm")
 __7 Credits__
@@ -577,7 +577,7 @@ Ethernet Cord, Patch, 5 Ft. Cat5e
 - Weight: 0.138 lbs
 - Part #: 4DE97
   
-## USB to Serial cable [(fc13-042)](https://web-beta.archive.org/web/20130122082810/http://www.andymark.com:80/FIRST-Choice-p/fc13-042.htm "https://web-beta.archive.org/web/20130122082810/http://www.andymark.com:80/FIRST-Choice-p/fc13-042.htm")
+## USB to Serial cable [(fc13-042)](https://web.archive.org/web/20130122082810/http://www.andymark.com:80/FIRST-Choice-p/fc13-042.htm "https://web.archive.org/web/20130122082810/http://www.andymark.com:80/FIRST-Choice-p/fc13-042.htm")
 __7 Credits__  
 Donated by: Grainger
 #### Product Overview:
@@ -590,7 +590,7 @@ USB to Serial Converter
 - Weight: 0.232
 - Part # 5XGF3
   
-## Wire, 6AWG, black [(fc13-043)](https://web-beta.archive.org/web/20130122083941/http://www.andymark.com:80/FIRST-Choice-p/fc13-043.htm "https://web-beta.archive.org/web/20130122083941/http://www.andymark.com:80/FIRST-Choice-p/fc13-043.htm")
+## Wire, 6AWG, black [(fc13-043)](https://web.archive.org/web/20130122083941/http://www.andymark.com:80/FIRST-Choice-p/fc13-043.htm "https://web.archive.org/web/20130122083941/http://www.andymark.com:80/FIRST-Choice-p/fc13-043.htm")
 __9 Credits__  
 Donated by: Delphi
 #### Product Overview:
@@ -600,7 +600,7 @@ Wire, 6AWG, black, 2' lengths
 - Length: 2 ft long 
 - Color: black
   
-## Wire, 6AWG, red [(fc13-044)](https://web-beta.archive.org/web/20130122081845/http://www.andymark.com:80/FIRST-Choice-p/fc13-044.htm "https://web-beta.archive.org/web/20130122081845/http://www.andymark.com:80/FIRST-Choice-p/fc13-044.htm")
+## Wire, 6AWG, red [(fc13-044)](https://web.archive.org/web/20130122081845/http://www.andymark.com:80/FIRST-Choice-p/fc13-044.htm "https://web.archive.org/web/20130122081845/http://www.andymark.com:80/FIRST-Choice-p/fc13-044.htm")
 __9 Credits__  
 Donated by: Delphi
 #### Product Overview:
@@ -610,7 +610,7 @@ Wire, 6AWG, red, 2' lengths
 - Length: 2 ft
 - Color: Red
   
-## Ethernet cable, 3-foot [(fc13-045)](https://web-beta.archive.org/web/20130122082644/http://www.andymark.com:80/FIRST-Choice-p/fc13-045.htm "https://web-beta.archive.org/web/20130122082644/http://www.andymark.com:80/FIRST-Choice-p/fc13-045.htm")
+## Ethernet cable, 3-foot [(fc13-045)](https://web.archive.org/web/20130122082644/http://www.andymark.com:80/FIRST-Choice-p/fc13-045.htm "https://web.archive.org/web/20130122082644/http://www.andymark.com:80/FIRST-Choice-p/fc13-045.htm")
 __7 Credits__  
 Donated by: Grainger
 #### Product Overview:
@@ -624,7 +624,7 @@ Ethernet Cord, Patch, 3 Ft, Cat5e
 - Length: 3ft.
 - Part #: 4DE71
   
-## Ethernet cable, 7-foot [(fc13-046)](https://web-beta.archive.org/web/20130125085313/http://www.andymark.com:80/FIRST-Choice-p/fc13-046.htm "https://web-beta.archive.org/web/20130125085313/http://www.andymark.com:80/FIRST-Choice-p/fc13-046.htm")
+## Ethernet cable, 7-foot [(fc13-046)](https://web.archive.org/web/20130125085313/http://www.andymark.com:80/FIRST-Choice-p/fc13-046.htm "https://web.archive.org/web/20130125085313/http://www.andymark.com:80/FIRST-Choice-p/fc13-046.htm")
 __8 Credits__  
 Donated by: Grainger
 #### Product Overview:
@@ -638,7 +638,7 @@ Ethernet Cord, Patch, 7 Ft, Cat5e
 - Length: 7ft.
 - Part #: 4DE88
   
-## Battery base kit [(fc13-047)](https://web-beta.archive.org/web/20130122082816/http://www.andymark.com:80/FIRST-Choice-p/fc13-047.htm "https://web-beta.archive.org/web/20130122082816/http://www.andymark.com:80/FIRST-Choice-p/fc13-047.htm")
+## Battery base kit [(fc13-047)](https://web.archive.org/web/20130122082816/http://www.andymark.com:80/FIRST-Choice-p/fc13-047.htm "https://web.archive.org/web/20130122082816/http://www.andymark.com:80/FIRST-Choice-p/fc13-047.htm")
 __8 Credits__  
 Donated by: EStop Robotics
 #### Product Overview:
@@ -649,7 +649,7 @@ Battery Base provides a simple, light weight, secure method for mounting the off
 - Size: 3.66"x0.8"x0.53"
 - Manufacturer Part #: ESR-357
   
-## Ring terminal box of 100 [(fc13-048)](https://web-beta.archive.org/web/20130122083946/http://www.andymark.com:80/FIRST-Choice-p/fc13-048.htm "https://web-beta.archive.org/web/20130122083946/http://www.andymark.com:80/FIRST-Choice-p/fc13-048.htm")
+## Ring terminal box of 100 [(fc13-048)](https://web.archive.org/web/20130122083946/http://www.andymark.com:80/FIRST-Choice-p/fc13-048.htm "https://web.archive.org/web/20130122083946/http://www.andymark.com:80/FIRST-Choice-p/fc13-048.htm")
 __7 Credits__  
 Donated by: TE Connectivity
 #### Product Overview:
@@ -662,7 +662,7 @@ Package of 100 - 6 AWG terminals
 - Wire/Cable Type: Regular Wire
 - Manufacturer Part #: 52042-3
   
-## Ratchet Strap [(fc13-049)](https://web-beta.archive.org/web/20130122083951/http://www.andymark.com:80/FIRST-Choice-p/fc13-049.htm "https://web-beta.archive.org/web/20130122083951/http://www.andymark.com:80/FIRST-Choice-p/fc13-049.htm")
+## Ratchet Strap [(fc13-049)](https://web.archive.org/web/20130122083951/http://www.andymark.com:80/FIRST-Choice-p/fc13-049.htm "https://web.archive.org/web/20130122083951/http://www.andymark.com:80/FIRST-Choice-p/fc13-049.htm")
 __8 Credits__  
 Donated by: Grainger
 #### Specifications:
@@ -677,7 +677,7 @@ Donated by: Grainger
 
 Important Note:  These ratchet straps have E Track fittings on the end, not standard S Hooks.
   
-## Lead screw [(fc13-050)](https://web-beta.archive.org/web/20130122081850/http://www.andymark.com:80/FIRST-Choice-p/fc13-050.htm "https://web-beta.archive.org/web/20130122081850/http://www.andymark.com:80/FIRST-Choice-p/fc13-050.htm")
+## Lead screw [(fc13-050)](https://web.archive.org/web/20130122081850/http://www.andymark.com:80/FIRST-Choice-p/fc13-050.htm "https://web.archive.org/web/20130122081850/http://www.andymark.com:80/FIRST-Choice-p/fc13-050.htm")
 __4 Credits__  
 Donated by: Ametek/Haydon Kerk Motion Products
 #### Product Overview:
@@ -688,3 +688,27 @@ Outside Diameter: 0.438 in,
 Root Diameter: 0.315 in,
 Efficiency: 65%
 Weight: 0.64 lbs
+  
+## Pressure Gauge [(fc13-051)](https://web.archive.org/web/20130122084023/http://www.andymark.com:80/FIRST-Choice-p/fc13-051.htm "https://web.archive.org/web/20130122084023/http://www.andymark.com:80/FIRST-Choice-p/fc13-051.htm")
+__8 Credits__  
+Donated by: HPE Automation
+#### Product Overview:
+Pressure Gauge 0-100 PSI
+#### Specifications:
+- Reads 0 - 100 psi
+- Total length: 1.6 inch
+- Wrench needed for installation: 7/16"
+- Face color: black with white lettering
+- Bottom Mount, Width: 1.5 inch diameter face
+- Weight: 0.12 lbs
+  
+## igus Sliding Slewing Ring Bearing [(fc13-052)](https://web.archive.org/web/20130122082649/http://www.andymark.com:80/FIRST-Choice-p/fc13-052.htm "https://web.archive.org/web/20130122082649/http://www.andymark.com:80/FIRST-Choice-p/fc13-052.htm")
+__9 Credits__  
+Donated by: igus
+#### Product Overview:
+iglide PRT slewing rings Self-lubricating, Maintenance-free
+#### Specifications:
+- Self-lubricating, Maintenance-free
+- Weight: 0.9
+- Manufacturer Part #: PRT-01-30
+  
