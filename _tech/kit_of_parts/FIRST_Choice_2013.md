@@ -712,3 +712,73 @@ iglide PRT slewing rings Self-lubricating, Maintenance-free
 - Weight: 0.9
 - Manufacturer Part #: PRT-01-30
   
+## DryLin W linear guide system (round) [(fc13-053)](https://web.archive.org/web/20130122082823/http://www.andymark.com:80/FIRST-Choice-p/fc13-053.htm "https://web.archive.org/web/20130122082823/http://www.andymark.com:80/FIRST-Choice-p/fc13-053.htm")
+__6 Credits__  
+Donated by: igus
+#### Product Overview:
+DryLin W individual rail - round
+#### Specifications:
+- Approximate width of rail: 2", Length of rail: 24" 
+- Approximate width of slide: 2 7/8". Length of slide: 4" 
+- Weight: 2 lbs
+- Manufacturer Part #: 1 x WS-10-140, 1 x WW-10-40-10
+  
+## DryLin W linear guide system (square) [(fc13-054)](https://web.archive.org/web/20130125085338/http://www.andymark.com:80/FIRST-Choice-p/fc13-054.htm "https://web.archive.org/web/20130125085338/http://www.andymark.com:80/FIRST-Choice-p/fc13-054.htm")
+__6 Credits__  
+Donated by: igus
+#### Product Overview:
+DryLin W individual rail - square
+#### Specifications:
+- Weight: 0.9
+- Manufacturer Part #: 1 x WSQ-10, 1 x WJ200QM-01-10
+  
+## Relief valve, 120 psi [(fc13-055)](https://web-beta.archive.org/web/20130122082828/http://www.andymark.com:80/FIRST-Choice-p/fc13-055.htm "https://web-beta.archive.org/web/20130122082828/http://www.andymark.com:80/FIRST-Choice-p/fc13-055.htm")
+__6 Credits__  
+Donated by: Norgren
+#### Product Overview:
+Relief Valve to relieve excess pressure build up in a safe manner.
+#### Specifications:
+- 120 psi, 1/4" NPT, relieves excess pressure build up, brass/stainless steel construction
+- Weight: .12 lbs
+- Manufacturer Part #: 16-004-011
+  
+## Brass fitting kit [(fc13-056)](https://web-beta.archive.org/web/20130122081855/http://www.andymark.com:80/FIRST-Choice-p/fc13-056.htm "https://web-beta.archive.org/web/20130122081855/http://www.andymark.com:80/FIRST-Choice-p/fc13-056.htm")
+__5 Credits__  
+Donated by: Parker
+#### Product Overview:
+Brass fitting assortment, this was the kit included in the 2011 Kit of Parts
+#### Specifications:
+- Kit includes the following items:
+	 - (1) manual vent valve,
+	 - (4) union tee fittings,
+	 - (6) 1/4" F to 1/8" M adapters,
+	 - (6) 1/8" plugs,
+	 - (6) 1/4" plugs,
+	 - (6) 1/8" NPT hex nipples,
+	 - (12) 1/8" F to 1/4" M bushings
+- PKT-12326 Includes these Manufacturer Part #:  MV709-2, 2203P-2, 222P-4-2, 216P-2, 209P-4-2, 218P-2, 218P-4
+  
+## Photoswitch [(fc13-057)](https://web-beta.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm "https://web-beta.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm")
+__6 Credits__  
+Donated by: Rockwell Automation
+#### Product Overview:
+ClearSight RightSight Clear Object Detection sensors have a modified optical system for improved detection of clear objects such as plastic bottles.
+#### Specifications:
+- 1 m sensing distance,
+- IP69K and ECOLAB Certified,
+- Threaded 18 mm nose-mounting option,
+- Threaded 18 mm base-mounting option,
+- Status indicators for power, margin, output
+- Weight: 0.35
+- Manufacturer Part #: 42EF-D1MNAK-A2
+  
+## Adjustable Wrench Set [(fc13-058)](https://web-beta.archive.org/web/20130122082838/http://www.andymark.com:80/FIRST-Choice-p/fc13-058.htm "https://web-beta.archive.org/web/20130122082838/http://www.andymark.com:80/FIRST-Choice-p/fc13-058.htm")
+__8 Credits__  
+Donated by: Grainger
+#### Specifications:
+- Adjustable Wrench Set 
+- Number of Pieces: 2
+- Jaw Capacity: 15/16", 1-5/16"  
+- Material Drop-Forged and Heat Treated Alloy Steel, Black Phosphate Finish, Cushion Grip Handle
+- Small Wrench (6" length) Large Wrench (10" length)
+- Part #: 5MC36
