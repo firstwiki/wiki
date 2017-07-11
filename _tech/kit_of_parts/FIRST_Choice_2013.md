@@ -623,3 +623,68 @@ Ethernet Cord, Patch, 3 Ft, Cat5e
 - Weight: 0.088
 - Length: 3ft.
 - Part #: 4DE71
+  
+## Ethernet cable, 7-foot [(fc13-046)](https://web-beta.archive.org/web/20130125085313/http://www.andymark.com:80/FIRST-Choice-p/fc13-046.htm "https://web-beta.archive.org/web/20130125085313/http://www.andymark.com:80/FIRST-Choice-p/fc13-046.htm")
+__8 Credits__  
+Donated by: Grainger
+#### Product Overview:
+Ethernet Cord, Patch, 7 Ft, Cat5e
+#### Specifications:
+- CAT5E 
+- Color: Black 
+- T568A/B, Booted RJ45 
+- Wire Gauge: Stranded 24 AWG, Snagless
+- Weight: 0.194 lbs
+- Length: 7ft.
+- Part #: 4DE88
+  
+## Battery base kit [(fc13-047)](https://web-beta.archive.org/web/20130122082816/http://www.andymark.com:80/FIRST-Choice-p/fc13-047.htm "https://web-beta.archive.org/web/20130122082816/http://www.andymark.com:80/FIRST-Choice-p/fc13-047.htm")
+__8 Credits__  
+Donated by: EStop Robotics
+#### Product Overview:
+Battery Base provides a simple, light weight, secure method for mounting the official FRC battery in a typical robot.
+#### Specifications:
+- Material: Molded Plastic, Length (Velcro): 26 inches
+- Weight: 0.094 lbs
+- Size: 3.66"x0.8"x0.53"
+- Manufacturer Part #: ESR-357
+  
+## Ring terminal box of 100 [(fc13-048)](https://web-beta.archive.org/web/20130122083946/http://www.andymark.com:80/FIRST-Choice-p/fc13-048.htm "https://web-beta.archive.org/web/20130122083946/http://www.andymark.com:80/FIRST-Choice-p/fc13-048.htm")
+__7 Credits__  
+Donated by: TE Connectivity
+#### Product Overview:
+Package of 100 - 6 AWG terminals
+#### Specifications:
+- Terminal Shape: Ring Tongue
+- Receptacle Style: Straight
+- Body Style: PLASTI-GRIP
+- Barrel Type: Closed Barrel
+- Wire/Cable Type: Regular Wire
+- Manufacturer Part #: 52042-3
+  
+## Ratchet Strap [(fc13-049)](https://web-beta.archive.org/web/20130122083951/http://www.andymark.com:80/FIRST-Choice-p/fc13-049.htm "https://web-beta.archive.org/web/20130122083951/http://www.andymark.com:80/FIRST-Choice-p/fc13-049.htm")
+__8 Credits__  
+Donated by: Grainger
+#### Specifications:
+- Ratchet Strap, Series E 
+- Length: 240"  
+- Width: 2" 
+- Color: Blue 
+- Capacity: 1000 Lb. 
+- Features: Steel Hardware and Polyester Webbing, Spring Actuated E Fitting
+- Weight: 2.5lbs
+- Part #: 3MLP2
+
+Important Note:  These ratchet straps have E Track fittings on the end, not standard S Hooks.
+  
+## Lead screw [(fc13-050)](https://web-beta.archive.org/web/20130122081850/http://www.andymark.com:80/FIRST-Choice-p/fc13-050.htm "https://web-beta.archive.org/web/20130122081850/http://www.andymark.com:80/FIRST-Choice-p/fc13-050.htm")
+__4 Credits__  
+Donated by: Ametek/Haydon Kerk Motion Products
+#### Product Overview:
+7/16" diameter x 0.197" leadscrew x 18.25" long, round flanged nut
+#### Specifications:
+Lead: 0197",
+Outside Diameter: 0.438 in,
+Root Diameter: 0.315 in,
+Efficiency: 65%
+Weight: 0.64 lbs
