@@ -732,7 +732,7 @@ DryLin W individual rail - square
 - Weight: 0.9
 - Manufacturer Part #: 1 x WSQ-10, 1 x WJ200QM-01-10
   
-## Relief valve, 120 psi [(fc13-055)](https://web-beta.archive.org/web/20130122082828/http://www.andymark.com:80/FIRST-Choice-p/fc13-055.htm "https://web-beta.archive.org/web/20130122082828/http://www.andymark.com:80/FIRST-Choice-p/fc13-055.htm")
+## Relief valve, 120 psi [(fc13-055)](https://web.archive.org/web/20130122082828/http://www.andymark.com:80/FIRST-Choice-p/fc13-055.htm "https://web.archive.org/web/20130122082828/http://www.andymark.com:80/FIRST-Choice-p/fc13-055.htm")
 __6 Credits__  
 Donated by: Norgren
 #### Product Overview:
@@ -742,7 +742,7 @@ Relief Valve to relieve excess pressure build up in a safe manner.
 - Weight: .12 lbs
 - Manufacturer Part #: 16-004-011
   
-## Brass fitting kit [(fc13-056)](https://web-beta.archive.org/web/20130122081855/http://www.andymark.com:80/FIRST-Choice-p/fc13-056.htm "https://web-beta.archive.org/web/20130122081855/http://www.andymark.com:80/FIRST-Choice-p/fc13-056.htm")
+## Brass fitting kit [(fc13-056)](https://web.archive.org/web/20130122081855/http://www.andymark.com:80/FIRST-Choice-p/fc13-056.htm "https://web.archive.org/web/20130122081855/http://www.andymark.com:80/FIRST-Choice-p/fc13-056.htm")
 __5 Credits__  
 Donated by: Parker
 #### Product Overview:
@@ -758,7 +758,7 @@ Brass fitting assortment, this was the kit included in the 2011 Kit of Parts
 	 - (12) 1/8" F to 1/4" M bushings
 - PKT-12326 Includes these Manufacturer Part #:  MV709-2, 2203P-2, 222P-4-2, 216P-2, 209P-4-2, 218P-2, 218P-4
   
-## Photoswitch [(fc13-057)](https://web-beta.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm "https://web-beta.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm")
+## Photoswitch [(fc13-057)](https://web.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm "https://web.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm")
 __6 Credits__  
 Donated by: Rockwell Automation
 #### Product Overview:
@@ -772,7 +772,7 @@ ClearSight RightSight Clear Object Detection sensors have a modified optical sys
 - Weight: 0.35
 - Manufacturer Part #: 42EF-D1MNAK-A2
   
-## Adjustable Wrench Set [(fc13-058)](https://web-beta.archive.org/web/20130122082838/http://www.andymark.com:80/FIRST-Choice-p/fc13-058.htm "https://web-beta.archive.org/web/20130122082838/http://www.andymark.com:80/FIRST-Choice-p/fc13-058.htm")
+## Adjustable Wrench Set [(fc13-058)](https://web.archive.org/web/20130122082838/http://www.andymark.com:80/FIRST-Choice-p/fc13-058.htm "https://web.archive.org/web/20130122082838/http://www.andymark.com:80/FIRST-Choice-p/fc13-058.htm")
 __8 Credits__  
 Donated by: Grainger
 #### Specifications:
@@ -782,3 +782,124 @@ Donated by: Grainger
 - Material Drop-Forged and Heat Treated Alloy Steel, Black Phosphate Finish, Cushion Grip Handle
 - Small Wrench (6" length) Large Wrench (10" length)
 - Part #: 5MC36
+  
+## Talon [(fc13-059)](https://web.archive.org/web/20130122082844/http://www.andymark.com:80/FIRST-Choice-p/fc13-059.htm "https://web.archive.org/web/20130122082844/http://www.andymark.com:80/FIRST-Choice-p/fc13-059.htm")
+__9 Credits__  
+Donated by: CTRE
+#### Product Overview:
+This electronic module is produced by Cross the Road Electronics. 
+
+The Talon is the latest generation in Brushed DC motor control. The Talon features locked anti-phase rectification that provides more efficient delivery of power to Brushed DC motors. This type of rectification returns current to the power source during the freewheeling period of the motor and during direction change. The passive cooling design reduces the number of entry points for damage causing conductive debris. Any Debris that does enter the housing won't get past the conformal coating that protects the surface mount components.
+#### Specifications:
+- Small size: 2.73 x 1.90 x 1.15 inches
+- Weight: 0.2 pounds
+- Input voltage: 6-28 VDC
+- Continuous current: 60 A
+- Peak current: 100 A
+- Input PWM signal: 0.9-2 ms @ 333 Hz
+- Input resolution: 10-bit (1024 steps)
+- Output resolution: 10-bit (1024 steps)
+- Output switching frequency: 15 kHz
+- Locked-antiphase rectification
+- Cooling methods:
+  - Passive aluminum heat sink included in all units
+  - Mounting holes to allow for optional 40 mm fan
+- Conformal coating providing resistance to metal chip shorts
+- Smart LED, blinks proportional to throttle.
+- Secure PWM connection
+- Simple calibration
+- User selectable brake/coast
+- 4% neutral dead band
+- Linear throttle response
+Please see the Talon User Manual for many more details.
+  
+## Ring light [(fc13-060)](https://web.archive.org/web/20130122082654/http://www.andymark.com:80/FIRST-Choice-p/fc13-060.htm "https://web.archive.org/web/20130122082654/http://www.andymark.com:80/FIRST-Choice-p/fc13-060.htm")
+__7 Credits__  
+Provided by: SuperBrightLEDs.com
+#### Product Overview:
+Ring lights are useful with camera applications, using certain colors helps filter wavelengths and makes programming on contrasting colors much easier. These are Green and can fit nicely around the lens of a camera.
+#### Specifications:
+- Beam Angle: 120 degree
+- Finish: White
+- LED Type: 3528 SMD
+- Lumen (Max): 304.2 Lumen
+- Volts: 12 VDC
+- Wire Length: 48.26cm(19in)
+- Weight: 0.0125 lbs
+- Size: 2.482" OD 1.709" ID
+- Manufacture Part Number: AE60-G15
+  
+## 3M™ Round Conductor Flat Cable, 2 meters [(fc13-061)](https://web.archive.org/web/20130125084912/http://www.andymark.com:80/FIRST-Choice-p/fc13-061.htm "https://web.archive.org/web/20130125084912/http://www.andymark.com:80/FIRST-Choice-p/fc13-061.htm")
+__5 Credits__  
+Donated by: 3M
+#### Product Overview:
+3M™ Round Conductor Flat Cable for Link Connector, 79100 Series, 2 meters
+#### Specifications:
+- Distance center to center each strand: 0.100"
+- Length: 2 meters
+- Wire Gauge: 19AWG stranded
+- PVC
+- Weight: 0.11 lbs / meter
+- Manufacture Part Number: JE150399689
+  
+## Incremental Magnetic Encoder [(fc13-062)](https://web.archive.org/web/20130122081900/http://www.andymark.com:80/FIRST-Choice-p/fc13-062.htm "https://web.archive.org/web/20130122081900/http://www.andymark.com:80/FIRST-Choice-p/fc13-062.htm")
+__6 Credits__  
+Donated by: amsAG
+#### Product Overview:
+The AS5145 is a contact-less magnetic rotary encoder for accurate angular measurement over a full turn of 360 degrees. It is a system-on-chip, combining integrated Hall elements, analog front end and digital signal processing in a single device. To measure the angle, only a simple 2-pole magnet, rotating over the center of the chip, is required. The magnet may be placed above or below the IC. The absolute angle measurement provides instant indication of the magnet's angular position with a resolution of 0.0879 degrees = 4096 positions per revolution. This digital data is available as a serial bit stream and as a PWM signal. An internal voltage regulator allows the AS5145 to operate at either 3.3V or 5V supplies.
+#### Specifications:
+- Contact-less high resolution rotational position encoding over a full turn of 360 degrees
+- 2 digital 12-bit absolute outputs: Serial interface and Pulse Width Modulated (PWM) outputs
+- 3 incremental outputs 12 bit pre-programmed incremental mode
+- User programmable zero position
+- Failure detection mode for magnet placement monitoring and loss of power supply
+- "Red-Yellow-Green" indicators display placement of magnet in Z-axis
+- Serial read-out of multiple interconnected AS5145 devices using Daisy Chain mode
+- Tolerant to magnet misalignment and air gap variations
+- Wide temperature range: -40 degrees C to +150 degrees C
+- Fully automotive AEC-Q100 qualified
+- grade 0
+- Small Pb-free package: SSOP16 (5.3mm x 6.2mm)
+- Weight: 0.069 lbs
+- board size: 1.754" x 1.75"
+- Manufacture Part Number: AS5145B
+  
+## Dual Use Gyro and Accelerometer Sensor Board [(fc13-063)](https://web.archive.org/web/20130122081905/http://www.andymark.com:80/FIRST-Choice-p/fc13-063.htm "https://web.archive.org/web/20130122081905/http://www.andymark.com:80/FIRST-Choice-p/fc13-063.htm")
+__7 Credits__  
+Donated by: Analog Devices & Cal Comp
+#### Product Overview:
+This sensor board includes a digital accelerometer and an analog gyroscope. The two boards are connected, but can be split apart by the user, if needed. Analog Devices sensors (ADXL345 and ADW22307) are used on the boards.
+
+The sensors work well, even while still connected. During many applications, users use one sensor to back up the other. For example, the accelerometer is good at determining absolute angle, but not so good at this when the robot is
+moving. Also, the gyroscope is good at determining angular rate of change, but not good at finding an absolute angle.
+#### Individual use:
+During some applications, the user may need to split apart these two sensors. Before you separate these two boards, make sure you follow proper ESD procedures so the boards aren’t zapped. To do this, gently flex the board but don’t “snap” it, as damage to the surface mounted components can occur. Carefully increase your flexing force until you can feel and hear the circuit board fibers giving way. The board will eventually split, when it will easily bend in half. The raw edges will be rough, but can be smoothed out by rubbing a metal edge over them.
+#### Specifications for the Digital Accelerometer:
+The 3-axis accelerometer using Analog Devices part number ADXL345 measures dynamic acceleration (vibration) and static acceleration (gravity). Please handle this sensor with care, as it is sensitive.
+
+Mounting: Clearance holes for a /#4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate. Also, it may be wise to use a shock-absorbing pad or grommet to isolate signalsto the board.
+
+Communication: This sensor can communicate with a control system using the Digital Sidecar digitally by either of two protocols:
+- SPI: This is on J4 and can be wired to the Digital I/O on the Digital Sidecar. Although the pins can be connected to any GPIOs in any order, it is easiest to use Digital I/O 1-4. Connect 0V and 5V to the (-) and PWR pins that are just beyond Digital I/O 1, and [CK, DI, DO, CS] in order.
+- I2C: This port is on J2 and can be wired to the pins on the Digital Sidecar found directly behind the NXT connector. Connect 5V to 5V, SCL to SCL, SDA to SDA, and (-) to 0V. By default, the I2C address is 0x3A. The address can be set to 0xA6 by shorting J1 with a blob of solder.
+
+Two optional interrupt pins, I1 and I2, are found at the end of the SPI connector but can be used with either I2C or SPI. These pins can be set to alert if the ADXL345 detects a tap (bump) or a fall, or they may be used for some of the advanced flow control functions. Connect one or both of them to any of the Digital I/O on the Digital Sidecar to use these functions.
+
+The Analog Devices website has operation instructions and code examples, useful once the ADXL345 is wire up. Check out http://www.analog.com/ for more information.
+
+Note: The ADXL345 starts in a power saving mode. You must turn it on by writing 0x08 to POWER_CTL (0x2D) before it will do anything interesting.
+
+#### Yaw Rate Gyro:
+
+The angular rate sensor (gyroscope) using Analog Devices part number ADW22307 detects angular changes about the board’s top surface axis. The output is a voltage proportional to the angular rate change.  The user can read this information for guidance, stability, and control of the robot platform. The most accurate reading from this gyro will take place if it is mounted flat in or near the center axis of the robots rotation.
+
+Mounting:  Clearance holes for a #4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate.  Also, it may be wise to use a shock-absorbing pad or grommet to isolate signals
+to the board.
+
+Usage: The ADW22307 can measure up to 250°/s of rotation. Nominal output is 2.5V at standstill, plus 7mV/°/s. The carrier board adds a double pole low-pass filter set to 400Hz. Users can experiment with digital filters in order to select a bandwidth appropriate for their specific usage. 
+
+The ADW22307 has an integrated temperature sensor to assist in temperature compensation. Nominal output is 2.5V at 25°C plus 9mV/°C.
+
+Communication and Pinout:
+Rate +5V Ground
+Temp +5V Ground
