@@ -900,3 +900,49 @@ The ADW22307 has an integrated temperature sensor to assist in temperature compe
 Rate +5V Ground  
 Temp +5V Ground
   
+## lazy susan, 12" [(fc13-064)](https://web.archive.org/web/20130125115823/http://www.andymark.com:80/FIRST-Choice-p/fc13-064.htm "https://web.archive.org/web/20130125115823/http://www.andymark.com:80/FIRST-Choice-p/fc13-064.htm")
+__7 Credits__  
+Donated by: Triangle Manufacturing
+#### Product Overview:
+12" diameter round lazy susan with mounting holes
+#### Specifications:
+- corrosion-resistant galvanized steel
+- quarter-inch balls
+- Center Hole Diameter: 6.33 in
+- Nominal Balanced Load Capacity: 1000 lbs
+- Weight: 1.628 lbs
+- Manufacture Part Number: 12C
+  
+## lazy susan, 3" [(fc13-065)](https://web.archive.org/web/20130122082849/http://www.andymark.com:80/FIRST-Choice-p/fc13-065.htm "https://web.archive.org/web/20130122082849/http://www.andymark.com:80/FIRST-Choice-p/fc13-065.htm")
+__7 Credits__  
+Donated by: Triangle Manufacturing
+#### Product Overview:
+3" square lazy susan with mounting holes
+#### Specifications:
+- corrosion-resistant galvanized steel
+- quarter-inch balls
+- Center Hole Diameter: 1.313 in
+- Nominal Balanced Load Capacity: 200 lbs
+- Weight: 0.2 lbs
+- Manufacture Part Number: 3C
+  
+## E4P Encoder, 2-Pack [(fc13-066)](https://web.archive.org/web/20130122084030/http://www.andymark.com:80/FIRST-Choice-p/fc13-066.htm "https://web.archive.org/web/20130122084030/http://www.andymark.com:80/FIRST-Choice-p/fc13-066.htm")
+__8 Credits__  
+Donated by: US Digital
+#### Product Overview: 
+This is the E4P, 360 count encoder from US Digital. Two (2) encoder kits are included in this package. This is the same package that was donated by US Digital for the 2011 FIRST Robotics Competition.
+
+Check here for [E4P assembly instructions](https://web.archive.org/web/20130830124659/http://usdigital.com/assets/assembly/E4P%20Assembly%20Instructions.pdf "https://web.archive.org/web/20130830124659/http://usdigital.com/assets/assembly/E4P%20Assembly%20Instructions.pdf"). 
+
+Notice that this encoder has a 360-count HUBDISK, while the AndyMark part am-0174 and am-0180 uses a E4P encoder with a 250 count encoder.
+
+Your kit includes two (2) [E4P-360-250-D-D-D-B](https://web.archive.org/web/20101223125623/http://usdigital.com/products/E4P-360-250-D-D-D-B "https://web.archive.org/web/20101223125623/http://usdigital.com/products/E4P-360-250-D-D-D-B"). These are miniature optical encoders with two-channel quadrature outputs. They are 360 codes per revolution and fit on a 0.25" shaft.
+#### Included Hardware:
+- Two - Bases (US Digital Part: BASE-E4P-360-D)
+- Two - PCB Circuit Boards (PCBA-E4P-360)
+- Four - Screws (SCREW-348-250-PH)
+- Two - HUBDISK's (HUBDISK-E4P-360-250)
+- Two - Covers (COVER-E4P-360-D)
+- Two - Cables (CA-MIC4-W4-NC-3)
+- One - Spacer Tool
+See the [E4P web page](https://web.archive.org/web/20130122091749/http://www.usdigital.com:80/products/encoders/incremental/rotary/kit/E4P "https://web.archive.org/web/20130122091749/http://www.usdigital.com:80/products/encoders/incremental/rotary/kit/E4P") for more information, and the [FAQ page](https://web.archive.org/web/20130528081553/http://www.usdigital.com:80/first "https://web.archive.org/web/20130528081553/http://www.usdigital.com:80/first") about US Digital and FIRST.
