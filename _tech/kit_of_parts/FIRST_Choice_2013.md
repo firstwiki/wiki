@@ -7,8 +7,7 @@ title: FIRST Choice 2013 List
 __10 Credits__  
 Donated by: 3M
 #### Product Overview:
-This item is provided to make up to a 24" long ribbon cable. It includes one 24" long 37 pin ribbon cable,
- 1 male 37 pin connector, 1 female 37 pin connector. Assembly Required.
+This item is provided to make up to a 24" long ribbon cable. It includes one 24" long 37 pin ribbon cable, 1 male 37 pin connector, 1 female 37 pin connector. Assembly Required.
 #### Specifications:
 - One - 24" long 37 pin ribbon cable,
 - One - male 37 pin connector,
@@ -29,10 +28,10 @@ The HS-322HD Standard Heavy Duty Servo utilizes Hitec’s revolutionary Karbonit
 - Operating Voltage: 4.8-6.0 Volts
 - Operating Temperature Range: -20 to +60 Degree C
 - Operating Speed 
-  -	(4.8V): 0.19sec/60 at no load
-  -	(6.0V): 0.15sec/60 at no load
+  - (4.8V): 0.19sec/60 at no load
+  - (6.0V): 0.15sec/60 at no load
 - Stall Torque 
-  -	(4.8V): 42 oz/in (3.0 kg/cm)
+  - (4.8V): 42 oz/in (3.0 kg/cm)
   - (6.0V): 51 oz/in (3.7 kg/cm)
 - Current Drain 
   - (4.8V): 7.4mA/idle and 160mA no load operating
@@ -199,8 +198,8 @@ The Compact Connectors with CAGE CLAMP COMPACT fitting can connect up to 5 strip
 - Wire Size: 14-28 AWG
 - Weight: 0.025
 - Size:
-  -	3 lever (0.815"x0.673"x0.570")
-  -	5 lever (0.820"x1.045"x0.570")
+  - 3 lever (0.815"x0.673"x0.570")
+  - 5 lever (0.820"x1.045"x0.570")
 - Manufacturer Part #s: 222-412 + 222-413
   
 ## Lever nut 3-pack [(fc13-015)](https://web.archive.org/web/20130122081813/http://www.andymark.com:80/FIRST-Choice-p/fc13-015.htm "https://web.archive.org/web/20130122081813/http://www.andymark.com:80/FIRST-Choice-p/fc13-015.htm")
@@ -212,9 +211,9 @@ The Compact Connectors with CAGE CLAMP COMPACT fitting can connect up to 5 strip
 - Wire Size: 14-28 AWG
 - Weight: 0.032
 - Size:
-  -	2 lever (0.811"x0.588"x0.570")
-  -	3 lever (0.815"x0.673"x0.570")
-  -	5 lever (0.8201".0450"x0.570")
+  - 2 lever (0.811"x0.588"x0.570")
+  - 3 lever (0.815"x0.673"x0.570")
+  - 5 lever (0.8201".0450"x0.570")
 - Manufacturer Part#: 222-412 + 222-413 + 222-415
   
 ## Volume Chamber, small [(fc13-016)](https://web.archive.org/web/20130122082547/http://www.andymark.com:80/FIRST-Choice-p/fc13-016.htm "https://web.archive.org/web/20130122082547/http://www.andymark.com:80/FIRST-Choice-p/fc13-016.htm")
@@ -223,7 +222,7 @@ Donated by: Clippard
 #### Product Overview:
 Stainless steel and aluminum storage tank, 16³in
 #### Specifications:
-- Max 250 PSI,
+- Max 250 PSI
 - 30 F to 250 F 
 - 1/4 NPT Ports
 - Weight: 0.8
@@ -247,12 +246,12 @@ Donated by: Cypress Semoconductor
 Eval board that accomodates I/O at the Driver Station
 #### Specifications:
 - Kit Contains: 
-  -	PSoC 3 FirstTouch Board
-  -	USB Cable 
-  -	9V Battery
-  -	Proximity Wire
-  -	Quick Start Guide
-  -	Kit CD, which includes: PSoC Creator™, Kit Projects, and Documentation
+  - PSoC 3 FirstTouch Board
+  - USB Cable 
+  - 9V Battery
+  - Proximity Wire
+  - Quick Start Guide
+  - Kit CD, which includes: PSoC Creator™, Kit Projects, and Documentation
 - Part #: CY8CKIT-003
   
 ## Battery connectors [(fc13-019)](https://web.archive.org/web/20130122083000/http://www.andymark.com:80/FIRST-Choice-p/fc13-019.htm "https://web.archive.org/web/20130122083000/http://www.andymark.com:80/FIRST-Choice-p/fc13-019.htm")
@@ -261,7 +260,7 @@ Donated by: Delphi and Anderson Power Products
 #### Product Overview:
 Delphi 6AWG wire, red/black terminated with an SB50A Anderson Power Products connector
 #### Specifications:
-- Length: Approximately 12-14 inches,
+- Length: Approximately 12-14 inches
 - Connector Type: SB50A Anderson Power Parts Connector
 - Gauge: 6
 - Weight: 0.3lbs
@@ -272,17 +271,20 @@ Donated by: Denso
 #### Product Overview:
 This is a 12V DC Throttle Motor
 #### Specifications:
-- Max Power: 18 W,
-- Free Speed: 5300 RPM,
-- Free Current: 0.4 amps,
-- Stall Torque: 18 oz-in,
-- Free Current: 1 A,
-- Stall Current: 7 A,
-- Overall Length: 3.40 inches,
-- Motor Body Length: 2.5 inches,
-- Output Gear size: 12 tooth gear, 0.75 module, 20 degree pressure angle,Pitch Diameter: 9 mm (0.354 inch),Outside Diameter: 10.5 inch (0.41 inch),Face Width: 0.4
-- Mounting Holes: Three (3) holes (0.185 inch diameter),
-- Electrical Connection Geometry: 0.15" wide spade connectors (2),
+- Max Power: 18 W
+- Free Speed: 5300 RPM
+- Free Current: 0.4 amps
+- Stall Torque: 18 oz-in
+- Free Current: 1 A
+- Stall Current: 7 A
+- Overall Length: 3.40 inches
+- Motor Body Length: 2.5 inches
+- Output Gear size: 12 tooth gear, 0.75 module, 20 degree pressure angle
+  - Pitch Diameter: 9 mm (0.354 inch)
+  - Outside Diameter: 10.5 inch (0.41 inch)
+  - Face Width: 0.4
+- Mounting Holes: Three (3) holes (0.185 inch diameter)
+- Electrical Connection Geometry: 0.15" wide spade connectors (2)
 - Weight 0.5 lbs
 - Manufacturer Part #: AE235100-0160
   
@@ -301,7 +303,7 @@ Donated by: EnerSys
 __6 Credits__  
 Donated by: EStop Robotics
 #### Product Overview:
-Sometimes referred to as a "port saver", this cable is recommended for use by FRC teams to protect the network connection(s) on the Driver Station PC ( Classmate Computer ), the Robot Radio ( wireless bridge/gaming adapter ) or any ethernet port that experiences frequent cable connections/disconnections. The use of this type of cable is approved and recommended by FIRST to help prevent network jack failures at FRC competition events.
+Sometimes referred to as a "port saver", this cable is recommended for use by FRC teams to protect the network connection(s) on the Driver Station PC (Classmate Computer), the Robot Radio (wireless bridge/gaming adapter) or any ethernet port that experiences frequent cable connections/disconnections. The use of this type of cable is approved and recommended by FIRST to help prevent network jack failures at FRC competition events.
 #### Specifications:
 - 1ft
 - 350 MHz
@@ -337,7 +339,7 @@ Provided by: Norgren
 #### Product Overview:
 This is a pneumatic pressure gauge dial with a 1/8" NPT male fitting
 #### Specifications:
-- Capacity: 0-160 PSI,
+- Capacity: 0-160 PSI
 - Port: 1/8" NPT male
 - Weight: 0.113lbs 
 - Size: 1.75"x1.75"x1.75"
@@ -349,12 +351,12 @@ Donated by: Grainger
 #### Product Overview:
 Fuse Holder, In Line, 10A, ATO, 32V
 #### Specifications:
-- Fuse Holder, 
-- Amps AC 10, 
-- Max. Voltage 32, 
-- Mounting Style In-Line,
-- Wire Size 16 AWG,  
-- Fuse Length 3/4 In., 
+- Fuse Holder
+- Amps AC 10
+- Max. Voltage 32
+- Mounting Style In-Line
+- Wire Size 16 AWG
+- Fuse Length 3/4 In.
 - For Use With SmartGlo ATO Fuses
 - Weight: 0.081
 - Part #: 2FCY1
@@ -387,11 +389,11 @@ Donated by: Grainger
 #### Product Overview:
 Ratchet/Crank, 3/8 Drive
 #### Specifications:
-- Crank Ratchet, Round Head Style, 
-- Drive Size (In.) 3/8, 
-- Overall Length (In.) 10, 
-- Number of Geared Teeth 40, 
-- Chrome Finish, Chrome vanadium steel, 
+- Crank Ratchet, Round Head Style
+- Drive Size (In.) 3/8
+- Overall Length (In.) 10
+- Number of Geared Teeth 40
+- Chrome Finish, Chrome vanadium steel
 - No Sweep Angle Required, Twist Handle in Either Direction, Handle Extends and Folds to Form High-performance Crank
 - Weight: 1.163 lbs
 - Part #: 3VA95
@@ -403,10 +405,10 @@ Donated by: Fluke
 The Fluke 115 displays true-rms voltage and current readings with 6000 count resolution, tests diodes, frequency, continuity and capacitance and provides Min/Max/Average readings to record signal fluctuations. A large white LED backlight aids work in poorly lit areas. Its easy-open battery access door makes battery changes a snap. Fluke 115 multimeters are independently tested for safe use in CAT III 600V environments. And check out other members of the Fluke 110 family: the Fluke 113 Utility Multimeter, the Fluke 114 Electrical Multimeter, the Fluke 116 HVAC Multimeter and the Fluke 117 Commercial Electrician's Multimeter
 #### Specifications:
 - Large white LED backlight to work in poorly lit areas
-- Resistance and continuity,Frequency and capacitance,
-- Maximum Voltage ac/dc 600V,
-- 10A ac/dc current measurement (20 A overload for 30-seconds max),
-- Min/Max/Average to record signal fluctuations,
+- Resistance and continuity,Frequency and capacitance
+- Maximum Voltage ac/dc 600V
+- 10A ac/dc current measurement (20 A overload for 30-seconds max)
+- Min/Max/Average to record signal fluctuations
 - CAT III 600 V safety rated
 - Part #: 2538790
   
@@ -502,11 +504,11 @@ Donated by: HPE Automation
 __8 Credits__  
 Donated by: Grainger
 #### Specifications:
-- Galvanized Steel Cable, Type 7 x 7 Precut Length, 
-- Cable Size 1/8", 
-- Length 100 Ft, 
-- Working Load Limit 340 Lb, 
-- Features: With Swaged Loop And Thimble On One End, Application Ideal for winching, garage and cargo doors, farm and marine applications, 
+- Galvanized Steel Cable, Type 7 x 7 Precut Length
+- Cable Size 1/8"
+- Length 100 Ft
+- Working Load Limit 340 Lb
+- Features: With Swaged Loop And Thimble On One End, Application Ideal for winching, garage and cargo doors, farm and marine applications
 - Standards US Federal, RR-W-410D, ASTM, A-90, SAE, J-684C and ANSI B30-10
 - Weight 3.15
 - Manufacturer Part #: 4FA39
@@ -520,7 +522,7 @@ USB 2.0 Extension Cable, 1 Ft.
 - USB 2.0 Extension Cable 
 - Length: 12" 
 - Color: Beige 
-- Connector Type USB A Male to A Female, 
+- Connector Type USB A Male to A Female
 - Silver Plated, For Use With PC/MAC, UL/CSA/MAC Standards
 - Weight: 0.057 lbs
 - 5XGA1
@@ -559,7 +561,7 @@ Donated by: Grainger
 #### Product Overview:
 Ethernet Cord, Patch, 5 Ft. Cat5e
 #### Specifications:
-- Patch Cord, 
+- Patch Cord
 - CAT5E 
 - Color: Yellow 
 - Cord Length: 5 Feet 
@@ -675,9 +677,9 @@ Donated by: Ametek/Haydon Kerk Motion Products
 #### Product Overview:
 7/16" diameter x 0.197" leadscrew x 18.25" long, round flanged nut
 #### Specifications:
-Lead: 0197",
-Outside Diameter: 0.438 in,
-Root Diameter: 0.315 in,
+Lead: 0197"
+Outside Diameter: 0.438 in
+Root Diameter: 0.315 in
 Efficiency: 65%
 Weight: 0.64 lbs
   
@@ -741,13 +743,13 @@ Donated by: Parker
 Brass fitting assortment, this was the kit included in the 2011 Kit of Parts
 #### Specifications:
 - Kit includes the following items:
-	 - (1) manual vent valve,
-	 - (4) union tee fittings,
-	 - (6) 1/4" F to 1/8" M adapters,
-	 - (6) 1/8" plugs,
-	 - (6) 1/4" plugs,
-	 - (6) 1/8" NPT hex nipples,
-	 - (12) 1/8" F to 1/4" M bushings
+  - (1) manual vent valve
+  - (4) union tee fittings
+  - (6) 1/4" F to 1/8" M adapters
+  - (6) 1/8" plugs
+  - (6) 1/4" plugs
+  - (6) 1/8" NPT hex nipples
+  - (12) 1/8" F to 1/4" M bushings
 - PKT-12326 Includes these Manufacturer Part #:  MV709-2, 2203P-2, 222P-4-2, 216P-2, 209P-4-2, 218P-2, 218P-4
   
 ## Photoswitch [(fc13-057)](https://web.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm "https://web.archive.org/web/20130122082833/http://www.andymark.com:80/FIRST-Choice-p/fc13-057.htm")
@@ -756,10 +758,10 @@ Donated by: Rockwell Automation
 #### Product Overview:
 ClearSight RightSight Clear Object Detection sensors have a modified optical system for improved detection of clear objects such as plastic bottles.
 #### Specifications:
-- 1 m sensing distance,
-- IP69K and ECOLAB Certified,
-- Threaded 18 mm nose-mounting option,
-- Threaded 18 mm base-mounting option,
+- 1 m sensing distance
+- IP69K and ECOLAB Certified
+- Threaded 18 mm nose-mounting option
+- Threaded 18 mm base-mounting option
 - Status indicators for power, margin, output
 - Weight: 0.35
 - Manufacturer Part #: 42EF-D1MNAK-A2
@@ -803,6 +805,7 @@ The Talon is the latest generation in Brushed DC motor control. The Talon featur
 - User selectable brake/coast
 - 4% neutral dead band
 - Linear throttle response
+
 Please see the Talon User Manual for many more details.
   
 ## Ring light [(fc13-060)](https://web.archive.org/web/20130122082654/http://www.andymark.com:80/FIRST-Choice-p/fc13-060.htm "https://web.archive.org/web/20130122082654/http://www.andymark.com:80/FIRST-Choice-p/fc13-060.htm")
@@ -937,6 +940,7 @@ Your kit includes two (2) [E4P-360-250-D-D-D-B](https://web.archive.org/web/2010
 - Two - Covers (COVER-E4P-360-D)
 - Two - Cables (CA-MIC4-W4-NC-3)
 - One - Spacer Tool
+
 See the [E4P web page](https://web.archive.org/web/20130122091749/http://www.usdigital.com:80/products/encoders/incremental/rotary/kit/E4P "https://web.archive.org/web/20130122091749/http://www.usdigital.com:80/products/encoders/incremental/rotary/kit/E4P") for more information, and the [FAQ page](https://web.archive.org/web/20130528081553/http://www.usdigital.com:80/first "https://web.archive.org/web/20130528081553/http://www.usdigital.com:80/first") about US Digital and FIRST.
   
 ## Snow Blower Motor [(fc13-067)](https://web.archive.org/web/20130119005950/http://www.andymark.com:80/FIRST-Choice-p/fc13-067.htm "https://web.archive.org/web/20130119005950/http://www.andymark.com:80/FIRST-Choice-p/fc13-067.htm")
@@ -994,6 +998,7 @@ This motor is the same motor included in the AndyMark PG27 Gearmotor, it comes w
 - Gear Material: steel, formed from powdered metal
 - Body Material: steel
 - Lubrication: this gearbox is pre-greased and needs no further lubrication
+
 ##### Performance Specs:
 - Gearbox Reduction: 26.9:1
 - Voltage: 12 volt DC
@@ -1035,6 +1040,7 @@ This gearmotor has the same output shaft and motor included in the AndyMark PG71
 - Gear Material: steel, formed from powdered metal
 - Body Material: steel
 - Lubrication: this gearbox is pre-greased and needs no further lubrication
+
 ##### Performance Specs:
 - Gearbox Reduction: 188:1
 - Voltage: 12 volt DC
@@ -1062,7 +1068,7 @@ Two-piece shaft collars offer all the benefits of one-piece shaft collars with a
 - Clearance Diameter, C (in): 0.773
 - Forged Clamp Screw #4-40x5/16
   
-## 3/8" Shaft Collar [(fc13-074](https://web.archive.org/web/20130122081910/http://www.andymark.com:80/FIRST-Choice-p/fc13-074.htm "https://web.archive.org/web/20130122081910/http://www.andymark.com:80/FIRST-Choice-p/fc13-074.htm")
+## 3/8" Shaft Collar [(fc13-074)](https://web.archive.org/web/20130122081910/http://www.andymark.com:80/FIRST-Choice-p/fc13-074.htm "https://web.archive.org/web/20130122081910/http://www.andymark.com:80/FIRST-Choice-p/fc13-074.htm")
 __6 Credits__  
 Donated by: Ruland Manufacturing
 #### Product Overview:
@@ -1151,6 +1157,7 @@ Four beam couplings are designed for precision applications that use delicate co
 - Angular Misalignment (deg): 3
 - Parallel Misalignment (in): 0.008
 - Axial Motion (in): 0.005
+
 #### Notes:
 Note 1: Static torque ratings are at maximum misalignment. To obtain dynamic rating, static ratings should be divided by 2 for non-reversing applications and by 4 for reversing applications.
   
@@ -1175,6 +1182,7 @@ Four beam couplings are designed for precision applications that use delicate co
 - Angular Misalignment (deg): 3
 - Parallel Misalignment (in): 0.015
 - Axial Motion (in): 0.010
+
 #### Notes:
 Note 1: Static torque ratings are at maximum misalignment. To obtain dynamic rating, static ratings should be divided by 2 for non-reversing applications and by 4 for reversing applications.
   
