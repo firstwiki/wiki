@@ -946,3 +946,219 @@ Your kit includes two (2) [E4P-360-250-D-D-D-B](https://web.archive.org/web/2010
 - Two - Cables (CA-MIC4-W4-NC-3)
 - One - Spacer Tool
 See the [E4P web page](https://web.archive.org/web/20130122091749/http://www.usdigital.com:80/products/encoders/incremental/rotary/kit/E4P "https://web.archive.org/web/20130122091749/http://www.usdigital.com:80/products/encoders/incremental/rotary/kit/E4P") for more information, and the [FAQ page](https://web.archive.org/web/20130528081553/http://www.usdigital.com:80/first "https://web.archive.org/web/20130528081553/http://www.usdigital.com:80/first") about US Digital and FIRST.
+  
+## Snow Blower Motor [(fc13-067)](https://web.archive.org/web/20130119005950/http://www.andymark.com:80/FIRST-Choice-p/fc13-067.htm "https://web.archive.org/web/20130119005950/http://www.andymark.com:80/FIRST-Choice-p/fc13-067.htm")
+__6 Credits__  
+Donated by: AndyMark
+#### Product Overview:
+Motor & gearbox combo from snow blower assembly
+#### Specifications:
+- Max Power: 30 Watts
+- Free Speed: 100 rpm
+- Stall Torque: 100 in-lb
+- Stall Current: 24 amps
+- Free Current: 5 amps
+- Weight: 1.11 pounds
+- Manufacture Part Number: am-2235
+  
+## window motor, Denso, right E6DF-14A365-BB [(fc13-068)](https://web.archive.org/web/20130122081939/http://www.andymark.com:80/FIRST-Choice-p/fc13-068.htm "https://web.archive.org/web/20130122081939/http://www.andymark.com:80/FIRST-Choice-p/fc13-068.htm")
+__8 Credits__  
+Donated by: Denso
+#### Product Overview:
+Denso window motor, right hand with Part Number: E6DF-14A365-BB
+#### Specifications:
+- Motor Diameter: 1.75 in
+- Weight: 1.834 lbs
+- Manufacture Part Number: E6DF-14A365-BB
+  
+## Battery Charger [(fc13-069)](https://web.archive.org/web/20130122084035/http://www.andymark.com:80/FIRST-Choice-p/fc13-069.htm "https://web.archive.org/web/20130122084035/http://www.andymark.com:80/FIRST-Choice-p/fc13-069.htm")
+__10 Credits__  
+Provided by: Batteries Plus
+#### Product Overview:
+2/4/6A 6/12V Automatic SpeedCharge Charger
+#### Specifications:
+- Charger Type: Fully Automatic Microprocessor Controlled
+- Output Voltage: 6V/12VDC
+- Input Voltage: 120VAC
+- Output Current Cont: 2A/4A/6A
+- Rating Agency: CUL/UL/RoHS
+- Input Current Cont: 2.0A
+- Size: 2.95"x6.89"x7.48"
+- Manufacturer Part #: SC-600A
+  
+## PG27 GearMotor [(fc13-070)](https://web.archive.org/web/20130125084944/http://www.andymark.com:80/FIRST-Choice-p/fc13-070.htm "https://web.archive.org/web/20130125084944/http://www.andymark.com:80/FIRST-Choice-p/fc13-070.htm")
+__8 Credits__  
+Donated by: AndyMark
+#### Product Overview:
+This motor is the same motor included in the AndyMark PG27 Gearmotor, it comes with the pinion gear attached and also includes the 2 mounting screws. This gearmotor has the same output shaft and motor included in our popular PG71.
+#### Specifications:
+##### Physical Specs:
+- Overall Length: 5.82 inches
+- Maximum Diameter: 1.775 inches
+- Output Shaft size: 10mm (0.393") dia with 4mm (0.157") keyway
+- Weight: 1.6 pounds
+- Mounting Holes: M4x0.7 threaded hole (4) x 9mm deep
+- Electrical Connection Geometry: 3/16" wide spade connectors (2)
+- Gear Material: steel, formed from powdered metal
+- Body Material: steel
+- Lubrication: this gearbox is pre-greased and needs no further lubrication
+##### Performance Specs:
+- Gearbox Reduction: 26.9:1
+- Voltage: 12 volt DC
+- No Load Free Speed: 198 rpm
+- No Load Current: 0.6 amps 
+- Gearbox Output Power: (tbd) Watts
+- Stall Torque: 6.3 ft-lbf
+- Stall Current: 22 amps
+- Minimum torque needed to back drive a non-powered PG27: 0.3ft-lbs
+  
+## Window motor, Keyang, right [(fc13-071)](https://web.archive.org/web/20130122082704/http://www.andymark.com:80/FIRST-Choice-p/fc13-071.htm "https://web.archive.org/web/20130122082704/http://www.andymark.com:80/FIRST-Choice-p/fc13-071.htm")
+__7 Credits__  
+Donated by: Keyang
+#### Product Overview:
+12V DC motor
+#### Specifications:
+- Max Power: 24 W
+- Free Speed: 70 RPM
+- Stall Torque: 1880 oz-in
+- Free Current: 0.5 amp
+- Stall Current: 20 amps
+- Weight: 1.84lbs
+- Manufacturer Part #: 16627960
+  
+## PG188 GearMotor [(fc13-072)](https://web.archive.org/web/20130122084051/http://www.andymark.com:80/FIRST-Choice-p/fc13-072.htm "https://web.archive.org/web/20130122084051/http://www.andymark.com:80/FIRST-Choice-p/fc13-072.htm")
+__8 Credits__  
+Donated by: AndyMark
+#### Product Overview:
+This is a gearmotor consisting of a 4-stage planetary gearbox and a RS775 series motor.  
+This gearmotor has the same output shaft and motor included in the AndyMark PG71.
+#### Specifications:
+##### Physical Specs:
+- Overall Length: 6.70 inches
+- Maximum Diameter: 1.775 inches
+- Output Shaft size: 10mm (0.393") dia with 4mm (0.157") keyway
+- Weight: 2.1 pounds
+- Mounting Holes: M4x0.7 threaded hole (4) x 9mm deep
+- Electrical Connection Geometry: 3/16" wide spade connectors (2)
+- Gear Material: steel, formed from powdered metal
+- Body Material: steel
+- Lubrication: this gearbox is pre-greased and needs no further lubrication
+##### Performance Specs:
+- Gearbox Reduction: 188:1
+- Voltage: 12 volt DC
+- No Load Free Speed: 28 rpm
+- No Load Current: 0.6 amps 
+- Gearbox Output Power: (tbd) Watts
+- Stall Torque: 33 ft-lbf
+- Stall Current: 22 amps
+- Minimum torque needed to back drive a non-powered PG188: 3.5 ft-lbs
+  
+## 1/4" Shaft Collar [(fc13-073)](https://web.archive.org/web/20130122082854/http://www.andymark.com:80/FIRST-Choice-p/fc13-073.htm "https://web.archive.org/web/20130122082854/http://www.andymark.com:80/FIRST-Choice-p/fc13-073.htm")
+__6 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Shaft collars are one of the most versatile machine components and have a variety of uses such as positioning, guiding, stopping, clamping, and spacing. They are single point faced (indicated by a circular groove on the face) during the boring operation to ensure face to bore perpendicularity. This is important for alignment when a shaft collar is used as a load bearing face, mechanical stop, or for mounting components such as gears or bearings. 
+
+Two-piece shaft collars offer all the benefits of one-piece shaft collars with additional versatility, convenience, and holding power. The split design is easily installed and disassembled saving time when adjustment, removal, or replacement is necessary. Two-piece shaft collars use the full seating torque of its forged screws to apply a uniform distribution of forces around the shaft's circumference. These clamping forces provide the collar with a holding power superior to one-piece and set screw shaft collars. Two-piece shaft collars are also more adaptable to shafts which vary a small amount from nominal size.
+#### Specifications:
+- Part Number: SP-4-A
+- Material: Aluminum
+- Bore, B (in): 0.2500
+- Outer Diameter, OD (in): 5/8
+- Width, W (in): 0.281
+- Screw Location, R (in): 0.210
+- Clearance Diameter, C (in): 0.773
+- Forged Clamp Screw #4-40x5/16
+  
+## 3/8" Shaft Collar [(fc13-074](https://web.archive.org/web/20130122081910/http://www.andymark.com:80/FIRST-Choice-p/fc13-074.htm "https://web.archive.org/web/20130122081910/http://www.andymark.com:80/FIRST-Choice-p/fc13-074.htm")
+__6 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Shaft collars are one of the most versatile machine components and have a variety of uses such as positioning, guiding, stopping, clamping, and spacing. They are single point faced (indicated by a circular groove on the face) during the boring operation to ensure face to bore perpendicularity. This is important for alignment when a shaft collar is used as a load bearing face, mechanical stop, or for mounting components such as gears or bearings. 
+
+Two-piece shaft collars offer all the benefits of one-piece shaft collars with additional versatility, convenience, and holding power. The split design is easily installed and disassembled saving time when adjustment, removal, or replacement is necessary. Two-piece shaft collars use the full seating torque of its forged screws to apply a uniform distribution of forces around the shaft's circumference. These clamping forces provide the collar with a holding power superior to one-piece and set screw shaft collars. Two-piece shaft collars are also more adaptable to shafts which vary a small amount from nominal size.
+#### Specifications:
+- Part Number: SP-6-A
+- Material: Aluminum
+- Bore, B (in): 0.3750
+- Outer Diameter, OD (in): 7/8
+- Width, W (in): 0.343
+- Screw Location, R (in): 0.313
+- Clearance Diameter, C (in): 1.027
+- Forged Clamp Screw #6-32x3/8
+  
+## 1/2" Shaft Collar [(fc13-075)](https://web.archive.org/web/20130122082859/http://www.andymark.com:80/FIRST-Choice-p/fc13-075.htm "https://web.archive.org/web/20130122082859/http://www.andymark.com:80/FIRST-Choice-p/fc13-075.htm")
+__6 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Shaft collars are one of the most versatile machine components and have a variety of uses such as positioning, guiding, stopping, clamping, and spacing. They are single point faced (indicated by a circular groove on the face) during the boring operation to ensure face to bore perpendicularity. This is important for alignment when a shaft collar is used as a load bearing face, mechanical stop, or for mounting components such as gears or bearings.
+
+One-piece shaft collars wrap around the shaft for even distribution of clamping forces. This results in a tight fit and greater holding power without the damage to the shaft caused by set screws. Clamp collars are easy to remove, infinitely adjustable, and work well on virtually any material shaft, hard or soft.
+#### Specifications:
+- Part Number: CL-8-A
+- Material: Aluminum
+- Bore, B (in): 0.5000
+- Outer Diameter, OD (in): 1-1/8
+- Width, W (in): 0.406
+- Screw Location, R (in): 0.406
+- Clearance Diameter, C (in): 1.281
+- Forged Clamp Screw #8-32x1/2
+  
+## 1/4" x 1/4" Rigid Coupling [(fc13-076)](https://web.archive.org/web/20130122082709/http://www.andymark.com:80/FIRST-Choice-p/fc13-076.htm "https://web.archive.org/web/20130122082709/http://www.andymark.com:80/FIRST-Choice-p/fc13-076.htm")
+__7 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Rigid couplings are a good all purpose coupling that can be used for a variety of applications ranging from simple shaft to shaft connections through highly precise stepper/servo systems. They are best suited for applications where misalignment is neither present nor desired.
+
+One-piece rigid couplings wrap around the shaft providing high torsional holding power without the shaft damage of set screw couplings. Precision honed bores are used for superior fit and torque transmission without introducing misalignment into the system. The cross cut design is ensures a proper clamp on both shafts to accommodate slight deviations in the size and tolerance of shafts being connected. A proprietary Nypatch® coating is used on hardware to resist vibration and maintain holding power to provide even seating of the screw, repeated screw installations, and prevent galling.
+#### Specifications:
+- Part Number: CLX-4-4-A
+- Material: Aluminum
+- Bore 1, B1 (in): 0.250
+- Bore 2, B2 (in): 0.250
+- Outer Diameter, OD (in): 5/8
+- Length, L (in): 1
+- Clearance Diameter, C (in): 0.815
+- Forged Clamp Screw #4-40
+  
+## 3/8" x 3/8" Rigid Coupling [(fc13-077)](https://web.archive.org/web/20130122084056/http://www.andymark.com:80/FIRST-Choice-p/fc13-077.htm "https://web.archive.org/web/20130122084056/http://www.andymark.com:80/FIRST-Choice-p/fc13-077.htm")
+__7 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Rigid couplings are a good all purpose coupling that can be used for a variety of applications ranging from simple shaft to shaft connections through highly precise stepper/servo systems. They are best suited for applications where misalignment is neither present nor desired.
+
+One-piece rigid couplings wrap around the shaft providing high torsional holding power without the shaft damage of set screw couplings. Precision honed bores are used for superior fit and torque transmission without introducing misalignment into the system. The cross cut design is ensures a proper clamp on both shafts to accommodate slight deviations in the size and tolerance of shafts being connected. A proprietary Nypatch® coating is used on hardware to resist vibration and maintain holding power to provide even seating of the screw, repeated screw installations, and prevent galling.
+#### Specifications:
+- Part Number: CLX-6-6-A
+- Material: Aluminum
+- Bore 1, B1 (in): 0.375
+- Bore 2, B2 (in): 0.375
+- Outer Diameter, OD (in): 7/8
+- Length, L (in): 1-3/8
+- Clearance Diameter, C (in): 1.033
+- Forged Clamp Screw #6-32
+  
+## 1/4" x 1/4" Beam Coupling [(fc13-078)](https://web.archive.org/web/20130122082904/http://www.andymark.com:80/FIRST-Choice-p/fc13-078.htm "https://web.archive.org/web/20130122082904/http://www.andymark.com:80/FIRST-Choice-p/fc13-078.htm")
+__7 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Beam couplings are an economical choice with good all around performance characteristics. They are machined from a single piece of aluminum and feature multiple spiral cuts. This multiple cut design provides higher torque capabilities and greatly reduces wind-up when compared to single beam type couplings.
+
+Four beam couplings are designed for precision applications that use delicate components such as encoders or tachometers. They provide extra flexibility to yield reduced bearing loads when within coupling specifications.
+#### Specifications:
+- Part Number: PCR12-4-4-A
+- Bore 1, B1 (in): 0.250
+- Bore 2, B2 (in): 0.250
+- Outside Diameter, OD (in): 3/4
+- Length, L (in): 0.900
+- Shaft Penetration (in): 0.386
+- Cap Screw (in): M2.5
+- Static Torque (lb-in): 14
+- Torsional Stiffness (deg/lb-in): 0.330
+- Moment of Inertia (lb-in2): 0.0025
+- Angular Misalignment (deg): 3
+- Parallel Misalignment (in): 0.008
+- Axial Motion (in): 0.005
+#### Notes:
+Note 1: Static torque ratings are at maximum misalignment. To obtain dynamic rating, static ratings should be divided by 2 for non-reversing applications and by 4 for reversing applications.
+  
