@@ -3,14 +3,6 @@ title: FIRST Choice 2013 List
 ---
 
 
-##  [(fc13-)]()
-__ Credits__  
-Donated by 
-#### Product Overview:
-
-#### Specifications:
-
-
 ## DB37 Flat Ribbon Cable Kit [(fc13-001)](https://web.archive.org/web/20130122082729/http://www.andymark.com:80/FIRST-Choice-p/fc13-001.htm "https://web.archive.org/web/20130122082729/http://www.andymark.com:80/FIRST-Choice-p/fc13-001.htm")
 __10 Credits__  
 Donated by: 3M
@@ -1232,4 +1224,8 @@ Polypropylene air volume tank
 - Max. Pressure: 150 PSI
 - Operating Temperature Range: 40 TO 140 F
 - Manufacturer Part #: SS-1214 (also known as AVT-PP-41)
+  
 
+### The pages for FIRST Choice Parts fc13-101 through fc13-144\* were not archived by the WayBack Machine
+  
+\*Number not confirmed
