@@ -1162,3 +1162,74 @@ Four beam couplings are designed for precision applications that use delicate co
 #### Notes:
 Note 1: Static torque ratings are at maximum misalignment. To obtain dynamic rating, static ratings should be divided by 2 for non-reversing applications and by 4 for reversing applications.
   
+## 3/8" x 3/8" Beam Coupling [(fc13-079)](https://web.archive.org/web/20130122082716/http://www.andymark.com:80/FIRST-Choice-p/fc13-079.htm "https://web.archive.org/web/20130122082716/http://www.andymark.com:80/FIRST-Choice-p/fc13-079.htm")
+__7 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Beam couplings are an economical choice with good all around performance characteristics. They are machined from a single piece of aluminum and feature multiple spiral cuts. This multiple cut design provides higher torque capabilities and greatly reduces wind-up when compared to single beam type couplings.
+
+Four beam couplings are designed for precision applications that use delicate components such as encoders or tachometers. They provide extra flexibility to yield reduced bearing loads when within coupling specifications.
+#### Specifications:
+- Part Number: PCR16-6-6-A
+- Bore 1, B1 (in): 0.375
+- Bore 2, B2 (in): 0.375
+- Outside Diameter, OD (in): 1
+- Length, L (in): 1.250
+- Shaft Penetration (in): 0.545
+- Cap Screw (in): M4
+- Static Torque (lb-in): 30
+- Torsional Stiffness (deg/lb-in): 0.200
+- Moment of Inertia (lb-in2): 0.0116
+- Angular Misalignment (deg): 3
+- Parallel Misalignment (in): 0.015
+- Axial Motion (in): 0.010
+#### Notes:
+Note 1: Static torque ratings are at maximum misalignment. To obtain dynamic rating, static ratings should be divided by 2 for non-reversing applications and by 4 for reversing applications.
+  
+## 1/4" Jaw Coupling Hub [(fc13-080)](https://web.archive.org/web/20130122082719/http://www.andymark.com:80/FIRST-Choice-p/fc13-080.htm "https://web.archive.org/web/20130122082719/http://www.andymark.com:80/FIRST-Choice-p/fc13-080.htm")
+__5 Credits__  
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Zero backlash jaw couplings are a three piece assembly comprised of two aluminum hubs and one elastomer element called “the spider.” Made of an advanced polyurethane material, the spider provides dampening of impulse loads, minimizing shock to the motor and other sensitive equipment.
+
+Jaw couplings hubs press fit onto the spider, assuring zero backlash operation. The curved jaw profile concentrates the forces to the center of the spider’s limbs, improving the effectiveness of the elastomer material. Raised contact points on the spider limbs help maintain proper spacing between the two hubs, assuring electrical isolation and full angular misalignment capabilities. Jaw couplings are considered fail safe because if the spider fails, the jaws of the two hubs interlock for direct power transmission, allowing the application to be safely shut down.
+#### Ordering Requirements:
+You must order two hubs and one spider to make a complete coupling. For example, a 3/8” to 1/4" coupling with a 92 Shore A spider should be ordered as follows: JC16-6-A (fc13-081), JC16-4-A (fc13-080), and JD16/25-92Y (fc13-083).
+#### Specifications:
+Part Number: JC16-4-A
+Bore, B (in): 0.250
+Outside Diameter, OD (in): 1
+Coupling Length, L (in): 1.390
+Hub Length, LH (in): 0.467
+Shaft Penetration (in): 0.467
+Clamp Screw (in): M3
+  
+## 3/8" Jaw Coupling Hub [(fc13-081)](https://web.archive.org/web/20121117192934/http://www.andymark.com:80/FIRST-Choice-p/fc13-081.htm "https://web.archive.org/web/20121117192934/http://www.andymark.com:80/FIRST-Choice-p/fc13-081.htm")
+Donated by: Ruland Manufacturing
+#### Product Overview:
+Clamp Style Jaw Coupling, 3/8" ID, Aluminum
+#### Specifications:
+- For use with Jaw Coupling Spider (fc13-083)
+- Zero backlash
+- Electrically isolating
+- Balanced design
+- Constant velocity
+- Replaceable spider
+- Bore tolerance: +.001"/-.000"
+- Maximum speed: 8,000 RPM
+- Temperature Range: -10°F to 180ºF
+- Manufacturer Part #: JC16-6-A
+  
+### The pages for FIRST Choice Parts fc13-082 through fc13-099 were not archived by the WayBack Machine
+  
+## Volume Chamber, plastic [(fc13-100)](https://web.archive.org/web/20130218180034/http://www.andymark.com/FIRST-Choice-p/fc13-100.htm "https://web.archive.org/web/20130218180034/http://www.andymark.com/FIRST-Choice-p/fc13-100.htm")
+__6 Credits__  
+Donated by: Clippard
+#### Product Overview:
+Polypropylene air volume tank
+#### Specifications:
+- Internal Volume: 41 Cubic Inches 
+- Max. Pressure: 150 PSI
+- Operating Temperature Range: 40 TO 140 F
+- Manufacturer Part #: SS-1214 (also known as AVT-PP-41)
+
