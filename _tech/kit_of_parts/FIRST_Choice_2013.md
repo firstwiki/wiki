@@ -888,18 +888,15 @@ Two optional interrupt pins, I1 and I2, are found at the end of the SPI connecto
 The Analog Devices website has operation instructions and code examples, useful once the ADXL345 is wire up. Check out http://www.analog.com/ for more information.
 
 Note: The ADXL345 starts in a power saving mode. You must turn it on by writing 0x08 to POWER_CTL (0x2D) before it will do anything interesting.
-
 #### Yaw Rate Gyro:
+The angular rate sensor (gyroscope) using Analog Devices part number ADW22307 detects angular changes about the board’s top surface axis. The output is a voltage proportional to the angular rate change. The user can read this information for guidance, stability, and control of the robot platform. The most accurate reading from this gyro will take place if it is mounted flat in or near the center axis of the robots rotation.
 
-The angular rate sensor (gyroscope) using Analog Devices part number ADW22307 detects angular changes about the board’s top surface axis. The output is a voltage proportional to the angular rate change.  The user can read this information for guidance, stability, and control of the robot platform. The most accurate reading from this gyro will take place if it is mounted flat in or near the center axis of the robots rotation.
+Mounting: Clearance holes for a /#4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate. Also, it may be wise to use a shock-absorbing pad or grommet to isolate signals to the board.
 
-Mounting:  Clearance holes for a #4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate.  Also, it may be wise to use a shock-absorbing pad or grommet to isolate signals
-to the board.
-
-Usage: The ADW22307 can measure up to 250°/s of rotation. Nominal output is 2.5V at standstill, plus 7mV/°/s. The carrier board adds a double pole low-pass filter set to 400Hz. Users can experiment with digital filters in order to select a bandwidth appropriate for their specific usage. 
+Usage: The ADW22307 can measure up to 250°/s of rotation. Nominal output is 2.5V at standstill, plus 7mV/°/s. The carrier board adds a double pole low-pass filter set to 400Hz. Users can experiment with digital filters in order to select a bandwidth appropriate for their specific usage.
 
 The ADW22307 has an integrated temperature sensor to assist in temperature compensation. Nominal output is 2.5V at 25°C plus 9mV/°C.
-
-Communication and Pinout:
+##### Communication and Pinout:
 Rate +5V Ground
 Temp +5V Ground
+  
