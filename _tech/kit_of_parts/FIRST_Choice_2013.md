@@ -576,3 +576,50 @@ Ethernet Cord, Patch, 5 Ft. Cat5e
 - Wire Gauge Stranded 24 AWG, Snagless
 - Weight: 0.138 lbs
 - Part #: 4DE97
+  
+## USB to Serial cable [(fc13-042)](https://web-beta.archive.org/web/20130122082810/http://www.andymark.com:80/FIRST-Choice-p/fc13-042.htm "https://web-beta.archive.org/web/20130122082810/http://www.andymark.com:80/FIRST-Choice-p/fc13-042.htm")
+__7 Credits__  
+Donated by: Grainger
+#### Product Overview:
+USB to Serial Converter
+#### Specifications:
+- USB Converter, USB to Serial/Parallel 
+- Color: Black 
+- Cable Length 3 ft. 
+- For Use With: Windows 98, ME, 2000, XP, Vista, Standards UL/CSA
+- Weight: 0.232
+- Part # 5XGF3
+  
+## Wire, 6AWG, black [(fc13-043)](https://web-beta.archive.org/web/20130122083941/http://www.andymark.com:80/FIRST-Choice-p/fc13-043.htm "https://web-beta.archive.org/web/20130122083941/http://www.andymark.com:80/FIRST-Choice-p/fc13-043.htm")
+__9 Credits__  
+Donated by: Delphi
+#### Product Overview:
+Wire, 6AWG, black, 2' lengths
+#### Specifications:
+- 6 AWG, Stranded
+- Length: 2 ft long 
+- Color: black
+  
+## Wire, 6AWG, red [(fc13-044)](https://web-beta.archive.org/web/20130122081845/http://www.andymark.com:80/FIRST-Choice-p/fc13-044.htm "https://web-beta.archive.org/web/20130122081845/http://www.andymark.com:80/FIRST-Choice-p/fc13-044.htm")
+__9 Credits__  
+Donated by: Delphi
+#### Product Overview:
+Wire, 6AWG, red, 2' lengths
+#### Specifications:
+- 6 AWG, Stranded
+- Length: 2 ft
+- Color: Red
+  
+## Ethernet cable, 3-foot [(fc13-045)](https://web-beta.archive.org/web/20130122082644/http://www.andymark.com:80/FIRST-Choice-p/fc13-045.htm "https://web-beta.archive.org/web/20130122082644/http://www.andymark.com:80/FIRST-Choice-p/fc13-045.htm")
+__7 Credits__  
+Donated by: Grainger
+#### Product Overview:
+Ethernet Cord, Patch, 3 Ft, Cat5e
+#### Specifications:
+- CAT5E
+- Color: Blue
+- T568A/B, Booted RJ45
+- Wire Gauge: Stranded 24 AWG, Snagless
+- Weight: 0.088
+- Length: 3ft.
+- Part #: 4DE71
