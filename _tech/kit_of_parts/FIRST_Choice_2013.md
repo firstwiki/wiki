@@ -877,7 +877,7 @@ During some applications, the user may need to split apart these two sensors. Be
 #### Specifications for the Digital Accelerometer:
 The 3-axis accelerometer using Analog Devices part number ADXL345 measures dynamic acceleration (vibration) and static acceleration (gravity). Please handle this sensor with care, as it is sensitive.
 
-Mounting: Clearance holes for a /#4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate. Also, it may be wise to use a shock-absorbing pad or grommet to isolate signalsto the board.
+Mounting: Clearance holes for a #4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate. Also, it may be wise to use a shock-absorbing pad or grommet to isolate signalsto the board.
 
 Communication: This sensor can communicate with a control system using the Digital Sidecar digitally by either of two protocols:
 - SPI: This is on J4 and can be wired to the Digital I/O on the Digital Sidecar. Although the pins can be connected to any GPIOs in any order, it is easiest to use Digital I/O 1-4. Connect 0V and 5V to the (-) and PWR pins that are just beyond Digital I/O 1, and [CK, DI, DO, CS] in order.
@@ -891,12 +891,12 @@ Note: The ADXL345 starts in a power saving mode. You must turn it on by writing 
 #### Yaw Rate Gyro:
 The angular rate sensor (gyroscope) using Analog Devices part number ADW22307 detects angular changes about the board’s top surface axis. The output is a voltage proportional to the angular rate change. The user can read this information for guidance, stability, and control of the robot platform. The most accurate reading from this gyro will take place if it is mounted flat in or near the center axis of the robots rotation.
 
-Mounting: Clearance holes for a /#4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate. Also, it may be wise to use a shock-absorbing pad or grommet to isolate signals to the board.
+Mounting: Clearance holes for a #4 screw are present on the board. We recommend plastic screws for electrically isolating the board from a metal mounting plate. Also, it may be wise to use a shock-absorbing pad or grommet to isolate signals to the board.
 
 Usage: The ADW22307 can measure up to 250°/s of rotation. Nominal output is 2.5V at standstill, plus 7mV/°/s. The carrier board adds a double pole low-pass filter set to 400Hz. Users can experiment with digital filters in order to select a bandwidth appropriate for their specific usage.
 
 The ADW22307 has an integrated temperature sensor to assist in temperature compensation. Nominal output is 2.5V at 25°C plus 9mV/°C.
 ##### Communication and Pinout:
-Rate +5V Ground
+Rate +5V Ground  
 Temp +5V Ground
   
