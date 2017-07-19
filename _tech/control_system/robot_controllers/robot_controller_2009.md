@@ -6,9 +6,7 @@ tags: [robot-controllers, obsolete-part]
 {% include historical %}
 {% include outdated-warning %}
 
-The FIRST Robotics Competition (FRC) has adopted the CompactRIO (cRIO) control
-system for advanced robotics for its 2009 season and beyond. The cRIO from
-National Instruments can be programmed in LabVIEW or C.
+The FIRST Robotics Competition (FRC) adopted the CompactRIO (cRIO) control system for advanced robotics for its 2009 through 2014 seasons. In 2010, the cRIO-FRC was joined by the smaller, lighter and cheaper cRIO-FRC II. In 2015, it was replaced by the NI RoboRIO. The cRIO-FRC from National Instruments can be programmed in LabVIEW or C.
 
 
 ##  Programming
