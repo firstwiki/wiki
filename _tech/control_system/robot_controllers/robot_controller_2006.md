@@ -1,8 +1,8 @@
 ---
 title: Robot Controller (2006)
-tags: robot-controllers
+tags: [robot-controllers, obsolete-part]
 ---
-
+{% include stub %}
 {% include historical %}
 
 Identical to the [2005 robot
