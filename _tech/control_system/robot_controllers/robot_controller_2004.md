@@ -1,6 +1,6 @@
 ---
 title: Robot Controller (2004-2008)
-tags: robot-controllers
+tags: [robot-controllers, obsolete-part]
 ---
 
 {% include historical %}
