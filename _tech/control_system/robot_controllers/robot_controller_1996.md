@@ -1,6 +1,6 @@
 ---
 title: Robot Controller (1996)
-tags: robot-controllers
+tags: [robot-controllers, obsolete-part]
 ---
 
 {% include stub %}
