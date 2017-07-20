@@ -1,6 +1,6 @@
 ---
 title: Banebots motor (M2-RS540-120)
-tags: obsoletemotor
+tags: [obsoletemotor, obsolete-part]
 ---
 
 {% include historical %}
