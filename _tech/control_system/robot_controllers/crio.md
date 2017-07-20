@@ -1,6 +1,6 @@
 ---
 title: cRIO
-tags: [robot-controllers, obsolete-part]
+tags: [robot-controllers, control-system, obsolete-part]
 ---
 
 {% include historical %}
