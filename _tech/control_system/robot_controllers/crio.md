@@ -34,28 +34,12 @@ The Compact Rio contains a PowerPC processor and reprogramable FPGA processor wh
 
 ##  Modules
 
-The cRIO had slots for eight interchangeable modules. New modules were supplied each year to teams. The modules by themselves only have a D-Sub connector, so PWM or other wiring connections are made available through a breakout board that either that screws into the module, or a sidecar that is seperate from the module and connected by a cable.
+The cRIO-FRC had slots for eight interchangeable modules. New modules were supplied each year to teams. The modules by themselves only have a D-Sub connector, so PWM or other wiring connections are made available through a breakout board that either screws into the module (used with the NI 9201 and NI 9472 modules), or a sidecar that is seperate from the module and connected by a cable (used with the NI 9403 module).
 
-
-###  Digital I/O Module (NI 9403) and Sidecar
-
-The Digital Sidecar and module provide general purpose input/output. 32 channels of data are sent to the Digital Sidecar. A digital output can output a maximum of 5.2V.
-
-[Module](https://web.archive.org/web/20170720195845/http://first.wpi.edu/FRC/digital.html "https://web.archive.org/web/20170720195845/http://first.wpi.edu/FRC/digital.html")  
-[Sidecar](https://web.archive.org/web/20170720201529/http://first.wpi.edu/FRC/digitalsidecar.html "https://web.archive.org/web/20170720201529/http://first.wpi.edu/FRC/digitalsidecar.html")
-
-###  Digital Output/Solenoid Module (NI 9472) and Solenoid Breakout
-
-The Solenoid module will allow for connections to a pneumatics relay. Connections are provided through the Solenoid Breakout. This module can provide a maximum output of 30V.
-
-[Module and Breakout](https://web.archive.org/web/20170720201939/http://first.wpi.edu/FRC/solenoid.html "https://web.archive.org/web/20170720201939/http://first.wpi.edu/FRC/solenoid.html")
-
-###  Analog Input Module (NI 9201) and Analog Breakout
-
-The Analog Input module allows eight inputs of analog data with 12-bit resolution.
-
-[Module and Breakout](https://web.archive.org/web/20170720202106/http://first.wpi.edu/FRC/analog.html "https://web.archive.org/web/20170720202106/http://first.wpi.edu/FRC/analog.html")
-
+There were three modules used:
+* [Digital I/O Module (NI 9403)](/wiki/ni-9403)
+* [Digital Output (Solenoid) Module (NI 9472)](/wiki/ni-9472)
+* [Analog Input Module (NI 9201)](/wiki/ni-9201)
 
 ## Key features
 
