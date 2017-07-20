@@ -10,12 +10,12 @@ The FIRST Robotics Competition (FRC) adopted the CompactRIO (cRIO) control syste
 
 ##  Programming
 
-Code is cross-compiled on a separate computer then uploaded over the network by the programming environment.
+Code was cross-compiled on a separate computer then uploaded over the network by the programming environment.
 
 
 ###  LabVIEW
 
-The cRIO was programmable from National Instrument's own environment, LabVIEW. A demonstration of how LabVIEW will be used with the FIRST Robotics Competition robots was provided by NI (link not found).
+The cRIO was programmable from National Instrument's own environment, LabVIEW. A demonstration of how LabVIEW was used with the FIRST Robotics Competition robots was provided by NI (link not found).
 
 ###  C++
 
