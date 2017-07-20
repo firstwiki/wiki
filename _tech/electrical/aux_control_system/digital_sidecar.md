@@ -1,13 +1,15 @@
 ---
 title: Digital SideCar
 
-tags: [aux-cs, obsolete-part]
+tags: [aux-cs, control-system, obsolete-part]
 ---
 
 {% include historical %}
 {% include stub %}
 
-The Digital SideCar was used with the cRIO to provide PWM outputs among others. It was introduced in 2009 and decommissioned prior to the 2015 season.
+The [Digital SideCar](https://web.archive.org/web/20170720201529/http://first.wpi.edu/FRC/digitalsidecar.html "https://web.archive.org/web/20170720201529/http://first.wpi.edu/FRC/digitalsidecar.html") was used with the cRIO-FRC and cRIO-FRC II to provide PWM outputs, DIO outputs, among others. It was introduced in 2009 and decommissioned prior to the 2015 season.
+
+
 
 ## Kit of Parts
 

@@ -1,6 +1,6 @@
 ---
 title: cRIO-FRC II
-tags: [robot-controllers, obsolete-part]
+tags: [robot-controllers, control-system, obsolete-part]
 ---
 
 {% include stub %}
@@ -25,5 +25,11 @@ Code is cross-compiled on a separate computer then uploaded over the network by 
 ## Hardware
 
 ## Modules
+The cRIO-FRC II had slots for four interchangeable modules. New modules were supplied each year to teams. The modules by themselves only have a D-Sub connector, so PWM or other wiring connections are made available through a breakout board that either screws into the module (used with the NI 9201 and NI 9472 modules), or a sidecar that is seperate from the module and connected by a cable (used with the NI 9403 module).
+
+There were three modules used:
+* [Digital I/O Module (NI 9403)](/wiki/ni-9403)
+* [Digital Output (Solenoid) Module (NI 9472)](/wiki/ni-9472)
+* [Analog Input Module (NI 9201)](/wiki/ni-9201)
 
 ## Key Features
