@@ -1,5 +1,6 @@
 ---
 title: CMUCam2
+tags: obsolete-part
 ---
 
 {% include historical %}

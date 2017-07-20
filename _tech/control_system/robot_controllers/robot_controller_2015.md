@@ -1,6 +1,4 @@
 ---
-title: Robot Controller (2015)
-tags: robot-controllers
+layout: redirect
+redirect_to: roborio
 ---
-
-{% include stub %}

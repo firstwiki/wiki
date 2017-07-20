@@ -1,6 +1,6 @@
 ---
 title: Fisher Price Motor
-tags: obsoletemotor
+tags: [obsoletemotor, obsolete-part]
 ---
 
 {% include outdated-warning %}

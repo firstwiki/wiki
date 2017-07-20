@@ -1,6 +1,6 @@
 ---
 title: Globe Motor
-tags: obsoletemotor
+tags: [obsoletemotor, obsolete-part]
 ---
 
 {% include outdated-warning %}

@@ -1,5 +1,6 @@
 ---
 title: Victor 883
+tags: obsolete-part
 ---
 
 {% include historical %}

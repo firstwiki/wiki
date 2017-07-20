@@ -1,14 +1,13 @@
 ---
 title: Digital SideCar
 
-tags: aux-cs
+tags: [aux-cs, obsolete-part]
 ---
 
 {% include historical %}
 {% include stub %}
 
-The Digital SideCar was used with the cRIO to provide PWM outputs among others. It was introduced in 2009 and decommissioned prior to 
-the 2015 season.
+The Digital SideCar was used with the cRIO to provide PWM outputs among others. It was introduced in 2009 and decommissioned prior to the 2015 season.
 
 ## Kit of Parts
 

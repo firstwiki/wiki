@@ -1,5 +1,6 @@
 ---
 title: Tekin REBEL
+tags: obsolete-part
 ---
 
 {% include historical %}

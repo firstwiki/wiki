@@ -1,7 +1,7 @@
 ---
 title: Banebots motor (M3-RS395-12)
 
-tags: obsoletemotor
+tags: [obsoletemotor, obsolete part]
 ---
 
 {% include historical %}
