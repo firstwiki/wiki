@@ -8,17 +8,22 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 
 # Kit of Parts Lists
 
+## 2018
+[Virtual Kit Information](https://web.archive.org/web/20171128044414/https://www.firstinspires.org/robotics/frc/kit-of-parts/#VirtualKit)  
+
 ## 2017
 [Gray Tote Checklist](https://web.archive.org/web/20170215150825/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-GrayTote.pdf "https://web.archive.org/web/20170215150825/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-GrayTote.pdf")  
 [Yellow Tote (Rookie) Checklist](https://web.archive.org/web/20170215151008/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-YellowTote.pdf "https://web.archive.org/web/20170215151008/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-YellowTote.pdf")  
 [Separate Items Checklist](https://web.archive.org/web/20170215151817/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-SeparateItems.pdf "https://web.archive.org/web/20170215151817/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-SeparateItems.pdf")  
-[Drive Base Kit Checklist](https://web.archive.org/web/20170215152055/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-DriveBaseKit.pdf "https://web.archive.org/web/20170215152055/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-DriveBaseKit.pdf")
+[Drive Base Kit Checklist](https://web.archive.org/web/20170215152055/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-DriveBaseKit.pdf "https://web.archive.org/web/20170215152055/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-DriveBaseKit.pdf")  
+[Virtual Kit Information](https://web.archive.org/web/20170211214704/http://www.firstinspires.org/resource-library/frc/2017-kit-of-parts#virtualkit)
 
 ## 2016
 [Gray Tote Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-gray-tote.pdf")  
 [Yellow Tote (Rookie) Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-yellow-tote.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-yellow-tote.pdf")  
 [Drive Base Kit Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-drive-base-kit.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-drive-base-kit.pdf")  
-[Separate Items Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-separate-items.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-separate-items.pdf")
+[Separate Items Checklist](https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-separate-items.pdf "https://web.archive.org/save/_embed/https://firstfrc.blob.core.windows.net/frc2016manuals/2016-kickoff-kit-checklist-separate-items.pdf")  
+[Virtual Kit Information](https://web.archive.org/web/20160109204004/http://www.firstinspires.org:80/resource-library/frc/2016-kit-of-parts#virtualkit)
 
 ## 2015
 [Yellow Tote Checklist](https://web.archive.org/web/20150328221255/https://rps01.usfirst.org/frc/manual/2015/VeteranKit.pdf "https://web.archive.org/web/20150328221255/https://rps01.usfirst.org/frc/manual/2015/VeteranKit.pdf")  
@@ -116,15 +121,22 @@ No KOP documents have been found. If you or someone you know has a copy, please 
 
 # First Choice Lists
 
+## 2018
+[Round 1](https://web.archive.org/web/20171128061443/http://www.firstchoicebyandymark.com/everything)
+
 ## 2017
-[Everything](https://archive.fo/LnTcU)
+[Round 1](https://web.archive.org/web/20171128061443/http://www.firstchoicebyandymark.com/everything)  
+[Round 2](https://archive.fo/LnTcU)
 
 ## 2016
-[Unofficial List](https://www.chiefdelphi.com/forums/showpost.php?p=1506403&postcount=52)
+[Unofficial List](https://www.chiefdelphi.com/forums/showpost.php?p=1506403&postcount=52)  
+[Round 1](https://web.archive.org/web/20160101140926/http://www.firstchoicebyandymark.com/everything)  
+[Round 2](https://web.archive.org/web/20160116175902/http://www.firstchoicebyandymark.com/everything)  
 
 ## 2015
 
-[Everything](https://archive.fo/4X4za)
+[Round 1](https://web.archive.org/web/20141128201351/http://www.firstchoicebyandymark.com/everything)  
+[Round 2](https://archive.fo/4X4za)
 
 ## 2014
 
