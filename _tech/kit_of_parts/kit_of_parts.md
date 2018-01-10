@@ -9,7 +9,7 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 # Kit of Parts Lists
 
 ## 2018
-[Virtual Kit Information](https://web.archive.org/web/20171128044414/https://www.firstinspires.org/robotics/frc/kit-of-parts/#VirtualKit)  
+[Virtual Kit Information](https://web.archive.org/web/20180108144941/https://www.firstinspires.org/robotics/frc/kit-of-parts/#VirtualKit)  
 
 ## 2017
 [Gray Tote Checklist](https://web.archive.org/web/20170215150825/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-GrayTote.pdf "https://web.archive.org/web/20170215150825/https://firstfrc.blob.core.windows.net/frc2017/Checklists/2017KOPChecklist-GrayTote.pdf")  
