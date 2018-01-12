@@ -12,4 +12,4 @@ wheels](omni-wheel) dongles, battery plugs, and gearboxes.
 
 ##  External links
 
-  * [AndyMark website](http://www.andymark.biz/ "http://www.andymark.biz/" )
+  * [AndyMark website](http://www.andymark.biz/)

@@ -26,6 +26,6 @@ rack-mount computers. They provided the racks for the field computers in the
 
 ##  External Links
 
-  * [innovationfirst.com](http://www.innovationfirst.com "http://www.innovationfirst.com" )
-  * [ifirobotics.com](http://www.ifirobotics.com/ "http://www.ifirobotics.com/" )
-  * [racksolutions.com](http://www.racksolutions.com/ "http://www.racksolutions.com/" )
+  * [innovationfirst.com](http://www.innovationfirst.com)
+  * [ifirobotics.com](http://www.ifirobotics.com/)
+  * [racksolutions.com](http://www.racksolutions.com/)
