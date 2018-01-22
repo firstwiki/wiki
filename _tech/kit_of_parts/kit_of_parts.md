@@ -9,6 +9,10 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 # Kit of Parts Lists
 
 ## 2018
+[Gray Tote (Rookie) Checklist](https://web.archive.org/web/20180111073240/https://firstfrc.blob.core.windows.net/frc2018/KOPChecklists/2018KOPChecklist-GrayTote.pdf)  
+[Black Tote Checklist](https://web.archive.org/web/20180119154453/https://firstfrc.blob.core.windows.net/frc2018/KOPChecklists/2018KOPChecklist-BlackTote.pdf)  
+[Separate Items Checklist](https://web.archive.org/web/20180119154457/https://firstfrc.blob.core.windows.net/frc2018/KOPChecklists/2018KOPChecklist-SeparateItems.pdf)  
+[Drive Base Kit Checklist](https://web.archive.org/web/20180119154453/https://firstfrc.blob.core.windows.net/frc2018/KOPChecklists/2018KOPChecklist-DriveBaseKit.pdf) 
 [Virtual Kit Information](https://web.archive.org/web/20180108144941/https://www.firstinspires.org/robotics/frc/kit-of-parts/#VirtualKit)  
 
 ## 2017
@@ -122,7 +126,8 @@ No KOP documents have been found. If you or someone you know has a copy, please 
 # First Choice Lists
 
 ## 2018
-[Round 1](https://web.archive.org/web/20171128061443/http://www.firstchoicebyandymark.com/everything)
+[Round 1](https://web.archive.org/web/20171128061443/http://www.firstchoicebyandymark.com/everything)  
+[Round 2](https://web.archive.org/web/20180111073237/http://firstchoicebyandymark.com/everything)
 
 ## 2017
 [Round 1](https://web.archive.org/web/20171128061443/http://www.firstchoicebyandymark.com/everything)  
