@@ -42,5 +42,5 @@ Unofficial implementations:
 * [C#](https://github.com/robotdotnet/NetworkTables)
 * [Node.js](https://github.com/erikuhlmann/ntcore_node)
 * [Python](https://github.com/robotpy/pynetworktables)
-* [Python + Javascript](https://github.com/robotpy/pynetworktables2js)
+* [Python + JavaScript](https://github.com/robotpy/pynetworktables2js)
 
